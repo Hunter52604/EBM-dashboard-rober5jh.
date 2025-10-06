@@ -1,0 +1,36 @@
+# Success criteria — SMART framework
+
+## Primary success metrics
+
+**Employee engagement (primary)**
+- Target: +4 percentage points increase in survey scores for program teams
+- Method: 5-question team survey at Week 6
+- Evidence basis: similar interventions achieve 3-7 point improvements with 2 hours/week manager investment
+
+**Voluntary turnover (impact if scaled)**
+- Target: 10% reduction in annualized turnover
+- Method: 12-month continued rate from the companies HR databases
+- Evidence basis: meta-analyses of other organizations show 5-15% reductions from development programs
+
+**Productivity (team-level)** — [ACHIEVABLE]
+- Target: +3% output or −5% task cycle time for program teams
+- Method: team KPIs (specific to each company) or service metrics (response time, customer satisfaction)
+- Timeline: Week 0 survey scores and KPI data vs. Week 6
+
+## Secondary indicators — [MEASURABLE & RELEVANT]
+- Manager usefulness rating ≥7/10 in program debrief
+- Survey response rate ≥60% in program teams
+- Increase in peer recognition nominations per month
+
+## Leading indicators (early telltale signs) — [RELEVANT]
+- Positive: higher participation in improvement activities within first 2 weeks
+- Red flags: falling survey response rates, negative feedback comments, manager reports of >2 hours burden
+
+## Timeline for results — [TIME-BOUND]
+- **0-6 weeks:** implement program, collect Week 0 survey scores, turnover rates, and team KPI data
+- **6-8 weeks:** analyze results and create decision brief
+- **3-6 months:** scale decision based on engagement scores, productivity data, and manager ratings
+- **12 months:** evaluate sustained turnover effects if scaled
+
+## Success decision rule — [ACHIEVABLE & RELEVANT]
+Recommend scaling if: if engagement improves +4 points OR productivity improves +3%, AND managers rate program ≥7/10 usefulness, and no red flags detected.

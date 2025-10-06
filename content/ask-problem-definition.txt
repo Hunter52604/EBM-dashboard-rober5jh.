@@ -1,0 +1,88 @@
+Ask-Problem-Definition
+
+## The Management Problem
+How to increase employee engagement scores from 62% to 70% and reduce voluntary turnover from 18% to 13% when salary budgets are frozen through Q2 2026:
+
+**Specific constraints:**
+• Zero salary increase budget for 12-month period (Jan-Dec 2026)
+• Bonus pool reduced by 40% compared to 2024 levels
+• Promotion budget allows <5% of workforce advancement
+• Must achieve results within existing operational budget ($2,000/manager maximum)
+
+## Research Context and Evidence Base
+• Gallup Q12 2024: Organizations in top quartile for engagement show 18% higher productivity and 12% better customer metrics
+• Meta-analysis (Saks, 2023): Recognition programs increase engagement by 5-15 percentage points within 6 months
+• SHRM Total Rewards 2024: 73% of highly engaged employees receive weekly recognition vs. 23% of disengaged
+• Society for Human Resource Management: Average cost per voluntary departure ranges $15,000-$75,000 depending on role level
+
+## Current Situation (X) → Desired Outcomes (Y)
+
+**Current State:**
+• Employee engagement: 62% (company survey, Q4 2024)
+• Voluntary turnover: 18% annualized (HR records, Jan-Oct 2025)
+• Manager confidence in motivation tools: 4.2/10 (leadership survey, Sept 2025)
+• Recognition frequency: 23% of employees receive feedback weekly
+• Performance exceeds expectations: 31% of workforce
+• Budget available for motivation programs: $50 per employee annually
+
+**Desired State (12-month targets):**
+• Employee engagement: 70% (+8 percentage points)
+• Voluntary turnover: 13% (-5 percentage points)
+• Manager confidence: 7.5/10 (+3.3 points)
+• Weekly recognition: 65% of employees (+42 percentage points)
+• Performance exceeds expectations: 45% (+14 percentage points)
+• System sustainability: <2 hours per week of managers time
+
+## PICOC Framework
+
+**Population:**
+• Individual contributors: 2-7 years experience, professional roles
+• Team leads and supervisors: 15-25 reports from top management
+• Organizations: 100-500 employees, service industries
+• Geographic focus: North American mid-market companies
+• Timeline: Implementation Jan-Jun 2026, measurement through Dec 2026
+
+**Intervention:**
+• Peer recognition system: digital platform + monthly nomination process
+• Manager training: 4-hour workshop + monthly coaching sessions
+• Autonomy expansion: flexible scheduling + decision-making authority
+• Growth opportunities: cross-functional projects + skill certifications
+• Implementation timeline: 6-week implementation with 90-day evaluation times
+
+**Comparison:**
+• Current state: continue current practices
+• Outsourced programs: consultant-led culture change
+• Internal capability building: systematic manager development approach
+
+**Outcomes:**
+• Primary: engagement score 62% → 70%, turnover 18% → 13%
+• Secondary: manager confidence 4.2 → 7.5/10, weekly recognition 23% → 65%
+• Timeline: measurable improvements within 90 days, full results by 12 months
+• ROI target: positive return within 18 months based on reduced turnover costs
+
+**Context:**
+• Mid-market organizations with salary freeze constraints
+• Service industries: professional services, healthcare, technology
+• Leadership commitment required: 2 hours/week per manager
+
+## Business Case and Impact Analysis
+
+**Financial Impact:**
+• Current turnover cost: 18% × 300 employees × $25,000 average = $1.35M annually
+• Target turnover cost: 13% × 300 employees × $25,000 = $975,000 annually
+• Potential savings: $375,000 in first year, $750,000 over two years
+• Program investment: $15,000 (training) + $15,000 (platform) = $30,000 total
+• ROI target: 12:1 return within 24 months
+
+**Strategic Risk:**
+• Gallup 2024: Organizations with low engagement show 37% higher absenteeism
+• PWC Future of Work 2025: 89% of employees consider leaving when recognition is inadequate
+• LinkedIn Workforce Report: Companies lose 23% more high performers during salary freeze periods
+• Competitive disadvantage: 73% of top talent prioritize growth opportunities over base salary (McKinsey, 2024)
+
+**Implementation Success Factors:**
+• Leadership commitment: CEO and VP-level sponsorship required
+• Manager capability: baseline 4.2/10 confidence must reach 7.5/10 within 6 months
+• System adoption: 65% employee participation target within 90 days
+• Measurement discipline: monthly surveys + quarterly comprehensive assessment
+• Budget sustainability: program must operate within $50/employee/year constraint
