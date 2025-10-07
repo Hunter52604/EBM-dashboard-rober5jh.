@@ -1,0 +1,46 @@
+Stakeholder Analysis — Influence / Interest mapping
+
+Purpose
+Identify who is affected by the problem and who can influence solutions. This mapping prioritizes engagement, clarifies trade-offs, and produces actionable next steps for pilots and governance.
+
+Primary stakeholders (high influence, high interest)
+- Clinicians / Practitioners: Frontline users who will adopt, adapt, or resist any dashboard-driven change. Their priorities are clinical validity, time efficiency, and minimizing cognitive load.
+- Managers / Administrators: Decision-makers controlling budgets, resourcing, deployment timelines and success metrics; focused on operational efficiency, compliance, and measurable ROI.
+
+Secondary stakeholders (varying influence / interest)
+- Patients / Service users (high interest, variable influence): Seek transparency, improved outcomes, and clarity about data use; influence increases through advocacy or complaints.
+- Researchers / Evidence producers (medium influence, high interest): Provide validation, analytic support, and interpretation; motivated by data quality and reproducibility.
+- Policy makers / Funders (high influence, lower day-to-day interest): Concerned with regulatory compliance, equity, and cost-effectiveness; can enable or constrain scaling.
+- Community / Advocacy groups (medium influence, medium interest): Represent equity and access concerns; useful partners for outreach and trust-building.
+
+Stakeholder concerns and motivations
+- Trust and accuracy: Clinicians and patients demand transparent metrics and validation (e.g., pilot N=50 patients, performance thresholds specified).
+- Workflow impact: Practitioners worry about added tasks—acceptable change must save ≥10 minutes per case or demonstrably improve outcomes.
+- Privacy & governance: Patients and funders require explicit consent models and documented data controls.
+- Value: Managers need KPIs and timelines (example target: 10% reduction in alert-related delays within a 12-week pilot).
+
+Potential conflicts and alignment opportunities
+- Conflict: Manager-imposed performance targets may be perceived as punitive by clinicians; mitigate via co-designed metrics and opt-in pilot features.
+- Alignment: Clinicians and researchers share validation goals—run concurrent validation and usability testing to build evidence and adoption momentum.
+- Opportunity: Early engagement with patient advocates can shape communication, consent defaults, and reduce rollout friction.
+
+Actionable next step
+Select 2 clinician champions and 1 patient representative to run a 12-week pilot (start date: TBD), define 3 KPIs (accuracy, time saved, user satisfaction), and document governance and consent procedures before scaling.
+
+Quality Standards — Professional content requirements
+- Specific: include actual numbers, dates and measurable criteria (example: pilot: 6-week run from 2025-11-01 to 2025-12-13; success target: reduce average email response time from 72h to <=48h).
+- Evidence-based: support claims with reasoning, links to `content/evidence-*` notes, or short citations (e.g., survey n=84, mean satisfaction 3.1/5).
+- Organized: use headings, short paragraphs, and bullet lists for quick managerial review.
+- Actionable: each recommendation should include an owner, timeline, and measurable target (who / by when / KPI).
+
+Avoid These Common Mistakes
+- Vague goals: avoid statements like “improve employee satisfaction” — instead state target and measure (e.g., increase Net Promoter Score from 12 to 30 within 6 months).
+- Blind copying: don’t paste template text without contextual numbers or dates specific to the organisation.
+- Missing constraints: include real-world limits (staff capacity, budget, legal/regulatory deadlines).
+
+Getting Started Tips
+- Choose a real problem you can observe or measure within 2–4 weeks (example: "email response time >48 hours causes 3-week project delays").
+- Start with Problem Definition: finalize this file first — it should state the issue, impact, baseline metrics, and a target outcome.
+- Be Specific and Manager-Focused: include the decision the manager needs to make, the options, estimated costs, and expected KPIs so they can act.
+
+(Replace example numbers and dates above with your project-specific data and evidence links.)
