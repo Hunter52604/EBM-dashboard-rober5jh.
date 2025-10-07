@@ -1,43 +1,29 @@
-Stakeholder analysis (tailored to the Ask problem definition)
+
+Stakeholder analysis — focused
 
 Purpose
-Identify who must be engaged to lift engagement from 62%→70% and cut voluntary turnover 18%→13% within the salary-freeze constraints (Jan–Dec 2026). Priorities: feasible pilots within $50/employee and measurable KPIs.
+Who must be involved to raise engagement from 62% to 70% and cut voluntary turnover from 18% to 13% during a salary freeze. Keep solutions low-cost (≤ $50/employee/year) and low‑time for managers (≤2 hours/week).
 
-Primary stakeholders (high influence, high interest)
-- Senior leadership / Sponsors (CEO, VPs): Authorize budgets, set targets (ROI, timelines), and enable cross-functional alignment. Their support is required to fund a $30k program and accept a 6–12 week pilot window.
-- Managers / Team leads: Day-to-day implementers responsible for weekly recognition, manager training uptake, and keeping manager time ≤2 hours/week. They directly influence engagement and turnover outcomes.
+Primary stakeholders
+- Senior leaders (CEO, VP People): approve the program and budgets; want clear ROI and lower turnover costs (the business could save ~$375k in year one if turnover drops as planned).
+- Managers / team leads: run recognition, take the 4‑hour training, and coach their teams. Their buy‑in is essential; targets include manager confidence rising from 4.2 to ~7.5.
 
-Secondary stakeholders (varying influence / interest)
-- Individual contributors (employees): High interest; their participation (target 65% weekly recognition) drives engagement scores and turnover outcomes.
-- HR and People Ops: Design measurement (monthly pulse), run surveys, track turnover (baseline 18% on 300 employees) and calculate ROI from savings (~$375k annual potential).
-- Training vendors / Platform providers: Provide manager workshops and peer-recognition tooling within the $50/employee/year cap.
+Secondary stakeholders
+- Employees: want frequent, fair recognition and growth; high participation drives engagement gains.
+- HR / People Ops: run surveys, track turnover and ROI, and manage vendors inside the budget cap.
+- Vendors (platforms/training): must deliver tools and workshops that fit the $50/person limit.
 
-Stakeholder concerns & motivations
-- Managers: need low-friction interventions that demonstrably save time and improve team performance (target: manager confidence 4.2→7.5/10).
-- Employees: seek frequent recognition and growth; willingness to engage depends on perceived fairness and time cost.
-- HR/Finance: require measurable ROI (target: positive return within 18 months) and adherence to the frozen-salary constraint.
+Key evidence points
+- A large review looked at 182 studies (109,628 doctors) and found many reported high burnout — this shows workload and recognition matter.
+- A meta-analysis of interventions across many studies found small improvements in burnout, with organization-level changes working better than individual-only fixes.
+- In one survey, about 82% of wearable users said they would share data with their providers, showing people often accept data sharing when trusted channels exist.
+- Other surveys show roughly half of people are willing to share some health data (like prescription history) but many have strong privacy concerns — so clear consent and communication are needed.
 
-Potential conflicts & alignment opportunities
-- Conflict: Managers pressured to hit KPIs may push recognition as checkbox; mitigate with co-designed recognition criteria and manager coaching.
-- Alignment: HR and managers both benefit from reduced turnover costs (using $25k per hire baseline) — use this shared value to prioritize pilot resources.
+Conflicts and opportunities
+- Risk: Managers could see recognition as extra work or a checkbox; avoid this by co-creating meaningful recognition rules.
+- Opportunity: HR and managers both save money if turnover falls—use that shared goal to get quick pilot funding and support.
 
-Actionable next steps
-1) Convene sponsor + HR + two manager champions by 2025-11-01. 2) Run a 12-week pilot Jan–Mar 2026 with n≈300 (or representative teams), measuring engagement, turnover intent, weekly recognition rate, and manager time. 3) Decision gate on April 2026 to scale if engagement improves ≥4 points and weekly recognition ≥50%.
-
-Quality Standards — Professional content requirements
-- Specific: include actual numbers, dates and measurable criteria (example: pilot: 6-week run from 2025-11-01 to 2025-12-13; success target: reduce average email response time from 72h to <=48h).
-- Evidence-based: support claims with reasoning, links to `content/evidence-*` notes, or short citations (e.g., survey n=84, mean satisfaction 3.1/5).
-- Organized: use headings, short paragraphs, and bullet lists for quick managerial review.
-- Actionable: each recommendation should include an owner, timeline, and measurable target (who / by when / KPI).
-
-Avoid These Common Mistakes
-- Vague goals: avoid statements like “improve employee satisfaction” — instead state target and measure (e.g., increase Net Promoter Score from 12 to 30 within 6 months).
-- Blind copying: don’t paste template text without contextual numbers or dates specific to the organisation.
-- Missing constraints: include real-world limits (staff capacity, budget, legal/regulatory deadlines).
-
-Getting Started Tips
-- Choose a real problem you can observe or measure within 2–4 weeks (example: "email response time >48 hours causes 3-week project delays").
-- Start with Problem Definition: finalize this file first — it should state the issue, impact, baseline metrics, and a target outcome.
-- Be Specific and Manager-Focused: include the decision the manager needs to make, the options, estimated costs, and expected KPIs so they can act.
-
-(Replace example numbers and dates above with your project-specific data and evidence links.)
+Next steps (practical)
+1) Get sponsor + HR + 2 manager champions by 2025‑11‑01.
+2) Run a 12‑week pilot Jan–Mar 2026 with representative teams, measuring engagement, weekly recognition rate, manager time, and intent to stay.
+3) Decide in April 2026 to scale if engagement rises ≥4 points and weekly recognition ≥50%.
