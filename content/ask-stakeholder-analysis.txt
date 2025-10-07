@@ -1,31 +1,28 @@
-Stakeholder Analysis — Influence / Interest mapping
+Stakeholder analysis (tailored to the Ask problem definition)
 
 Purpose
-Identify who is affected by the problem and who can influence solutions. This mapping prioritizes engagement, clarifies trade-offs, and produces actionable next steps for pilots and governance.
+Identify who must be engaged to lift engagement from 62%→70% and cut voluntary turnover 18%→13% within the salary-freeze constraints (Jan–Dec 2026). Priorities: feasible pilots within $50/employee and measurable KPIs.
 
 Primary stakeholders (high influence, high interest)
-- Clinicians / Practitioners: Frontline users who will adopt, adapt, or resist any dashboard-driven change. Their priorities are clinical validity, time efficiency, and minimizing cognitive load.
-- Managers / Administrators: Decision-makers controlling budgets, resourcing, deployment timelines and success metrics; focused on operational efficiency, compliance, and measurable ROI.
+- Senior leadership / Sponsors (CEO, VPs): Authorize budgets, set targets (ROI, timelines), and enable cross-functional alignment. Their support is required to fund a $30k program and accept a 6–12 week pilot window.
+- Managers / Team leads: Day-to-day implementers responsible for weekly recognition, manager training uptake, and keeping manager time ≤2 hours/week. They directly influence engagement and turnover outcomes.
 
 Secondary stakeholders (varying influence / interest)
-- Patients / Service users (high interest, variable influence): Seek transparency, improved outcomes, and clarity about data use; influence increases through advocacy or complaints.
-- Researchers / Evidence producers (medium influence, high interest): Provide validation, analytic support, and interpretation; motivated by data quality and reproducibility.
-- Policy makers / Funders (high influence, lower day-to-day interest): Concerned with regulatory compliance, equity, and cost-effectiveness; can enable or constrain scaling.
-- Community / Advocacy groups (medium influence, medium interest): Represent equity and access concerns; useful partners for outreach and trust-building.
+- Individual contributors (employees): High interest; their participation (target 65% weekly recognition) drives engagement scores and turnover outcomes.
+- HR and People Ops: Design measurement (monthly pulse), run surveys, track turnover (baseline 18% on 300 employees) and calculate ROI from savings (~$375k annual potential).
+- Training vendors / Platform providers: Provide manager workshops and peer-recognition tooling within the $50/employee/year cap.
 
-Stakeholder concerns and motivations
-- Trust and accuracy: Clinicians and patients demand transparent metrics and validation (e.g., pilot N=50 patients, performance thresholds specified).
-- Workflow impact: Practitioners worry about added tasks—acceptable change must save ≥10 minutes per case or demonstrably improve outcomes.
-- Privacy & governance: Patients and funders require explicit consent models and documented data controls.
-- Value: Managers need KPIs and timelines (example target: 10% reduction in alert-related delays within a 12-week pilot).
+Stakeholder concerns & motivations
+- Managers: need low-friction interventions that demonstrably save time and improve team performance (target: manager confidence 4.2→7.5/10).
+- Employees: seek frequent recognition and growth; willingness to engage depends on perceived fairness and time cost.
+- HR/Finance: require measurable ROI (target: positive return within 18 months) and adherence to the frozen-salary constraint.
 
-Potential conflicts and alignment opportunities
-- Conflict: Manager-imposed performance targets may be perceived as punitive by clinicians; mitigate via co-designed metrics and opt-in pilot features.
-- Alignment: Clinicians and researchers share validation goals—run concurrent validation and usability testing to build evidence and adoption momentum.
-- Opportunity: Early engagement with patient advocates can shape communication, consent defaults, and reduce rollout friction.
+Potential conflicts & alignment opportunities
+- Conflict: Managers pressured to hit KPIs may push recognition as checkbox; mitigate with co-designed recognition criteria and manager coaching.
+- Alignment: HR and managers both benefit from reduced turnover costs (using $25k per hire baseline) — use this shared value to prioritize pilot resources.
 
-Actionable next step
-Select 2 clinician champions and 1 patient representative to run a 12-week pilot (start date: TBD), define 3 KPIs (accuracy, time saved, user satisfaction), and document governance and consent procedures before scaling.
+Actionable next steps
+1) Convene sponsor + HR + two manager champions by 2025-11-01. 2) Run a 12-week pilot Jan–Mar 2026 with n≈300 (or representative teams), measuring engagement, turnover intent, weekly recognition rate, and manager time. 3) Decision gate on April 2026 to scale if engagement improves ≥4 points and weekly recognition ≥50%.
 
 Quality Standards — Professional content requirements
 - Specific: include actual numbers, dates and measurable criteria (example: pilot: 6-week run from 2025-11-01 to 2025-12-13; success target: reduce average email response time from 72h to <=48h).
