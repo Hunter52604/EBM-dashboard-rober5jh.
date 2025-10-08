@@ -21,13 +21,6 @@ How to increase employee engagement scores from 62% to 70% and reduce voluntary 
 • Manager confidence in motivation tools: 4.2/10 (leadership survey, Sept 2025)
 • Recognition frequency: 23% of employees receive feedback weekly
 
-**Estimated current financial impact (2024 industry-average basis):**
-• Company size used for estimate: 300 employees
-• Estimated departures per year (current): 18% × 300 = 54 departures
-• Industry-average cost per departure (midpoint 2024 SHRM range): $45,000
-• Estimated annual cost from current turnover: 54 × $45,000 = $2,430,000
-• Estimated cost per employee per year: $2,430,000 / 300 = $8,100
-
 **Desired State (12-month targets):**
 • Employee engagement: 70% (+8 percentage points)
 • Voluntary turnover: 13% (-5 percentage points)
@@ -72,7 +65,7 @@ How to increase employee engagement scores from 62% to 70% and reduce voluntary 
 ## Business Case and Impact Analysis
 
 **Financial Impact (using 2024 industry average):**
-• Source: SHRM (industry guidance) reports a range of ~$15,000–$75,000 cost per voluntary departure depending on role level (2024). 
+• Source: SHRM (industry guidance) reports a range of ~$15,000–$75,000 cost per voluntary departure depending on role level (2024).
   Use this as the baseline if company-specific replacement-cost data aren't available.
 • Current turnover cost: 18% × 300 employees = 54 departures × $45,000 = $2,430,000 annually
 • Target turnover cost: 13% × 300 employees = 39 departures × $45,000 = $1,755,000 annually
@@ -90,4 +83,3 @@ How to increase employee engagement scores from 62% to 70% and reduce voluntary 
 • Baseline 4.2/10 confidence must reach 7.5/10 within 6 months
 • 65% employee participation target within 90 days
 • monthly surveys + quarterly comprehensive assessment
-
