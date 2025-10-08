@@ -5,9 +5,7 @@ How to increase employee engagement scores from 62% to 70% and reduce voluntary 
 
 **Specific constraints:**
 • Zero salary increase budget for 12-month period (Jan-Dec 2026)
-• Bonus pool reduced by 40% compared to 2024 levels
-• Promotion budget allows <5% of workforce advancement
-• Must achieve results within existing operational budget ($2,000/manager maximum)
+• Must achieve results within existing operational budget ($2,000 per manager max)
 
 ## Research Context and Evidence Base
 • Gallup Q12 2024: Organizations in top quartile for engagement show 18% higher productivity and 12% better customer metrics
@@ -17,13 +15,18 @@ How to increase employee engagement scores from 62% to 70% and reduce voluntary 
 
 ## Current Situation (X) → Desired Outcomes (Y)
 
-**Current State:**
+**Current State(example average based on research context):**
 • Employee engagement: 62% (company survey, Q4 2024)
 • Voluntary turnover: 18% annualized (HR records, Jan-Oct 2025)
 • Manager confidence in motivation tools: 4.2/10 (leadership survey, Sept 2025)
 • Recognition frequency: 23% of employees receive feedback weekly
-• Performance exceeds expectations: 31% of workforce
-• Budget available for motivation programs: $50 per employee annually
+
+**Estimated current financial impact (2024 industry-average basis):**
+• Company size used for estimate: 300 employees
+• Estimated departures per year (current): 18% × 300 = 54 departures
+• Industry-average cost per departure (midpoint 2024 SHRM range): $45,000
+• Estimated annual cost from current turnover: 54 × $45,000 = $2,430,000
+• Estimated cost per employee per year: $2,430,000 / 300 = $8,100
 
 **Desired State (12-month targets):**
 • Employee engagement: 70% (+8 percentage points)
@@ -36,8 +39,8 @@ How to increase employee engagement scores from 62% to 70% and reduce voluntary 
 ## PICOC Framework
 
 **Population:**
-• Individual contributors: 2-7 years experience, professional roles
-• Team leads and supervisors: 15-25 reports from top management
+• Individual contributors: 2-7 years of experience in organization, professional roles
+• Team leads and supervisors: 15-25 reports from top manager roles
 • Organizations: 100-500 employees, service industries
 • Geographic focus: North American mid-market companies
 • Timeline: Implementation Jan-Jun 2026, measurement through Dec 2026
@@ -62,17 +65,19 @@ How to increase employee engagement scores from 62% to 70% and reduce voluntary 
 
 **Context:**
 • Mid-market organizations with salary freeze constraints
+• Mid-Market organizations struggling with motivating their employees
 • Service industries: professional services, healthcare, technology
 • Leadership commitment required: 2 hours/week per manager
 
 ## Business Case and Impact Analysis
 
-**Financial Impact:**
-• Current turnover cost: 18% × 300 employees × $25,000 average = $1.35M annually
-• Target turnover cost: 13% × 300 employees × $25,000 = $975,000 annually
-• Potential savings: $375,000 in first year, $750,000 over two years
-• Program investment: $15,000 (training) + $15,000 (platform) = $30,000 total
-• ROI target: 12:1 return within 24 months
+**Financial Impact (using 2024 industry average):**
+• Source: SHRM (industry guidance) reports a range of ~$15,000–$75,000 cost per voluntary departure depending on role level (2024). 
+  Use this as the baseline if company-specific replacement-cost data aren't available.
+• Current turnover cost: 18% × 300 employees = 54 departures × $45,000 = $2,430,000 annually
+• Target turnover cost: 13% × 300 employees = 39 departures × $45,000 = $1,755,000 annually
+• Estimated first-year savings (difference): $2,430,000 − $1,755,000 = $675,000
+• Estimated two-year savings (straight line): $675,000 × 2 = $1,350,000
 
 **Strategic Risk:**
 • Gallup 2024: Organizations with low engagement show 37% higher absenteeism
@@ -80,9 +85,9 @@ How to increase employee engagement scores from 62% to 70% and reduce voluntary 
 • LinkedIn Workforce Report: Companies lose 23% more high performers during salary freeze periods
 • Competitive disadvantage: 73% of top talent prioritize growth opportunities over base salary (McKinsey, 2024)
 
-**Implementation Success Factors:**
-• Leadership commitment: CEO and VP-level sponsorship required
-• Manager capability: baseline 4.2/10 confidence must reach 7.5/10 within 6 months
-• System adoption: 65% employee participation target within 90 days
-• Measurement discipline: monthly surveys + quarterly comprehensive assessment
-• Budget sustainability: program must operate within $50/employee/year constraint
+**Implementation Success Factor indicators:**
+• High management level sponsorship required
+• Baseline 4.2/10 confidence must reach 7.5/10 within 6 months
+• 65% employee participation target within 90 days
+• monthly surveys + quarterly comprehensive assessment
+
