@@ -19,13 +19,19 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Prepare site folder
+        run: |
+          # Copy only the files we want to publish into a temporary folder
+          mkdir -p site
+          cp -R index.html content content-loader.js README.md site/ || true
+
       - name: Configure Pages
         uses: actions/configure-pages@v3
 
       - name: Upload site contents
         uses: actions/upload-pages-artifact@v1
         with:
-          path: '.'
+          path: 'site'
 
       - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v1
