@@ -1,7 +1,7 @@
 Ask-Problem-Definition
 
 ## The Management Problem
-How to increase employee engagement scores from 62% to 70% and reduce voluntary turnover from 18% to 13% when salary budgets are frozen through Q2 2026:
+How to increase employee engagement scores from 62% to 70% and reduce voluntary turnover from 18% to 13% without monetary benefits.
 
 **Specific constraints:**
 • Zero salary increase budget for 12-month period (Jan-Dec 2026)
