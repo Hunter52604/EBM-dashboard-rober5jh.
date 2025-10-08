@@ -1,5 +1,5 @@
 
-Stakeholder analysis — focused
+Stakeholder analysis
 
 Purpose
 Who must be involved to raise engagement from 62% to 70% without monetary benefits
@@ -16,18 +16,18 @@ Secondary stakeholders
 - Vendors (platforms/training): must deliver tools and workshops that help facilitate our program
 
 Key evidence points
-- Rotenstein et al., JAMA 2018 ("Prevalence of Burnout Among Physicians"): review of 182 studies (n ≈ 109,628 physicians) reporting high and variable
+- Rotenstien ,JAMA 2018 ("Prevalence of Burnout Among Physicians"): review of 182 studies (109,628 physicians) reporting high and variable
  burnout measures, highlighting workload and recognition as important factors.
-- Panagioti et al., JAMA Intern Med 2017 ("Controlled Interventions to Reduce Burnout in Physicians"): meta-analysis of 20 comparisons (n ≈ 1,550)
+- Panagioti , JAMA Intern Med 2017 ("Controlled Interventions to Reduce Burnout in Physicians"): meta-analysis of 20 comparisons (1,550)
  showing small overall reductions in burnout; organization-directed interventions showed larger effects than individual-only approaches.
-- Rising et al., JMIR mHealth uHealth 2021 (analysis of 2019 HINTS wearable data): in a sample of wearable users (≈1,300), 82% said they would share
+- JMIR mHealth uHealth 2021 (analysis of 2019 HINTS wearable data): in a sample of wearable users (1,300), 82% said they would share
  wearable data with their providers, indicating willingness to share through trusted channels.
 
 Conflicts and opportunities
 - Risk: Managers could see recognition as extra work or a checkbox; avoid this by co-creating meaningful recognition rules.
-- Opportunity: HR and managers both save money if turnover falls—use that shared goal to get quick pilot funding and support.
+- Opportunity: HR and managers both save money if turnover falls—use that shared goal to get potential raises/company flourish.
 
-Next steps (practical)
+ Potential Next steps
 1) Get sponsor + HR + 2 manager leaders by 2025‑11‑01.
 2) Run a 12‑week pilot Jan–Mar 2026 with representative teams, measuring engagement, weekly recognition rate, manager time, and intent to stay.
 3) Decide in April 2026 to scale if engagement rises ≥4 points and weekly recognition ≥50%.

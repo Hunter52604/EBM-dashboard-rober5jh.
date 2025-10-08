@@ -1,6 +1,6 @@
-# Success criteria — SMART framework
+# What does success look like? — SMART framework
 
-## Primary success metrics
+## How do we know we are doing good?
 
 **Employee engagement (primary)**
 - Target: +4 percentage points increase in survey scores for program teams
@@ -30,7 +30,7 @@
 - **0-6 weeks:** implement program, collect Week 0 survey scores, turnover rates, and team KPI data
 - **6-8 weeks:** analyze results and create decision brief
 - **3-6 months:** scale decision based on engagement scores, productivity data, and manager ratings
-- **12 months:** evaluate sustained turnover effects if scaled
+- **12 months:** evaluate sustained turnover effects if scaled, compare end of month 12 survery scores with week 0
 
-## Success decision rule — [ACHIEVABLE & RELEVANT]
-Recommend scaling if: if engagement improves +4 points OR productivity improves +3%, AND managers rate program ≥7/10 usefulness, and no red flags detected.
+## Success decision rule
+ scaling if: if engagement improves +4 points OR productivity improves +3%, AND managers rate program ≥7/10 usefulness, and no red flags detected.
