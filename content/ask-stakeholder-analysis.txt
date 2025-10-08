@@ -5,8 +5,10 @@ Purpose
 Who must be involved to raise engagement from 62% to 70% without monetary benefits
 
 Primary stakeholders
-- Senior leaders (CEO, VP People): approve the program and budgets; want clear ROI and lower turnover costs (the business could save ~$375k in year one if turnover drops as planned).
-- Managers / team leads: run recognition, take the training sessions, and coach their teams. Their buy‑in is a must ; targets include manager confidence rising from 4.2 to ~7.5.
+- Senior leaders (CEO, VP People): approve the program and budgets; want clear ROI and lower turnover costs (the business could save ~$375k in year one
+if turnover drops as planned).
+- Managers / team leads: run recognition, take the training sessions, and coach their teams. Their buy‑in is a must ; targets include manager confidence
+rising from 4.2 to ~7.5.
 
 Secondary stakeholders
 - Employees: want frequent, fair recognition and growth; high participation drives engagement gains.
@@ -14,10 +16,12 @@ Secondary stakeholders
 - Vendors (platforms/training): must deliver tools and workshops that help facilitate our program
 
 Key evidence points
-- Rotenstein et al., JAMA 2018 ("Prevalence of Burnout Among Physicians"): review of 182 studies (n ≈ 109,628 physicians) reporting high and variable burnout measures, highlighting workload and recognition as important factors.
-- Panagioti et al., JAMA Intern Med 2017 ("Controlled Interventions to Reduce Burnout in Physicians"): meta-analysis of 20 comparisons (n ≈ 1,550) showing small overall reductions in burnout; organization-directed interventions
-  showed larger effects than individual-only approaches.
-- Rising et al., JMIR mHealth uHealth 2021 (analysis of 2019 HINTS wearable data): in a sample of wearable users (≈1,300), 82% said they would share wearable data with their providers, indicating willingness to share through trusted channels.
+- Rotenstein et al., JAMA 2018 ("Prevalence of Burnout Among Physicians"): review of 182 studies (n ≈ 109,628 physicians) reporting high and variable
+ burnout measures, highlighting workload and recognition as important factors.
+- Panagioti et al., JAMA Intern Med 2017 ("Controlled Interventions to Reduce Burnout in Physicians"): meta-analysis of 20 comparisons (n ≈ 1,550)
+ showing small overall reductions in burnout; organization-directed interventions showed larger effects than individual-only approaches.
+- Rising et al., JMIR mHealth uHealth 2021 (analysis of 2019 HINTS wearable data): in a sample of wearable users (≈1,300), 82% said they would share
+ wearable data with their providers, indicating willingness to share through trusted channels.
 
 Conflicts and opportunities
 - Risk: Managers could see recognition as extra work or a checkbox; avoid this by co-creating meaningful recognition rules.
