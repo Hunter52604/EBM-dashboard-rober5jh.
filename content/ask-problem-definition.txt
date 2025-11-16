@@ -1,11 +1,45 @@
 Ask-Problem-Definition
 
-## The Management Problem
-How to increase employee engagement scores from 62% to 70% and reduce voluntary turnover from 18% to 13% without monetary benefits.
+═══════════════════════════════════════════════════════════════════════════════
+                    WHAT: The Problem with ZERO Salary Budget
+═══════════════════════════════════════════════════════════════════════════════
 
-**Specific constraints:**
+## Core Problem Statement (Constraint-First Framing)
+
+"How can we improve employee engagement from 62% to 70% and reduce turnover from 18%
+to 13% with ZERO salary budget—no raises, no bonuses, no monetary incentives?"
+
+**Critical Constraints:**
 • Zero salary increase budget for 12-month period (Jan-Dec 2026)
 • Must achieve results within existing operational budget ($2,000 per manager max)
+• No bonuses, no monetary rewards, no compensation increases of any kind
+
+This constraint-first framing sets realistic expectations and establishes the problem
+difficulty upfront—solutions must rely entirely on non-monetary interventions.
+
+## Four-Component Non-Monetary Intervention Strategy
+
+Despite financial limitations, comprehensive engagement strategy addresses multiple drivers:
+
+1. 🏆 RECOGNITION SYSTEM
+   • Peer nomination platform + monthly awards
+   • Digital recognition feed visible company-wide
+   • Manager-led appreciation rituals
+
+2. 📚 MANAGER TRAINING
+   • 4-hour workshop on motivation and coaching
+   • Monthly coaching sessions (capability building)
+   • Templates and tools provided by HR
+
+3. 🎯 AUTONOMY EXPANSION
+   • Flexible scheduling within operational constraints
+   • Decision-making authority for team processes
+   • Intrinsic motivation through control
+
+4. 📈 GROWTH OPPORTUNITIES
+   • Cross-functional project assignments
+   • Skill certifications (career advancement)
+   • Stretch assignments and development plans
 
 ## Research Context and Evidence Base
 • Gallup Q12 2024: Organizations in top quartile for engagement show 18% higher productivity and 12% better customer metrics
@@ -62,11 +96,33 @@ How to increase employee engagement scores from 62% to 70% and reduce voluntary 
 • Service industries: professional services, healthcare, technology
 • Leadership commitment required: 2 hours/week per manager
 
+═══════════════════════════════════════════════════════════════════════════════
+                      WHY: Financial Impact & ROI Justification
+═══════════════════════════════════════════════════════════════════════════════
+
 ## Business Case and Impact Analysis
 
-**Financial Impact (using 2024 industry average):**
-• Source: SHRM (industry guidance) reports a range of ~$15,000–$75,000 cost per voluntary departure depending on role level (2024).
-  Use this as the baseline if company-specific replacement-cost data aren't available.
+**Financial Impact Quantification - Converting Turnover Costs to Engagement Investment:**
+
+This financial analysis demonstrates that non-monetary interventions deliver measurable ROI.
+A $2,000 per manager operational budget generates $675K savings through turnover reduction,
+helping leadership see engagement improvement as a COST REDUCTION STRATEGY, not an expense.
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                    BASELINE → TARGET ROI TABLE                              │
+├─────────────────────────┬──────────────┬──────────────┬─────────────────────┤
+│ METRIC                  │   BASELINE   │    TARGET    │      SAVINGS        │
+├─────────────────────────┼──────────────┼──────────────┼─────────────────────┤
+│ Turnover Rate           │     18%      │     13%      │   -5 points         │
+│ Departures (300 empl)   │   54 people  │   39 people  │   -15 people        │
+│ Cost/Departure (SHRM)   │   $45,000    │   $45,000    │   (industry avg)    │
+├─────────────────────────┼──────────────┼──────────────┼─────────────────────┤
+│ Annual Turnover Cost    │ $2,430,000   │ $1,755,000   │   $675,000 Year 1   │
+│ Two-Year Cumulative     │              │              │   $1,350,000        │
+└─────────────────────────┴──────────────┴──────────────┴─────────────────────┘
+
+• Source: SHRM (industry guidance) reports a range of ~$15,000–$75,000 cost per voluntary
+  departure depending on role level (2024). Using $45,000 midpoint as baseline.
 • Current turnover cost: 18% × 300 employees = 54 departures × $45,000 = $2,430,000 annually
 • Target turnover cost: 13% × 300 employees = 39 departures × $45,000 = $1,755,000 annually
 • Estimated first-year savings (difference): $2,430,000 − $1,755,000 = $675,000

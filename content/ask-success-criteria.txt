@@ -1,36 +1,150 @@
-# What does success look like? — SMART framework
+Success Criteria
 
-## How do we know we are doing good?
+═══════════════════════════════════════════════════════════════════════════════
+              SUCCESS: 12-Week Pilot Decision Framework (ZERO SALARY BUDGET)
+═══════════════════════════════════════════════════════════════════════════════
 
-**Employee engagement (primary)**
-- Target: +4 percentage points increase in survey scores for program teams
-- Method: 5-question team survey at Week 6
-- Evidence basis: similar interventions achieve 3-7 point improvements with 2 hours/week manager investment
+## Pilot Logic: Constrained Experimentation Before Full Commitment
 
-**Voluntary turnover (impact if scaled)**
-- Target: 10% reduction in annualized turnover
-- Method: 12-month continued rate from the companies HR databases
-- Evidence basis: meta-analyses of other organizations show 5-15% reductions from development programs
+Small-scale test (12 weeks, subset of managers/employees) → Measure multiple dimensions
+→ Make evidence-based decision (April 2026: scale, modify, or discontinue) → Full rollout
+only if criteria met WITHOUT MONETARY INCENTIVES
 
-**Productivity (team-level)** — [ACHIEVABLE]
-- Target: +3% output or −5% task cycle time for program teams
-- Method: team KPIs (specific to each company) or service metrics (response time, customer satisfaction)
-- Timeline: Week 0 survey scores and KPI data vs. Week 6
+This pilot framework demonstrates evidence-based management: test hypotheses before scaling,
+establish success criteria upfront, commit to data-driven decisions even if results disappoint.
+Pilot de-risks large organizational change.
 
-## Secondary indicators — [MEASURABLE & RELEVANT]
-- Manager usefulness rating ≥7/10 in program debrief
-- Survey response rate ≥60% in program teams
-- Increase in peer recognition nominations per month
+═══════════════════════════════════════════════════════════════════════════════
+                        Dual Outcome Framework (SMART Criteria)
+═══════════════════════════════════════════════════════════════════════════════
 
-## Leading indicators (early telltale signs) — [RELEVANT]
-- Positive: higher participation in improvement activities within first 2 weeks
-- Red flags: falling survey response rates, negative feedback comments, manager reports of >2 hours burden
+## PRIMARY OUTCOMES (Impact) — What ultimate goals are we trying to achieve?
 
-## Timeline for results — [TIME-BOUND]
-- **0-6 weeks:** implement program, collect Week 0 survey scores, turnover rates, and team KPI data
-- **6-8 weeks:** analyze results and create decision brief
-- **3-6 months:** scale decision based on engagement scores, productivity data, and manager ratings
-- **12 months:** evaluate sustained turnover effects if scaled, compare end of month 12 survery scores with week 0
+Both necessary for long-term success. High adoption with low impact signals wrong
+intervention; low adoption with any impact signals implementation failure.
 
-## Success decision rule
- scaling if: if engagement improves +4 points OR productivity improves +3%, AND managers rate program ≥7/10 usefulness, and no red flags detected.
+**1. Employee Engagement (Primary)** — [SPECIFIC & MEASURABLE]
+   • Baseline: 62% (Q4 2024 company survey)
+   • Target: 70% (+8 percentage points over 12 months)
+   • Pilot Target: +4 points increase in program teams within 12 weeks
+   • Method: 5-question team survey at Week 0 and Week 6
+   • Evidence basis: Similar non-monetary interventions achieve 3-7 point improvements
+     with 2 hours/week manager investment (Saks 2023 meta-analysis)
+
+**2. Voluntary Turnover (Impact if Scaled)** — [SPECIFIC & TIME-BOUND]
+   • Baseline: 18% annualized (Jan-Oct 2025 HR records)
+   • Target: 13% (-5 percentage points over 12 months)
+   • Financial Impact: $675K Year 1 savings, $1.35M two-year cumulative
+   • Method: 12-month continued rate from HR databases
+   • Evidence basis: Meta-analyses show 5-15% reductions from development programs
+
+**3. Productivity (Team-Level)** — [ACHIEVABLE & MEASURABLE]
+   • Target: +3% output OR −5% task cycle time for program teams
+   • Method: Team KPIs (company-specific) or service metrics (response time, customer satisfaction)
+   • Timeline: Week 0 baseline vs. Week 6 measurement
+
+═══════════════════════════════════════════════════════════════════════════════
+
+## IMPLEMENTATION INDICATORS (Adoption) — Are people using interventions?
+
+These show whether the intervention is being adopted. Both dimensions necessary for success.
+
+**1. Manager Confidence** — [MEASURABLE]
+   • Baseline: 4.2/10 (Sept 2025 leadership survey)
+   • Target: 7.5/10 (+3.3 points within 6 months)
+   • Pilot Target: ≥7/10 usefulness rating in program debrief
+   • Critical: Manager buy-in determines implementation success
+
+**2. Recognition Frequency** — [SPECIFIC & RELEVANT]
+   • Baseline: 23% of employees receive feedback weekly
+   • Target: 65-73% weekly recognition (+42-50 points within 3-6 months)
+   • Method: Platform analytics tracking nomination frequency
+
+**3. Secondary Indicators:**
+   • Survey response rate ≥60% in program teams (participation proxy)
+   • Increase in peer recognition nominations per month (adoption metric)
+   • Manager time burden <2 hours/week (sustainability check)
+
+═══════════════════════════════════════════════════════════════════════════════
+                          Leading Indicators & Red Flags
+═══════════════════════════════════════════════════════════════════════════════
+
+## Early Signals (Within First 2 Weeks) — [RELEVANT]
+
+✅ POSITIVE SIGNALS:
+• Higher participation in recognition activities
+• Manager engagement in training sessions
+• Employee questions about program features
+• Early adoption of recognition platform
+
+🚩 RED FLAGS (Triggers for Course Correction):
+• Falling survey response rates (<50%)
+• Negative feedback comments from managers or employees
+• Manager reports of >2 hours/week time burden
+• Low recognition platform usage (<30% in first month)
+• Cynicism about "doing more with less" without salary increases
+
+═══════════════════════════════════════════════════════════════════════════════
+                    Timeline for Results (Evidence-Based Milestones)
+═══════════════════════════════════════════════════════════════════════════════
+
+**WEEKS 0-6: PILOT IMPLEMENTATION**
+• Implement program with representative teams
+• Collect Week 0 baseline: survey scores, turnover rates, team KPI data
+• Track manager time burden and recognition frequency weekly
+• Constraint reminder: All activities within $2,000 per manager operational budget
+
+**WEEKS 6-8: ANALYSIS & DECISION BRIEF**
+• Analyze pilot results across all metrics
+• Compare Week 0 vs. Week 6 data
+• Create decision brief for leadership
+• Gather manager debrief feedback (usefulness ratings)
+
+**MONTHS 3-6: SCALE DECISION** (April 2026 Go/No-Go)
+• Make evidence-based decision: scale, modify, or discontinue
+• Review engagement scores, productivity data, and manager ratings
+• Ensure no red flags detected before scaling
+
+**MONTH 12: SUSTAINED IMPACT EVALUATION**
+• Evaluate sustained turnover effects if scaled
+• Compare end-of-year survey scores with Week 0 baseline
+• Measure financial impact: actual turnover cost savings
+• Assess whether improvements achieved WITHOUT monetary incentives sustained
+
+═══════════════════════════════════════════════════════════════════════════════
+                      SUCCESS DECISION RULE (April 2026)
+═══════════════════════════════════════════════════════════════════════════════
+
+## Evidence-Based Go/No-Go Criteria:
+
+✅ SCALE IF (All conditions must be met):
+
+   [Engagement +4 points OR Productivity +3%]
+            AND
+   [Manager usefulness ≥7/10]
+            AND
+   [No red flags detected]
+            AND
+   [All improvements achieved with ZERO salary budget]
+
+❌ DO NOT SCALE IF:
+• Success metrics not met
+• Manager time burden excessive (>2 hours/week)
+• Negative employee feedback about "doing more with less"
+• Low adoption rates (<50% participation)
+
+🔄 MODIFY & RE-TEST IF:
+• Partial success (one criterion met but not all)
+• Promising early indicators but implementation challenges
+• Manager feedback suggests design improvements
+
+This demonstrates commitment to data-driven decisions even if results disappoint.
+Pilot de-risks organizational change by enabling course correction before full investment.
+
+═══════════════════════════════════════════════════════════════════════════════
+                    CONSTRAINT REMINDER (Throughout All Phases)
+═══════════════════════════════════════════════════════════════════════════════
+
+🚫 ALL improvements must be achieved with operational budget $2,000 per manager max
+🚫 ZERO compensation increases, no raises, no bonuses, no monetary incentives
+🚫 Success criteria specifically designed for NON-MONETARY intervention context
