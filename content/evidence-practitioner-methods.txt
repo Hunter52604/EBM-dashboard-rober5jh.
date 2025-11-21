@@ -1,162 +1,106 @@
-# Practitioner Evidence: Methods & Acquisition Strategy
-# Document your approach to gathering expert insights and professional experience
+# Practitioner Evidence: How We Gathered Expert Insights
 
-## Practitioner Evidence Goals
-**Primary Goal:** [What practitioner insights do you need about your problem?]
-**Secondary Goal:** [What practitioner insights do you need about potential solutions?]
+## The Problem We Needed to Understand
+**Problem Definition:**
+- **What:** 62% employee engagement (below 70% target)
+- **Who:** 50 employees in professional services organization
+- **Consequences:** 18% turnover rate, low weekly recognition (23%)
+- **Constraint:** Zero salary budget for improvements
 
-## Target Practitioners
+**Questions for Practitioners:**
+1. Is this problem common in mid-market organizations?
+2. What causes low engagement when compensation isn't the issue?
+3. Do recognition programs work without increasing salaries?
+4. Can manager training and autonomy improve engagement and reduce turnover?
 
-### Industry Experts
-**Target Profile:** [What type of professional experience is most relevant?]
-- Years of experience desired: [Range]
-- Industry/sector focus: [Specific industries]
-- Role/position types: [Management levels, functional areas]
-- Company size experience: [Startup, SME, large enterprise]
-- Geographic location: [Local, national, international]
+## Which Practitioners We Sought
+**Expertise Criteria:**
+- **Domain:** Employee engagement and recognition programs
+- **Experience:** 5-15+ years in HR, talent management, or organizational research
+- **Context Match:** Mid-market organizations (100-500 employees)
+- **Relevance:** Expertise in non-monetary interventions and manager training
 
-### Specific Practitioners Identified
-1. **Name/Title/Organization:** [If known]
-   - **Relevance:** [Why this person's experience matters]
-   - **Contact Method:** [How you'll reach them]
+**Why This Matters:** CEBMa emphasizes practitioner expertise must include relevant training, education, prolonged practice, and direct feedback in the specific domain
 
-2. **Name/Title/Organization:** [If known]
-   - **Relevance:** [Why this person's experience matters]
-   - **Contact Method:** [How you'll reach them]
+## How We Acquired the Evidence
 
-3. **Name/Title/Organization:** [If known]
-   - **Relevance:** [Why this person's experience matters]
-   - **Contact Method:** [How you'll reach them]
+### Method: Published Practitioner Research
+**Why Published Research:** Direct interviews not feasible within timeline. Published research aggregates insights from thousands of practitioners and organizations.
 
-## Acquisition Methods
+**Source Selection Process:**
+1. Identified major practitioner organizations with engagement expertise
+2. Verified credibility (years of experience, data volume, peer review)
+3. Confirmed relevance to our context (mid-market, non-monetary solutions)
+4. Cross-validated findings across multiple sources
 
-### Expert Interviews
-#### Interview Planning
-- **Target Number:** [How many interviews planned?]
-- **Interview Length:** [Estimated duration]
-- **Interview Method:** [In-person, phone, video, email]
-- **Recording Plan:** [How will you capture responses?]
+**Primary Sources:**
 
-#### Interview Protocol
-**Opening Questions:**
-- Can you tell me about your experience with [problem area]?
-- How long have you been working in this field/role?
+**1. Gallup Workplace Research**
+- **Expertise:** 80+ years studying employee engagement
+- **Practice Base:** 350M+ employee surveys analyzed globally
+- **Relevance:** Recognition programs and manager effectiveness research
+- **Type:** Applied research from consulting practice
 
-**Problem-Focused Questions:**
-- Have you encountered [your specific problem] in your work?
-- What causes this type of problem in your experience?
-- How common is this problem in organizations you've worked with?
+**2. SHRM (Society for Human Resource Management)**
+- **Expertise:** 340,000+ HR professional members, 75+ years publishing
+- **Practice Base:** Aggregated experience from thousands of HR practitioners
+- **Relevance:** Mid-market focus, non-monetary intervention research
+- **Type:** Peer-reviewed practitioner research
 
-**Solution-Focused Questions:**
-- What approaches have you seen work for this type of problem?
-- What solutions have you tried or observed?
-- What would you recommend based on your experience?
+**Search Strategy:**
+- "employee recognition programs" + "engagement outcomes"
+- "non-monetary engagement interventions" + "turnover"
+- "manager training" + "recognition effectiveness"
+- "weekly recognition frequency" + "results"
 
-**Implementation Questions:**
-- What challenges should we expect when implementing this type of solution?
-- What would you do differently if you were addressing this problem again?
-- What resources or support are critical for success?
+## Selection Criteria for Trustworthy Sources
 
-**Closing Questions:**
-- Who else would you recommend I speak with about this?
-- Is there anything important I haven't asked about?
+**Quality Indicators We Verified:**
+✓ Large practice base (millions of employees, thousands of organizations)
+✓ Prolonged experience in domain (75-80+ years)
+✓ Quantified outcomes (specific metrics, not anecdotes)
+✓ Transparent methodology (how they gathered insights)
+✓ Peer review or academic-quality standards
 
-### Professional Networks
+**Potential Biases Acknowledged:**
+⚠ **Commercial Interest:** Gallup sells consulting services (may favor actionable recommendations)
+⚠ **Publication Bias:** Both organizations publish more successes than failures
+⚠ **Perspective Bias:** SHRM represents HR perspective (may underweight employee voice)
+⚠ **Context Bias:** Most data from large organizations (may not perfectly match mid-market)
 
-#### LinkedIn Outreach
-- **Target Search Terms:** [Keywords for finding relevant professionals]
-- **Connection Strategy:** [How you'll approach potential contacts]
-- **Message Template:** [Professional outreach message]
+**How We Addressed Biases:**
+- Used two independent sources to cross-validate findings
+- Looked for consistent themes across both sources
+- Focused on data-driven insights, not opinions
+- Acknowledged limitations explicitly in our analysis
 
-#### Industry Associations
-- **Relevant Associations:** [Professional organizations in your field]
-- **Contact Strategy:** [How you'll engage with association members]
-- **Events/Forums:** [Industry events where you might connect with experts]
+## Limitations and Gaps
 
-### Case Study Research
+**What This Evidence Doesn't Include:**
+- Direct interviews with managers who implemented recognition programs
+- Case studies from organizations with salary freeze constraints
+- Professional services industry-specific examples
+- Failed implementation stories (both sources emphasize successes)
+- Small-sample controlled experiments
 
-#### Published Case Studies
-- **Target Sources:** [Harvard Business Review, industry publications, consulting reports]
-- **Search Strategy:** [How you'll find relevant case studies]
-- **Documentation Plan:** [How you'll organize case study insights]
+**Why These Gaps Exist:**
+- Time constraints prevented direct practitioner interviews
+- Published research focuses on generalizable findings (not context-specific cases)
+- Failure stories rarely published in practitioner literature
 
-#### Company Examples
-- **Target Companies:** [Organizations known for addressing similar problems]
-- **Information Sources:** [Annual reports, news articles, presentations]
-- **Contact Strategy:** [How you might reach company representatives]
+**How We Addressed Gaps:**
+- Used two independent sources with overlapping findings (increases confidence)
+- Will supplement with scientific evidence (peer-reviewed studies)
+- Will add organizational evidence (our own FEVS data)
+- Acknowledged limitations explicitly in synthesis
 
-## Documentation Strategy
-
-### Interview Documentation
-- **Recording:** [Will you record interviews? If so, how?]
-- **Note-taking:** [Real-time notes plus post-interview summary]
-- **Transcription:** [Full or partial transcription plan]
-- **Analysis:** [How you'll analyze and code responses]
-
-### Case Study Documentation
-- **Template:** [Standardized format for case study summaries]
-- **Key Elements:** [What information you'll capture for each case]
-- **Source Tracking:** [How you'll maintain citation information]
-
-## Outreach Strategy
-
-### Contact Approach
-**Initial Contact Message Template:**
-[Draft your professional outreach message]
-
-**Follow-up Strategy:**
-[How and when you'll follow up if no initial response]
-
-**Incentives:**
-[What you can offer in return - summary of findings, networking, etc.]
-
-### Timing Plan
-- **Outreach Start Date:** [When you'll begin contacting practitioners]
-- **Interview Window:** [Timeline for conducting interviews]
-- **Follow-up Period:** [Time allowed for additional questions]
+**Overall Confidence in Practitioner Evidence:** MEDIUM-HIGH
+- High credibility sources with extensive practice base
+- Consistent findings across both sources strengthen confidence
+- Context gaps (salary freeze, professional services) create some uncertainty
 
 ## Ethical Considerations
-
-### Informed Consent
-- **Purpose Explanation:** [How you'll explain your research purpose]
-- **Use of Information:** [How you'll use their insights]
-- **Anonymity/Attribution:** [Will you identify them or keep anonymous?]
-- **Approval Process:** [Will they review how you use their input?]
-
-### Professional Courtesy
-- **Time Respect:** [Staying within agreed time limits]
-- **Preparation:** [Being well-prepared for interactions]
-- **Follow-through:** [Sharing results if promised]
-
-## Expected Challenges
-
-### Access Challenges
-[What difficulties might you face reaching practitioners?]
-
-### Response Rate Concerns
-[What if people don't respond to your outreach?]
-
-### Quality Concerns
-[How will you ensure you get valuable insights?]
-
-### Time Constraints
-[How will time limitations affect your approach?]
-
-## Backup Plans
-
-### Alternative Sources
-[What will you do if you can't reach enough practitioners?]
-
-### Modified Approaches
-[How might you adapt your methods if needed?]
-
-### Minimum Viable Evidence
-[What's the minimum practitioner evidence you need?]
-
----
-INSTRUCTIONS:
-1. Start outreach early - practitioners are busy and may take time to respond
-2. Be professional and clear about your academic purpose
-3. Prepare thoroughly for interviews to make the most of practitioners' time
-4. Have backup sources in case your primary targets aren't available
-5. Consider offering something valuable in return for their time
+- All sources publicly available
+- Proper citations provided
+- No confidential information used
+- AI assistance documented (for research, not analysis)
