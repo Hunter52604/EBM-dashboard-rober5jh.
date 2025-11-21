@@ -1,158 +1,133 @@
-# Scientific Evidence: How We Found Peer-Reviewed Research
+# Scientific Evidence: Methods & Acquisition Strategy
+# Document your systematic approach to finding research evidence
 
-## Research Question Aligned with Our Problem
+## Research Question
+How can managers Motivate and Engage employees without monetary benefits.
 
-**Primary Question:** Does employee recognition improve engagement and reduce turnover?
-
-**Specific Sub-Questions:**
-1. What is the effect size of recognition programs on engagement?
-2. Does manager training improve recognition delivery effectiveness?
-3. What is the relationship between engagement and turnover?
-
-**Our X→M→Y Framework:**
-- **X:** 62% engagement, 18% turnover
-- **M:** Recognition + Manager Training + Autonomy + Growth
-- **Y:** 70% engagement, 13% turnover
-
-**Why Scientific Evidence Matters:** Practitioner evidence shows "what works," but scientific studies with effect sizes show "how much impact" we can expect.
-
----
+**Primary Research Question:** What are Primary factors influencing employee motivation in organizations.
+**Secondary Research Question:** What is the relationship between employee motivation and organizational productivity
 
 ## Search Strategy
 
 ### Databases Searched
-✓ **Google Scholar** - Multidisciplinary, largest coverage of management research
-✓ **PubMed/PsycINFO** - Organizational psychology research
-✓ **Business Source Premier** - Management and HR journals (JMU library access)
+- [ ] **PubMed/MEDLINE** [For health/organizational behavior research]
+- [ ] **Business Source Premier** [For business and management research]
+- [ ] **Google Scholar** [For multidisciplinary academic content]
+- [ ] **JSTOR** [For established academic journals]
+- [ ] **SSRN** [For business and social science working papers]
+- [ ] **Other:** [List additional relevant databases]
+- IJRISS
 
-### Search Terms Used
+### Keywords and Search Terms
 
-**Primary Keywords:**
-- "employee recognition" AND "engagement"
-- "recognition programs" AND "turnover"
-- "manager training" AND "engagement"
-- "autonomy" AND "employee engagement"
+#### Primary Keywords
+Autonomy
+Intrinisc and Extrinsic Motivation
+Organizational Climate
+Proffesional Growth and Development
 
-**Effect Size Focus:**
-- Added: "effect size" OR "correlation" OR "meta-analysis"
-- Goal: Find quantitative results, not just qualitative findings
+#### Secondary Keywords
+Interpersonal Relationships
+Corporate Governance
+Culture
 
-**Filters Applied:**
-- **Date Range:** 2010-2024 (last 15 years, recent research)
-- **Language:** English
-- **Study Types:** Peer-reviewed empirical research, meta-analyses preferred
-- **Keywords:** Must include engagement OR turnover as outcome
 
-### AI-Assisted Search
+#### Boolean Search Combinations
+[Document your search string combinations]
+- Example: ("employee retention" OR "staff turnover") AND ("small business" OR SME)
 
-**How AI Helped:**
-1. **Search term generation:** Suggested "recognition frequency" and "psychological needs" as relevant terms
-2. **Boolean refinement:** Helped structure ("recognition" OR "appreciation") AND ("engagement" OR "satisfaction")
-3. **Database recommendations:** Suggested starting with Google Scholar for meta-analyses
-
-**Human Decisions:**
-- Selected final 3 studies based on effect size clarity and relevance
-- Chose studies with diverse designs (meta-analysis + field studies)
-- Prioritized studies with mid-size organization samples
-
----
+### Search Filters Applied
+- **Date Range:** [Years included in search]
+- **Language:** [Languages included]
+- **Study Types:** [Research designs included/excluded]
+- **Geographic Scope:** [Regions/countries of interest]
+- **Industry Focus:** [Relevant sectors]
 
 ## Selection Criteria
 
-### Inclusion Criteria (What We NEEDED):
-✓ Peer-reviewed publication in academic journal
-✓ **Quantitative effect sizes reported** (correlation, regression, Cohen's d)
-✓ Engagement or turnover as outcome variable
-✓ Recognition, manager training, or autonomy as predictor
-✓ Sample from workplace settings (not students)
+### Inclusion Criteria
+[What studies WILL you include?]
+- Study design requirements
+- Population/context requirements
+- Outcome measures
+- Quality thresholds
 
-### Exclusion Criteria (What We REJECTED):
-✗ Opinion pieces or conceptual papers (no empirical data)
-✗ Studies without clear effect sizes
-✗ Healthcare-specific studies (too context-specific)
-✗ Studies older than 15 years (2009 or earlier)
-✗ Non-English publications
-
----
+### Exclusion Criteria
+[What studies will you EXCLUDE?]
+- Study limitations
+- Context mismatches
+- Quality concerns
+- Accessibility issues
 
 ## Search Results Summary
 
-**Search Process:**
-1. **Initial Google Scholar Search:** ~2,400 results for "recognition" AND "engagement" (2010-2024)
-2. **Refined with "effect size":** ~380 results
-3. **Title/Abstract Screening:** 15 potentially relevant studies
-4. **Full-Text Review:** 8 studies with clear effect sizes
-5. **Final Selection:** 3 studies (best match to our X→M→Y)
+### Initial Search Results
+- **Total Articles Found:** [Number across all databases]
+- **After Removing Duplicates:** [Number of unique articles]
+- **After Title/Abstract Screening:** [Number meeting basic criteria]
+- **Selected for Full Review:** [Final number for detailed analysis]
 
-**Why These 3 Studies:**
+### Search Documentation
+[Keep a record of what you searched and when]
 
-**Study 1 - Meta-Analysis (Chungtai & Buckley, 2008):**
-- Synthesizes 72 studies (largest evidence base)
-- Reports clear correlation between recognition and engagement (r = 0.36)
-- Provides effect size we can use for prediction
-
-**Study 2 - Field Study (Aguinis et al., 2013):**
-- Large sample (N=6,000+) from multiple organizations
-- Reports recognition frequency effects on turnover
-- Similar context (professional services organizations)
-
-**Study 3 - Longitudinal Study (Bakker & Demerouti, 2017):**
-- Tracks engagement changes over time (causal evidence)
-- Reports autonomy and growth as engagement drivers
-- Effect sizes for our other M interventions (not just recognition)
-
----
+**Date:** [Search date]
+**Database:** [Which database]
+**Search Terms:** [Exact search string used]
+**Results:** [Number of results]
+**Notes:** [Any observations about the search]
 
 ## Quality Assessment Approach
+[How will you evaluate study quality?]
 
-### Research Design Hierarchy (CEBMa Standards):
-1. ✓ **Meta-analyses** - Chungtai & Buckley (highest quality)
-2. ✓ **Longitudinal field studies** - Bakker & Demerouti (high quality - temporal order)
-3. ✓ **Cross-sectional field studies** - Aguinis et al. (medium-high quality - large N)
+### Research Design Hierarchy
+1. **Systematic Reviews/Meta-analyses** [Highest quality]
+2. **Randomized Controlled Trials** [High quality]
+3. **Quasi-experimental Studies** [Medium-high quality]
+4. **Cohort Studies** [Medium quality]
+5. **Cross-sectional Studies** [Medium-low quality]
+6. **Case Studies** [Lower quality but valuable for context]
 
-### Quality Checklist Applied:
-✓ Clear research question
-✓ Appropriate methodology (quantitative, effect sizes)
-✓ Adequate sample size (all N>1,000)
-✓ Valid measurement tools (established scales used)
-✓ Appropriate statistical analysis (correlation, regression, SEM)
-✓ Clear reporting of results (effect sizes with confidence intervals)
-✓ Discussion of limitations
-✓ Peer-reviewed publication in top-tier journals
-
-**Overall Quality:** HIGH - All 3 studies meet gold-standard criteria
-
----
+### Quality Criteria Checklist
+- [ ] Clear research question
+- [ ] Appropriate methodology
+- [ ] Adequate sample size
+- [ ] Valid measurement tools
+- [ ] Appropriate statistical analysis
+- [ ] Clear reporting of results
+- [ ] Discussion of limitations
+- [ ] Peer-reviewed publication
 
 ## Documentation Process
+[How you'll organize and track your findings]
 
-**Selected Studies:**
-1. Chungtai, R., & Buckley, R. (2008). Recognition and engagement: Meta-analysis. *Journal of Applied Psychology*
-2. Aguinis, H., Joo, H., & Gottfredson, R. K. (2013). Performance management universals. *Journal of Applied Psychology*
-3. Bakker, A. B., & Demerouti, E. (2017). Job demands-resources theory. *Annual Review of Organizational Psychology*
+### Reference Management
+[How you'll keep track of citations]
 
-**Reference Management:** Studies saved with full PDFs, effect sizes extracted into summary table
+### Evidence Extraction Form
+[What information you'll record for each study]
+- Citation details
+- Study design and methodology
+- Sample characteristics
+- Key findings
+- Relevance to your problem/solution
+- Quality assessment
 
-**Evidence Extraction:** For each study documented:
-- Effect size (r, d, β)
-- Sample size and context
-- Key findings relevant to X→M→Y
-- Limitations and applicability to our 50-employee context
+## Challenges and Limitations
+[Document any issues with your search process]
+
+### Search Limitations
+[What couldn't you access or find?]
+
+### Resource Constraints
+[Time, database access, or other limitations]
+
+### Topic-Specific Challenges
+[Issues unique to your research area]
 
 ---
-
-## Search Limitations Acknowledged
-
-**What We Couldn't Access:**
-- Some paywalled journals (relied on JMU library access where possible)
-- Proprietary consulting firm studies (not peer-reviewed)
-
-**Topic-Specific Challenges:**
-- Few studies specifically on "50-employee organizations" (most samples are larger)
-- Limited studies with "zero salary budget" constraint
-- Most recognition studies don't separate manager vs. peer recognition
-
-**How We Addressed:**
-- Focused on effect sizes generalizable across contexts
-- Selected studies with diverse organization sizes
-- Will triangulate with practitioner evidence (Gallup/SHRM) for context
+INSTRUCTIONS:
+1. Be systematic and comprehensive in your approach
+2. Document everything so others could replicate your search
+3. Focus on research relevant to both your problem AND potential solutions
+4. Use library resources and ask librarians for help with database searches
+5. Keep detailed records of what you find and why you include/exclude studies

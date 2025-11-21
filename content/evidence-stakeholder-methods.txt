@@ -1,216 +1,191 @@
-# Stakeholder Evidence: How We Identified and Consulted Stakeholders
+# Stakeholder Evidence: Methods & Engagement Strategy
+# Document your approach to gathering stakeholder perspectives and feedback
 
-## Problem Definition
+## Stakeholder Evidence Goals
+**Primary Goal:** [What stakeholder insights do you need about your problem?]
+**Secondary Goal:** [What stakeholder feedback do you need about potential solutions?]
 
-**What:** 62% employee engagement (5 points below federal benchmark)
-**Who:** 50-employee professional services firm
-**Organizational Consequences:** 18% annual turnover (costs $200K+), productivity losses, client service gaps
-**Proposed Solution (M):** Recognition Programs + Manager Training + Autonomy + Growth (zero salary budget)
+## Target Stakeholder Groups
 
-**Why Stakeholder Evidence Matters:** Stakeholders can influence decision success, may be harmed/benefit from interventions, and their perceptions affect feasibility.
+### Internal Stakeholders
+#### Management/Leadership
+- **Target Participants:** [Specific roles or levels]
+- **Engagement Method:** [Surveys, interviews, focus groups]
+- **Key Questions Focus:** [What you most need to learn from leadership]
+- **Expected Response Rate:** [Realistic participation estimate]
 
----
+#### Employees/Staff
+- **Target Participants:** [Departments, roles, or demographic groups]
+- **Engagement Method:** [Surveys, interviews, focus groups]
+- **Key Questions Focus:** [What you most need to learn from employees]
+- **Expected Response Rate:** [Realistic participation estimate]
 
-## STEP 1: Stakeholder Identification and Mapping
+#### Other Internal Groups
+[Additional internal stakeholder categories]
 
-### Stakeholder Map: Internal vs. External
+### External Stakeholders
+#### Customers/Clients
+- **Target Participants:** [Customer segments or types]
+- **Engagement Method:** [Surveys, interviews, feedback sessions]
+- **Key Questions Focus:** [What you most need to learn from customers]
+- **Expected Response Rate:** [Realistic participation estimate]
 
-**INTERNAL STAKEHOLDERS (Inside the Organization):**
+#### Partners/Suppliers
+- **Target Participants:** [Types of business partners]
+- **Engagement Method:** [Interviews, surveys, informal discussions]
+- **Key Questions Focus:** [What you most need to learn from partners]
+- **Expected Response Rate:** [Realistic participation estimate]
 
-1. **Non-Supervisory Employees (n=42)**
-   - Classification: Internal, Direct, Primary
-   - Why Relevant: Directly affected by engagement interventions, receive recognition, participate in autonomy/growth programs
-   - Interest: Working conditions, recognition frequency, career growth, workload
+## Data Collection Methods
 
-2. **Managers/Supervisors (n=8)**
-   - Classification: Internal, Direct, Primary
-   - Why Relevant: Deliver recognition, implement training, manage M interventions daily
-   - Interest: Training adequacy, time to deliver recognition, capability to implement changes
+### Survey Design
+#### Online Survey Platform
+- **Platform Choice:** [SurveyMonkey, Google Forms, Qualtrics, etc.]
+- **Survey Length:** [Estimated completion time]
+- **Question Types:** [Mix of multiple choice, rating scales, open-ended]
+- **Incentives:** [What you'll offer for participation]
 
-3. **CEO/Owner**
-   - Classification: Internal, Direct, Primary
-   - Why Relevant: Decision authority, budget allocation ($0), strategic priorities
-   - Interest: Turnover costs, productivity, competitive advantage, ROI
+#### Key Survey Questions
+**Problem Assessment Questions:**
+- How frequently do you encounter [problem description]?
+- How significantly does this problem impact your work/experience?
+- What do you see as the main causes of this problem?
 
-4. **HR Function (1 person, part-time)**
-   - Classification: Internal, Direct, Primary
-   - Why Relevant: Implements programs, tracks metrics, administers surveys
-   - Interest: Feasibility, workload, program success, data collection
+**Solution Feedback Questions:**
+- How would you rate the feasibility of [proposed solution]?
+- What concerns do you have about implementing this solution?
+- What would make this solution more effective?
 
-**EXTERNAL STAKEHOLDERS (Outside the Organization):**
+**Priority and Support Questions:**
+- How important is solving this problem compared to other priorities?
+- What level of support would you provide for this initiative?
+- What resources should be allocated to address this problem?
 
-5. **Clients (Professional Services Recipients)**
-   - Classification: External, Indirect, Secondary
-   - Why Relevant: Affected by turnover (relationship continuity), benefit from engaged employees (service quality)
-   - Interest: Service consistency, relationship stability, project quality
+### Interview Protocol
+#### Interview Structure
+- **Duration:** [Target length for each interview]
+- **Format:** [In-person, phone, video conference]
+- **Recording:** [Will interviews be recorded? How?]
+- **Note-taking:** [How will you capture responses]
 
-6. **Job Applicants/Potential Hires**
-   - Classification: External, Indirect, Secondary
-   - Why Relevant: Employer reputation, 70% engagement target affects recruitment appeal
-   - Interest: Workplace culture, growth opportunities, recognition practices
+#### Interview Questions
+**Opening Questions:**
+- Tell me about your role and how this problem affects you
+- How long have you been aware of this issue?
 
-7. **Competitors (Other Professional Services Firms)**
-   - Classification: External, Indirect, Secondary
-   - Why Relevant: May hire departing employees, affected by our retention success
-   - Interest: Talent availability, competitive benchmarking
+**Problem Exploration:**
+- Can you describe a specific example of when this problem occurred?
+- What impact has this problem had on your work/experience?
+- What do you think causes this problem?
 
----
+**Solution Discussion:**
+- What solutions have you considered or tried?
+- How do you think [proposed solution] would work in practice?
+- What challenges or barriers do you foresee?
 
-## STEP 2: Power/Interest Diagram
+**Implementation Questions:**
+- What would success look like from your perspective?
+- What support would you need to make this solution work?
+- Who else should be involved in addressing this problem?
 
-### Power = Ability to Influence Decision
-### Interest = Degree Affected by Decision (Harms/Benefits)
+### Focus Groups (if applicable)
+#### Focus Group Design
+- **Group Size:** [Target number of participants per group]
+- **Number of Groups:** [How many focus groups planned]
+- **Group Composition:** [Homogeneous or mixed stakeholder groups]
+- **Facilitation:** [Who will facilitate and how]
 
-```
-                    HIGH INTEREST
-                         │
-                         │
-        ┌────────────────┼────────────────┐
-        │                │                │
-        │  EMPLOYEES     │   MANAGERS     │
- LOW    │  (42 people)   │   (8 people)   │  HIGH
- POWER  │  Power: LOW    │  Power: HIGH   │  POWER
-        │  Interest: HIGH│  Interest: HIGH│
-        │                │                │
-        ├────────────────┼────────────────┤
-        │                │                │
-        │   CLIENTS      │   CEO/OWNER    │
-        │  (Indirect)    │  (Final say)   │
-        │  Power: LOW    │  Power: HIGHEST│
-        │  Interest: MED │  Interest: HIGH│
-        │                │                │
-        └────────────────┼────────────────┘
-                         │
-                    LOW INTEREST
+## Sampling Strategy
 
-OTHER STAKEHOLDERS NOT DIAGRAMMED:
-- HR Function: HIGH Power (implementation), HIGH Interest → CRITICAL STAKEHOLDER
-- Job Applicants: LOW Power, LOW Interest → MONITOR only
-- Competitors: LOW Power, LOW Interest → MONITOR only
-```
+### Stakeholder Identification
+#### Stakeholder Mapping
+[List specific individuals or groups you'll target]
 
-### Stakeholder Ranking by Relevance:
+#### Sampling Approach
+- **Total Target Sample:** [Number of stakeholders to engage]
+- **Sampling Method:** [Random, purposive, convenience, stratified]
+- **Representation Goals:** [What diversity of perspectives you want]
 
-**MUST ENGAGE (High Power AND/OR High Interest):**
-1. **CEO/Owner** - Final decision authority (HIGHEST Power, HIGH Interest)
-2. **Managers** - Implementation gatekeepers (HIGH Power, HIGH Interest)
-3. **HR Function** - Program execution (HIGH Power, HIGH Interest)
-4. **Employees** - Primary beneficiaries and success indicators (LOW Power, HIGHEST Interest)
+### Recruitment Strategy
+#### Outreach Method
+**Email Invitation Template:**
+[Draft your stakeholder outreach message]
 
-**MONITOR (Medium Power/Interest):**
-5. **Clients** - Indirect benefits, reputation impact (LOW-MEDIUM Power, MEDIUM Interest)
+**Follow-up Strategy:**
+[How and when you'll follow up with non-responders]
 
-**INFORM ONLY (Low Power/Interest):**
-6. Job Applicants, Competitors - Peripheral relevance
+**Gatekeepers:**
+[Who might help you reach stakeholders or whose permission you need]
 
----
+## Ethical Considerations
 
-## STEP 3: Data Collection Methods (Secondary Sources)
+### Informed Consent
+- **Purpose Explanation:** [How you'll explain the research purpose]
+- **Participation Voluntariness:** [Making clear that participation is optional]
+- **Data Use:** [How you'll explain how their input will be used]
+- **Anonymity/Confidentiality:** [What privacy protections you'll provide]
 
-### Why Secondary Sources?
-- Resource constraints: 50-employee firm, part-time HR, no research staff
-- Timeline: 12-week pilot insufficient for primary data collection (surveys take 4-6 weeks)
-- Existing data: FEVS 2024, Gallup research, industry benchmarks already address stakeholder concerns
+### Organizational Permissions
+- **Supervisor Approval:** [Do you need management approval for stakeholder engagement?]
+- **HR Consultation:** [Should you coordinate with HR for employee surveys/interviews?]
+- **External Stakeholder Protocols:** [Any special considerations for external stakeholders?]
 
-### Secondary Sources Used:
+## Timeline and Logistics
 
-**1. FEVS 2024 (Employee Voice):**
-- 600K federal employee responses on engagement, recognition, manager effectiveness
-- Represents: Employees (proxy for our 42)
-- Reliability: HIGH (professional repository, validated questions)
+### Data Collection Schedule
+- **Survey Launch:** [When you'll distribute surveys]
+- **Survey Close:** [Deadline for survey responses]
+- **Interview Period:** [Window for conducting interviews]
+- **Focus Group Dates:** [When focus groups will occur]
+- **Follow-up Period:** [Time for additional questions or clarifications]
 
-**2. Gallup Workplace Research (Employee/Manager Voice):**
-- 350M+ surveys globally on recognition preferences, manager role
-- Represents: Employees, managers, executives
-- Reliability: HIGH (decades of data, rigorous methodology)
+### Logistical Planning
+#### Survey Distribution
+- **Distribution Method:** [Email, paper, internal systems]
+- **Reminder Schedule:** [When you'll send follow-up reminders]
+- **Technical Support:** [How you'll help participants with technical issues]
 
-**3. SHRM Reports (HR/Employee Voice):**
-- 340K+ HR professionals, exit interview data
-- Represents: HR Function, departing employees
-- Reliability: HIGH (peer-reviewed, large sample)
+#### Interview Scheduling
+- **Scheduling Method:** [How you'll coordinate interview times]
+- **Location Planning:** [Where interviews will take place]
+- **Equipment Needs:** [Recording equipment, note-taking materials]
 
-**4. Peer-Reviewed Research (Employee/Manager Outcomes):**
-- Aguinis et al. (2013), Bakker & Demerouti (2017), Stajkovic & Luthans (2003)
-- Represents: Field study participants (employees, managers)
-- Reliability: HIGH (peer-reviewed, effect sizes)
+## Response Rate Strategy
 
-**5. Industry Press (Client/Competitor Context):**
-- HBR, Forbes, WSJ articles on engagement and client service
-- Represents: Clients, competitors, general public
-- Reliability: MEDIUM (journalistic standards, anecdotal)
+### Maximizing Participation
+#### Engagement Tactics
+- **Leadership Endorsement:** [Getting visible support from management]
+- **Clear Value Proposition:** [Explaining how participation benefits stakeholders]
+- **Convenient Participation:** [Making it easy to participate]
+- **Multiple Touchpoints:** [Various opportunities to engage]
 
-### Primary Data NOT Collected:
-❌ Employee surveys (no baseline exists)
-❌ Manager focus groups (n=8 too small)
-❌ Client interviews (no feedback mechanism)
-❌ Exit interviews (no formal process)
+#### Incentive Strategy
+- **Direct Incentives:** [What you might offer participants]
+- **Indirect Benefits:** [How participation serves stakeholder interests]
+- **Recognition:** [How you might acknowledge participant contributions]
 
----
+### Minimum Viable Sample
+- **Minimum Response Rate:** [What response rate you need for credible results]
+- **Backup Plan:** [What you'll do if response rates are low]
+- **Alternative Methods:** [Other ways to gather stakeholder input if needed]
 
-## STEP 4: AI-Assisted Analysis
+## Data Management Plan
 
-**AI Contributions:**
-- Identified "clients" as indirect stakeholder (initially overlooked)
-- Differentiated "power to influence" vs. "degree affected"
-- Mapped stakeholder voices to datasets (FEVS = employee perceptions, SHRM = exit reasons)
+### Data Collection Organization
+- **Response Tracking:** [How you'll track who has responded]
+- **Data Storage:** [Where and how you'll store stakeholder responses]
+- **Data Security:** [How you'll protect stakeholder information]
+- **Backup Plan:** [How you'll prevent data loss]
 
-**Human Decisions:**
-- Ranked CEO/Owner as HIGHEST power
-- Classified employees as PRIMARY despite LOW power (ethical consideration)
-- Selected 5 secondary sources (narrowed for feasibility)
-
----
-
-## STEP 5: Ethical Considerations
-
-### Who Can Block Decision?
-- CEO/Owner: Budget veto, strategic misalignment
-- Managers: Refuse training, inconsistent delivery
-- HR Function: Workload refusal, data collection resistance
-- Employees: Low participation, cynicism (cannot block but can undermine)
-
-### Who Benefits/Is Harmed?
-
-**Benefits:**
-- Employees: +8 engagement, weekly recognition, 28% lower turnover risk
-- Managers: Training improves confidence (4.2→7.5), clearer expectations
-- CEO/Owner: $56K savings (2.5 fewer departures)
-
-**Harms:**
-- Managers: 8-hour training burden, ongoing recognition tasks
-- HR: Survey/tracking workload (~13 hours)
-- Employees: Recognition fatigue risk, autonomy workload increase
-- Clients: Transition disruption risk
-
-**Mitigation:**
-- Voluntary manager training (opt-in)
-- Gradual autonomy increases (pilot small changes)
-- Automate HR tracking (FEVS templates, Google Forms)
-- Client communication plan (proactive updates)
+### Analysis Preparation
+- **Coding Strategy:** [How you'll analyze open-ended responses]
+- **Quantitative Analysis:** [How you'll analyze survey data]
+- **Integration Plan:** [How you'll combine different types of stakeholder evidence]
 
 ---
-
-## Limitations
-
-**Missing:**
-- No direct employee voice (relying on FEVS/Gallup proxies)
-- No manager readiness assessment (don't know if our 8 managers want training)
-- No client feedback (assuming engagement matters to them)
-- Large-org bias in secondary sources
-- FEVS data 6+ months old
-
-**Addressed By:**
-- Triangulation across 5 sources
-- 12-week pilot allows course correction
-- Mid-pilot check-ins (Week 6)
-- Post-pilot primary data if successful
-
----
-
-## Overall Confidence: MEDIUM
-
-**Use For:**
-✅ Identify blockers (CEO, managers, HR) - HIGH confidence
-✅ Understand employee preferences (weekly recognition, autonomy) - MEDIUM-HIGH confidence
-⚠️ Predict client reactions - LOW confidence (speculative)
-⚠️ Assess manager readiness - MEDIUM confidence (generalized data)
+INSTRUCTIONS:
+1. Start stakeholder engagement early - it often takes longer than expected
+2. Be respectful of stakeholder time and provide clear value for participation  
+3. Get appropriate permissions before engaging organizational stakeholders
+4. Plan for lower response rates than you hope for
+5. Have multiple methods to reach different types of stakeholders

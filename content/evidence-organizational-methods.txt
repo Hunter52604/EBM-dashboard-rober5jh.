@@ -1,148 +1,167 @@
-# Organizational Evidence: How We Acquired Federal Employee Data
+# Organizational Evidence: Internal Data Collection Strategy
+# Document your approach to gathering internal organizational evidence
 
-## The Problem We Need Organizational Data For
+## Internal Evidence Goals
+**Primary Goal:** [What internal data do you need about your problem?]
+**Secondary Goal:** [What internal data do you need about solution feasibility?]
 
-**Our Logic Model (X→M→Y):**
-```
-X (Problem):                    M (Intervention):                Y (Outcome):
-62% engagement      →          Recognition Programs       →     70% engagement (+8)
-18% turnover                   Manager Training                 13% turnover (-5)
-23% weekly recognition         Autonomy + Growth
+## Available Data Sources
 
-## Limitations and Ethical Considerations
+### Performance Metrics/KPIs
+- **Financial Data:** [Revenue, costs, profitability metrics]
+- **Operational Data:** [Efficiency, productivity, quality metrics]
+- **Human Resources Data:** [Turnover, satisfaction, performance metrics]
+- **Customer Data:** [Satisfaction, retention, acquisition metrics]
+- **Other Relevant Metrics:** [Industry-specific measurements]
 
-**Data Limitations:**
-- **Context Difference:** Federal employees vs. professional services (our context)
-- **Sample Composition:** Includes large agencies (>10,000 employees) unlike our 50-employee organization
-- **Geographic Spread:** U.S. federal workforce (we may be regional/local)
-- **Sector:** Public sector (we're private professional services)
-- **Self-Report:** Survey data (subject to response bias)
+### Internal Systems
+- **CRM Systems:** [Customer relationship data]
+- **ERP Systems:** [Enterprise resource planning data]
+- **HR Information Systems:** [Employee data and metrics]
+- **Financial Systems:** [Accounting and financial data]
+- **Operations Systems:** [Production, service delivery data]
 
-**Why Still Useful:**
-- Provides benchmark for "low engagement" threshold
-- Validates common problem patterns
-- Shows engagement drivers (recognition, manager support, autonomy)
-- Large sample reduces random error
-- Professional methodology (OPM survey standards)
+### Reports and Documentation
+- **Regular Reports:** [Monthly, quarterly, annual reports]
+- **Survey Results:** [Employee, customer, stakeholder surveys]
+- **Audit Results:** [Internal and external audit findings]
+- **Assessment Reports:** [Performance reviews, process evaluations]
+- **Historical Studies:** [Previous internal research or analysis]
 
-**Ethical Considerations:**
-✓ **Public Data:** No privacy violations (aggregated, anonymized data)
-✓ **Proper Attribution:** OPM/FEVS cited as source
-✓ **Appropriate Use:** Benchmark comparison (not claiming direct equivalence)
-✓ **Transparency:** Limitations acknowledged in analysis
-✓ **AI Documentation:** AI assistance disclosed
+## Data Collection Plan
 
-**Overall Confidence:** MEDIUM (high-quality data, moderate context match)
+### Quantitative Data Collection
+#### Metrics to Collect
+[List specific metrics relevant to your problem and solution]
+
+**Problem-Related Metrics:**
+- Metric 1: [Name] - Current value: [Number] - Data source: [Where to find it]
+- Metric 2: [Name] - Current value: [Number] - Data source: [Where to find it]
+- Metric 3: [Name] - Current value: [Number] - Data source: [Where to find it]
+
+**Solution-Related Metrics:**
+- Metric 1: [Name] - Baseline: [Number] - Data source: [Where to find it]
+- Metric 2: [Name] - Baseline: [Number] - Data source: [Where to find it]
+- Metric 3: [Name] - Baseline: [Number] - Data source: [Where to find it]
+
+#### Time Period Analysis
+- **Historical Data Range:** [How far back will you look?]
+- **Trend Analysis Period:** [What timeframe for trend identification?]
+- **Seasonal Considerations:** [Any seasonal patterns to account for?]
+- **Baseline Period:** [What period represents "normal" operations?]
+
+### Qualitative Data Collection
+#### Internal Documents Review
+- **Policy Documents:** [Relevant policies and procedures]
+- **Meeting Minutes:** [Records of relevant discussions]
+- **Communication Records:** [Emails, memos, announcements]
+- **Project Reports:** [Previous initiative outcomes]
+
+#### Observational Data
+- **Process Observations:** [What processes can you observe?]
+- **Workflow Analysis:** [How work actually gets done]
+- **Communication Patterns:** [How information flows]
+- **Cultural Observations:** [Organizational behavior patterns]
+
+## Access and Permissions
+
+### Data Access Strategy
+#### Required Permissions
+- **Data Custodians:** [Who controls access to different data sources?]
+- **Approval Process:** [What approvals are needed?]
+- **Privacy Considerations:** [What privacy restrictions apply?]
+- **Confidentiality Requirements:** [What confidentiality agreements needed?]
+
+#### Contact Plan
+1. **Primary Contact:** [Name, role, contact information]
+   - **Data Sources:** [What data they control]
+   - **Approach:** [How you'll request access]
+
+2. **Secondary Contact:** [Name, role, contact information]
+   - **Data Sources:** [What data they control]
+   - **Approach:** [How you'll request access]
+
+### Ethical Considerations
+- **Employee Privacy:** [How will you protect individual privacy?]
+- **Data Security:** [How will you secure sensitive data?]
+- **Use Limitations:** [How will you limit use of internal data?]
+- **Reporting Boundaries:** [What can/cannot be shared externally?]
+
+## Data Analysis Plan
+
+### Baseline Establishment
+#### Pre-Problem Baselines
+[What did performance look like before the problem emerged?]
+
+#### Normal Operating Ranges
+[What constitutes normal vs. abnormal performance?]
+
+#### Benchmark Comparisons
+[How does performance compare to industry standards or internal targets?]
+
+### Problem Evidence Analysis
+#### Problem Indicators
+[What data would confirm the problem exists?]
+
+#### Problem Severity Measurement
+[How will you quantify the severity of the problem?]
+
+#### Root Cause Investigation
+[What data analysis might reveal underlying causes?]
+
+### Solution Feasibility Analysis
+#### Resource Assessment
+[What internal data shows resource availability for solutions?]
+
+#### Capability Assessment
+[What data shows organizational capability for change?]
+
+#### Risk Assessment
+[What internal data reveals potential implementation risks?]
+
+## Documentation Strategy
+
+### Data Collection Log
+[How will you track what data you collect and when?]
+
+### Analysis Documentation
+[How will you document your analysis process and findings?]
+
+### Quality Assurance
+[How will you ensure data accuracy and completeness?]
+
+### Version Control
+[How will you manage different versions of data and analysis?]
+
+## Expected Challenges
+
+### Data Availability
+[What data might not be available or accessible?]
+
+### Data Quality Issues
+[What data quality problems might you encounter?]
+
+### Access Barriers
+[What obstacles might prevent data access?]
+
+### Time Constraints
+[How might time limitations affect data collection?]
+
+## Backup Plans
+
+### Alternative Data Sources
+[What alternatives exist if primary sources aren't available?]
+
+### Proxy Measures
+[What substitute metrics could you use if ideal data isn't available?]
+
+### Simplified Analysis
+[What's the minimum viable organizational evidence you need?]
 
 ---
-
-**Analysis Output Files:**
-1. `fevs_analysis_summary.png` - 4-panel visualization
-2. `fevs_engagement_summary.csv` - Detailed engagement metrics
-3. `fevs_size_comparison.csv` - Organization size benchmarks**Questions for Organizational Data:**
-1. What is average employee engagement in comparable federal organizations?
-2. Is our 62% engagement actually below benchmark?
-3. How do mid-size organizations (100-500 employees) compare to others?
-4. What specific engagement areas show the lowest scores?
-5. What is typical turnover intent in federal organizations?
-
-**Why This Matters (CEBMa Module 8):** Organizational evidence validates whether our assumed problem exists and how severe it is compared to benchmarks.
-
-
-## Professional Data Repository Used
-
-**✅ REQUIREMENT MET: Professional Repository**
-
-**Repository:** Federal Employee Viewpoint Survey (FEVS) 2024
-**Source Organization:** U.S. Office of Personnel Management (OPM)
-**URL:** https://www.opm.gov/fevs/reports/data-files/2024/
-**Dataset:** 2024 FEVS Public Data File (CSV)
-**Access Date:** November 2024
-
-**Why This Repository:**
-- **Authoritative:** Official U.S. government employee survey (conducted annually since 2002)
-- **Large Sample:** 600,000+ federal employee responses annually
-- **Relevant Variables:** Engagement, recognition, manager effectiveness, turnover intent
-- **Comparable Context:** Federal/public sector (similar to our professional services organization)
-- **Public Access:** Freely available, no proprietary restrictions
-
-## AI-Assisted Dataset Discovery
-
-**✅ REQUIREMENT MET: Document AI Assistance**
-
-**How AI Helped:**
-1. **Identified FEVS:** GitHub Copilot suggested FEVS 2024 as relevant federal employee engagement dataset
-2. **Variable Mapping:** AI helped identify which FEVS questions map to our X→M→Y framework
-3. **Analysis Script:** AI assisted in creating Python analysis script (`fevs_analysis.py`)
-4. **Data Interpretation:** AI helped structure Data → Information → Evidence cycle
-
-**Human Decisions:**
-- Selected FEVS over other repositories (BLS, World Bank) for context relevance
-- Chose specific engagement variables aligned with our problem
-- Interpreted results in context of our 62% baseline
-- Applied CEBMa Module 9 critical appraisal framework
-
-## Dataset Access Details
-
-**File Information:**
-- **Filename:** `2024_FEVS_Prdf.csv`
-- **Location:** Project root directory
-- **Size:** ~600,000 responses × 100+ variables
-- **Format:** CSV (comma-separated values)
-- **License:** U.S. Government public data (no restrictions)
-
-**Access Method:**
-1. Navigate to OPM FEVS data portal
-2. Download "2024 FEVS Public Data File"
-3. Place in project directory
-4. Run analysis script: `python fevs_analysis.py`
-
-**Key Variables Extracted:**
-- **Engagement (X):** Q40, Q12, Q42, Q69, Q11, Q13, Q14, Q15
-- **Turnover Intent (Y):** DLEAVING variable
-- **Organization Size:** DAGENCYSZ variable
-- **Supervisory Status:** DSUPER variable
-
-## Data Collection Method
-
-**Type:** Secondary data analysis (existing survey dataset)
-
-**Why Secondary Data (Not Primary Collection):**
-- Professional repository available (FEVS 2024 released November 2024)
-- 600,000+ responses provides strong benchmark
-- Cost-effective (free, public data)
-- Time-efficient (immediate access vs. months for primary survey)
-- High quality (OPM professional survey methodology)
-
-**Data Extraction Process:**
-1. Downloaded raw CSV file from OPM portal
-2. Loaded into Python pandas DataFrame
-3. Selected 8 engagement variables matching our X (problem) definition
-4. Calculated % positive responses (Agree + Strongly Agree)
-5. Computed overall engagement index
-6. Analyzed by organization size (to find mid-market benchmark)
-7. Examined turnover intent patterns
-
-**Analysis Tools:**
-- Python 3.x
-- Pandas library (data manipulation)
-- NumPy (calculations)
-- Matplotlib/Seaborn (visualizations)
-
-## Hypothesis-Led Data Collection (CEBMa Principle)
-
-**Our Hypothesis:** Our 62% engagement is below federal benchmark for mid-size organizations
-
-**Specific Predictions to Test:**
-1. FEVS average engagement > 62% (validates our problem exists)
-2. Mid-size organizations (100-500 employees) have different engagement than large organizations
-3. Recognition-related questions (Q40, Q42) score lower than average
-4. Turnover intent correlates with low engagement
-
-**Data Gathered to Test Hypothesis:**
-✓ Overall FEVS engagement benchmark
-✓ Engagement by organization size
-✓ Engagement by specific question (to identify lowest areas)
-✓ Turnover intent percentage
-
-**Why Hypothesis-Led (CEBMa Module 8):** Prevents "fishing expedition" - we're testing specific assumptions about our problem, not randomly exploring data.
+INSTRUCTIONS:
+1. Start with readily available data before pursuing hard-to-access information
+2. Be respectful of privacy and confidentiality when requesting internal data
+3. Focus on data most relevant to your specific problem and solution
+4. Document your data sources and analysis methods clearly
+5. Have backup plans for inaccessible data

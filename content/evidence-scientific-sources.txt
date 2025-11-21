@@ -1,434 +1,158 @@
-# Scientific Evidence: Research Findings with Effect Sizes
+# Scientific Evidence: Research Findings
+# Document and summarize the research studies you found
 
 ## Evidence Summary Overview
-**Total Studies Reviewed:** 3 peer-reviewed studies
-**Date Range:** 2008-2017 (last 15 years of research)
-**Geographic Scope:** United States, Europe, Multi-country
-**Quality Level:** HIGH (meta-analysis + longitudinal + large field study)
-**Total Combined Sample:** 72 studies synthesized + 6,000+ employees tracked
+**Total Studies Reviewed:** [Number]
+**Date Range of Studies:** [Earliest to most recent]
+**Geographic Scope:** [Countries/regions represented]
+**Quality Level:** [Overall assessment: High/Medium/Low]
 
----
-
-## STUDY 1: Recognition-Engagement Meta-Analysis
-
+## Study 1: [Title or Brief Description]
 ### Citation
-Stajkovic, A. D., & Luthans, F. (2003). Behavioral management and task performance in organizations: Conceptual background, meta-analysis, and test of alternative models. *Personnel Psychology, 56*(1), 155-194.
+[Full academic citation in APA format]
 
 ### Study Overview
-- **Research Design:** Meta-analysis (synthesizes 72 empirical studies)
-- **Sample Size:** Combined N = 13,301 employees across 72 studies
-- **Population:** Diverse workforce (manufacturing, services, professional)
-- **Setting:** United States and international organizations
-- **Duration:** Studies from 1975-2001 analyzed
+- **Research Design:** [Type of study - RCT, cohort, cross-sectional, etc.]
+- **Sample Size:** [Number of participants/organizations]
+- **Population:** [Who was studied?]
+- **Setting:** [Where was the study conducted?]
+- **Duration:** [How long was the study period?]
 
 ### Key Findings
+#### Related to Your Problem
+[What did this study find about your type of problem?]
 
-#### Effect Size 1: Recognition → Performance
-**Finding:** **r = 0.36** (correlation between recognition and work performance)
+#### Related to Your Solution
+[What did this study find about your type of solution?]
 
-**What This Means:**
-- Correlation of 0.36 is considered **medium-to-large effect** (Cohen's standards)
-- 13% of variance in performance explained by recognition alone (r² = 0.13)
-- For every 1 standard deviation increase in recognition, performance increases 0.36 SD
+#### Important Statistics/Results
+[Specific numbers, effect sizes, confidence intervals]
 
-**Translation to Our Context:**
-- If recognition increases engagement (performance proxy), expect **medium effect**
-- Our 62%→70% (+8 points) aligns with 0.36 effect size
-- Conservative estimate: Recognition explains 10-15% of engagement variance
-
-#### Effect Size 2: Non-Monetary vs. Monetary Recognition
-**Finding:** Non-monetary recognition **r = 0.34**, nearly equal to monetary (r = 0.38)
-
-**What This Means:**
-- **Non-monetary recognition is 90% as effective** as monetary rewards
-- Our zero-budget constraint is NOT a fatal limitation
-- Public recognition, thank-yous, growth opportunities are legitimate interventions
-
-**For Our Situation:**
-✓ Validates our zero-salary-budget approach
-✓ Supports practitioner evidence (Gallup/SHRM "non-monetary works")
-✓ Our M interventions (recognition without pay raises) scientifically valid
+### Relevance Assessment
+- **Problem Relevance:** [High/Medium/Low - why?]
+- **Solution Relevance:** [High/Medium/Low - why?]
+- **Context Similarity:** [How similar to your situation?]
 
 ---
 
-## STUDY 2: Recognition Frequency and Turnover
-
+## Study 2: [Title or Brief Description]
 ### Citation
-Aguinis, H., Joo, H., & Gottfredson, R. K. (2013). What monetary rewards can and cannot do: How to show employees the money. *Business Horizons, 56*(2), 241-249.
+[Full academic citation in APA format]
 
 ### Study Overview
-- **Research Design:** Multi-organization field study (quasi-experimental)
-- **Sample Size:** N = 6,042 employees from 152 work units
-- **Population:** Professional services employees (financial services, consulting)
-- **Setting:** United States, mid-size to large organizations
-- **Duration:** 18-month tracking period (2010-2012)
+- **Research Design:** [Type of study]
+- **Sample Size:** [Number of participants/organizations]
+- **Population:** [Who was studied?]
+- **Setting:** [Where was the study conducted?]
+- **Duration:** [How long was the study period?]
 
 ### Key Findings
+#### Related to Your Problem
+[What did this study find about your type of problem?]
 
-#### Effect Size 3: Recognition Frequency → Turnover Reduction
-**Finding:** **HR = 0.72** (Hazard Ratio for turnover with weekly recognition)
+#### Related to Your Solution
+[What did this study find about your type of solution?]
 
-**What This Means:**
-- Employees receiving weekly recognition have **28% lower turnover risk** (1 - 0.72 = 0.28)
-- HR < 1.0 = reduced risk (0.72 = 28% reduction)
-- This is **cumulative** - effect compounds over time
+#### Important Statistics/Results
+[Specific numbers, effect sizes, confidence intervals]
 
-**Translation to Our Context:**
-- Our goal: 18% → 13% turnover (28% reduction)
-- **Scientific evidence EXACTLY matches our target** (28% reduction)
-- Weekly recognition (our plan: increase 23%→65%) supported by effect size
-
-#### Effect Size 4: Manager-Delivered vs. Peer Recognition
-**Finding:** Manager recognition **β = 0.41**, peer recognition β = 0.19
-
-**What This Means:**
-- Manager recognition has **2.2X stronger effect** than peer recognition
-- Standardized coefficient (β) of 0.41 = large effect
-- Our focus on **manager training** is scientifically optimal choice
-
-**For Our Situation:**
-✓ Validates manager training as primary intervention (not peer-to-peer)
-✓ Explains why SHRM found "only 12% train managers" = missed opportunity
-✓ Our capability gap (manager confidence 4.2→7.5) is the right target
+### Relevance Assessment
+- **Problem Relevance:** [High/Medium/Low - why?]
+- **Solution Relevance:** [High/Medium/Low - why?]
+- **Context Similarity:** [How similar to your situation?]
 
 ---
 
-## STUDY 3: Autonomy, Growth, and Engagement (Longitudinal)
-
+## Study 3: [Title or Brief Description]
 ### Citation
-Bakker, A. B., & Demerouti, E. (2017). Job demands-resources theory: Taking stock and looking forward. *Journal of Occupational Health Psychology, 22*(3), 273-285.
+[Full academic citation in APA format]
 
 ### Study Overview
-- **Research Design:** Longitudinal field study (3-wave panel design)
-- **Sample Size:** N = 2,555 employees (85% retention across 3 waves)
-- **Population:** Knowledge workers (professional services, IT, finance)
-- **Setting:** Netherlands and Belgium organizations
-- **Duration:** 18 months (surveys at T1, T2, T3 - 6-month intervals)
+- **Research Design:** [Type of study]
+- **Sample Size:** [Number of participants/organizations]
+- **Population:** [Who was studied?]
+- **Setting:** [Where was the study conducted?]
+- **Duration:** [How long was the study period?]
 
 ### Key Findings
+#### Related to Your Problem
+[What did this study find about your type of problem?]
 
-#### Effect Size 5: Autonomy → Engagement
-**Finding:** **β = 0.29** (standardized regression coefficient, controlling for baseline)
+#### Related to Your Solution
+[What did this study find about your type of solution?]
 
-**What This Means:**
-- Autonomy predicts 8.4% of engagement variance (β² = 0.084)
-- Small-to-medium effect size
-- **Longitudinal design = temporal precedence** (autonomy causes engagement, not just correlation)
+#### Important Statistics/Results
+[Specific numbers, effect sizes, confidence intervals]
 
-**Translation to Our Context:**
-- Our M includes "autonomy" (work-life balance, flexible work)
-- Expect **+3-5 engagement points** from autonomy alone
-- Combined with recognition (larger effect), total +8 points feasible
-
-#### Effect Size 6: Growth Opportunities → Engagement
-**Finding:** **β = 0.33** (standardized regression coefficient)
-
-**What This Means:**
-- Growth opportunities predict 10.9% of engagement variance
-- Medium effect size
-- Longitudinal: Growth at T1 predicts engagement at T2 (6 months later)
-
-**For Our Situation:**
-✓ Our M includes "growth & development" (skill building, cross-training)
-✓ Expect **+4-6 engagement points** from growth interventions
-✓ Scientific support for multi-faceted M (recognition + autonomy + growth)
-
-#### Effect Size 7: Combined Model (Recognition + Autonomy + Growth)
-**Finding:** **R² = 0.31** (multiple regression combining all 3 factors)
-
-**What This Means:**
-- **31% of engagement variance explained** by recognition + autonomy + growth together
-- This is **additive effect** (all 3 interventions together stronger than any alone)
-- R² = 0.31 considered **large effect** in field studies
-
-**Translation to Our Context:**
-- Our 62%→70% (+8 points, or +13% relative increase) **fits within R² = 0.31 range**
-- Scientific justification for combining all 3 interventions (not just recognition alone)
-- Matches practitioner evidence: "multi-faceted approaches work best"
+### Relevance Assessment
+- **Problem Relevance:** [High/Medium/Low - why?]
+- **Solution Relevance:** [High/Medium/Low - why?]
+- **Context Similarity:** [How similar to your situation?]
 
 ---
 
-## Cross-Study Synthesis
+## Additional Studies Summary
+[For studies 4+, you can use shorter summaries]
 
-### Consistent Findings Across All 3 Studies:
+### Study 4: [Brief title]
+- **Citation:** [Short citation]
+- **Key Finding:** [Most important result]
+- **Relevance:** [Why this matters to your problem/solution]
 
-**1. Non-Monetary Interventions Work**
-- Study 1: r = 0.34 (non-monetary nearly equals monetary)
-- Study 2: Weekly recognition reduces turnover 28%
-- Study 3: Autonomy/growth (free interventions) predict engagement
+### Study 5: [Brief title]
+- **Citation:** [Short citation]
+- **Key Finding:** [Most important result]
+- **Relevance:** [Why this matters to your problem/solution]
 
-**Confidence:** **HIGH** - All 3 studies support zero-budget approach
+## Cross-Study Analysis
 
----
+### Consistent Findings
+[What do multiple studies agree on?]
 
-**2. Manager Role is Critical**
-- Study 1: Recognition must be delivered effectively (need training)
-- Study 2: Manager recognition 2.2X stronger than peer (β = 0.41 vs. 0.19)
-- Study 3: Supervisor support (autonomy) mediates engagement
+#### About the Problem
+[Common findings about your type of problem]
 
-**Confidence:** **HIGH** - Manager training is evidence-based priority
+#### About Solutions
+[Common findings about effective solutions]
 
----
+### Conflicting Evidence
+[Where do studies disagree?]
 
-**3. Frequency Matters (Weekly Minimum)**
-- Study 1: Meta-analysis included "frequency" as moderator (weekly > monthly)
-- Study 2: Defined "weekly recognition" as threshold (HR = 0.72)
-- Study 3: Longitudinal design shows sustained interventions needed (18 months)
+#### Nature of Conflicts
+[What are the disagreements about?]
 
-**Confidence:** **HIGH** - Our 23%→65% weekly recognition goal scientifically grounded
+#### Possible Explanations
+[Why might studies disagree?]
 
----
+### Evidence Gaps
+[What questions remain unanswered by current research?]
 
-**4. Multiple Interventions Stronger Than Single**
-- Study 1: Recognition alone r = 0.36 (medium effect)
-- Study 2: Recognition + manager support stronger than either alone
-- Study 3: Combined model R² = 0.31 (large effect) vs. individual β = 0.29-0.33
+## Synthesis for Decision Making
 
-**Confidence:** **HIGH** - Our M (Recognition + Training + Autonomy + Growth) is optimal design
+### Strength of Evidence
+**For Problem Existence:** [Strong/Moderate/Weak evidence]
+**For Solution Effectiveness:** [Strong/Moderate/Weak evidence]
 
----
+### Key Insights for Your Situation
+[What does the research collectively tell you?]
 
-### No Conflicting Evidence Found
+#### Problem-Related Insights
+[What research says about your problem]
 
-All 3 studies align on:
-- Effect direction (positive)
-- Effect magnitude (medium-to-large)
-- Mechanism (manager-delivered, frequent, non-monetary effective)
+#### Solution-Related Insights
+[What research says about your proposed solution]
 
-**Why No Conflicts:**
-- Similar theoretical framework (Job Demands-Resources model)
-- Similar populations (professional/knowledge workers)
-- Similar outcome measures (engagement, performance, turnover)
+#### Implementation Considerations
+[What research suggests about how to implement]
 
----
-
-## Connecting to Our X→M→Y Hypothesis
-
-**Our Hypothesis:** 62% engagement → (Recognition + Manager Training + Autonomy + Growth) → 70% engagement, 18% turnover → 13%
-
-### Scientific Evidence Support:
-
-| Our Prediction | Scientific Effect Size | Match? |
-|----------------|------------------------|--------|
-| **Engagement +8 points** | R² = 0.31 (31% variance explained) | ✅ YES |
-| **Turnover 28% reduction** | HR = 0.72 (28% reduction) | ✅ EXACT |
-| **Non-monetary effective** | r = 0.34 (90% of monetary effect) | ✅ YES |
-| **Manager role critical** | β = 0.41 (2.2X stronger) | ✅ YES |
-| **Weekly frequency** | HR = 0.72 (weekly threshold) | ✅ YES |
-
-**Overall Evidence Strength:** **HIGH**
+### Research-Based Recommendations
+[What does the scientific evidence suggest you should do?]
 
 ---
-
-## Evidence Gaps (What Science Doesn't Tell Us)
-
-**1. Small Organization Context:**
-- All 3 studies: Samples include mid-to-large organizations
-- Missing: Effect sizes specific to 50-employee organizations
-- **Impact:** Unknown if effects generalize downward in size
-
-**2. Professional Services Industry:**
-- Study 2 includes financial services (close match)
-- Studies 1 & 3: Diverse industries (not professional services specific)
-- **Impact:** Moderate - financial services similar to our context
-
-**3. 12-Week Pilot Timeline:**
-- Study 3: 18-month longitudinal (longer than our pilot)
-- Study 2: Measured turnover over 18 months
-- **Impact:** Our 12-week pilot may show adoption, not full engagement/turnover effects
-
-**4. Salary Freeze Context:**
-- No studies explicitly tested "zero salary increase" constraint
-- All assumed stable compensation context
-- **Impact:** Unknown if salary freeze moderates effect sizes
-
----
-
-## CRITICAL APPRAISAL (Using CAT Manager Evaluation)
-
-### Study 1 Critical Appraisal: Stajkovic & Luthans (2003) Meta-Analysis
-
-**CAT Manager Evaluation:**
-
-**Study Design Strength:** ⭐⭐⭐⭐⭐ (5/5)
-- Meta-analysis = highest level of evidence
-- 72 studies synthesized (N=13,301 combined)
-- Rigorous inclusion criteria (peer-reviewed only)
-- Publication bias assessed (fail-safe N calculated)
-
-**Relevance to Our Question:** ⭐⭐⭐⭐ (4/5)
-- ✓ Recognition as predictor (our M)
-- ✓ Performance as outcome (engagement proxy)
-- ✓ Non-monetary vs. monetary comparison (our constraint)
-- ⚠ Performance ≠ engagement (related but not identical)
-
-**Study Limitations:**
-1. **Older Studies:** Meta-analysis includes 1975-2001 studies (20+ years old)
-   - Workforce demographics changed (Gen Z, remote work)
-   - May overestimate effects in modern context
-
-2. **Performance vs. Engagement:** Performance measured (productivity, sales), not engagement surveys
-   - Engagement is our Y, not performance
-   - Correlation likely exists but not perfectly generalizable
-
-3. **Context Heterogeneity:** 72 studies span manufacturing to services
-   - High variance in contexts
-   - Effect may be smaller in professional services specifically
-
-**Can We Address Limitations?**
-✓ **Age:** Will triangulate with recent practitioner evidence (Gallup/SHRM 2024)
-✓ **Outcome Mismatch:** Will use FEVS engagement data to validate
-⚠ **Context:** Cannot isolate professional services - accept moderate uncertainty
-
-**Overall Confidence in Study 1:** **MEDIUM-HIGH**
-- Gold-standard design (meta-analysis)
-- Effect size clear and actionable (r = 0.36)
-- Some context/outcome limitations
-
----
-
-### Study 2 Critical Appraisal: Aguinis et al. (2013) Field Study
-
-**CAT Manager Evaluation:**
-
-**Study Design Strength:** ⭐⭐⭐⭐ (4/5)
-- Large N = 6,042 (adequate power)
-- Multi-organization (152 work units reduces single-org bias)
-- 18-month tracking (longitudinal aspect)
-- Turnover = objective outcome (not self-report)
-
-**Relevance to Our Question:** ⭐⭐⭐⭐⭐ (5/5)
-- ✓ Recognition frequency as predictor (our M)
-- ✓ Turnover as outcome (our Y)
-- ✓ Manager vs. peer recognition comparison (our focus on manager training)
-- ✓ Professional services context (financial services)
-- ✓ Weekly recognition threshold (our 23%→65% goal)
-
-**Study Limitations:**
-1. **Quasi-Experimental:** No random assignment to recognition conditions
-   - Selection bias possible (engaged employees may seek recognition)
-   - Cannot definitively claim causation
-
-2. **Self-Selection:** Recognition "frequency" self-reported by employees
-   - May confound with other manager behaviors
-   - Engaged employees may perceive more recognition
-
-3. **Turnover Lag:** 18-month study (our pilot = 12 weeks)
-   - Won't see full turnover effects in our timeline
-   - Can measure engagement, not turnover reduction
-
-**Can We Address Limitations?**
-✓ **Causation:** Longitudinal design (recognition precedes turnover) supports causality
-✓ **Self-Report:** Will track manager recognition delivery objectively in pilot
-⚠ **Timeline:** Accept that 12-week pilot measures adoption, not turnover reduction
-
-**Overall Confidence in Study 2:** **HIGH**
-- Excellent context match (professional services)
-- Clear effect size for turnover (HR = 0.72)
-- Manager role validated (β = 0.41)
-- Timeline limitation acknowledged
-
----
-
-### Study 3 Critical Appraisal: Bakker & Demerouti (2017) Longitudinal
-
-**CAT Manager Evaluation:**
-
-**Study Design Strength:** ⭐⭐⭐⭐⭐ (5/5)
-- Longitudinal 3-wave design (strongest non-experimental design)
-- Temporal precedence established (X at T1 → Y at T2)
-- 85% retention (low attrition bias)
-- Validated scales (Utrecht Work Engagement Scale)
-- Structural equation modeling (controls confounds)
-
-**Relevance to Our Question:** ⭐⭐⭐⭐ (4/5)
-- ✓ Autonomy + Growth as predictors (our M interventions)
-- ✓ Engagement as outcome (our Y)
-- ✓ Knowledge workers (similar to professional services)
-- ✓ Combined model (R² = 0.31) validates multi-faceted M
-- ⚠ European sample (Netherlands/Belgium vs. U.S.)
-
-**Study Limitations:**
-1. **Geographic Context:** European organizations (different labor laws, culture)
-   - Work-life balance norms differ in Europe vs. U.S.
-   - Autonomy may be higher baseline in European context
-
-2. **Missing Recognition Variable:** Study focuses on autonomy/growth, less on recognition
-   - Cannot directly test our "recognition + manager training" emphasis
-   - Rely on Studies 1 & 2 for recognition effect sizes
-
-3. **Self-Report Engagement:** Engagement measured by survey (not objective)
-   - Common-method bias possible (same person reports X and Y)
-   - SEM controls for this partially, but not completely
-
-**Can We Address Limitations?**
-✓ **Geographic:** Effect sizes for autonomy/growth likely generalizable (universal psychological needs)
-✓ **Recognition:** Combine with Studies 1 & 2 for full M picture
-✓ **Self-Report:** Will use FEVS objective metrics to triangulate
-
-**Overall Confidence in Study 3:** **HIGH**
-- Excellent design (longitudinal establishes causality)
-- Clear effect sizes for autonomy (β = 0.29) and growth (β = 0.33)
-- Combined model (R² = 0.31) validates our multi-intervention approach
-
----
-
-## OVERALL CONFIDENCE ASSESSMENT
-
-### Strengths of Scientific Evidence Base:
-
-✅ **Design Quality:** Meta-analysis + longitudinal + large field study = HIGH quality
-✅ **Effect Size Clarity:** All 3 studies report actionable effect sizes (r, β, HR, R²)
-✅ **Consistency:** No conflicting findings across studies
-✅ **Relevance:** Recognition, manager role, autonomy, growth all addressed
-✅ **Outcome Match:** Engagement and turnover directly measured
-
-### Limitations of Scientific Evidence Base:
-
-⚠ **Context Gaps:**
-- Small organization (50 employees) not specifically studied
-- Professional services underrepresented (except Study 2)
-- Salary freeze context not explicitly tested
-
-⚠ **Timeline Mismatch:**
-- Studies track 18+ months
-- Our 12-week pilot shorter (will measure adoption, not full outcomes)
-
-⚠ **Causality Uncertainty:**
-- Study 1: Meta-analysis (correlational)
-- Study 2: Quasi-experimental (no random assignment)
-- Study 3: Longitudinal (best for causality, but still observational)
-
-### Confidence Rating by Hypothesis Component:
-
-| Hypothesis Element | Confidence | Rationale |
-|--------------------|------------|-----------|
-| **X (Problem Exists)** | HIGH | FEVS validates 62% < benchmark |
-| **M (Recognition Works)** | **HIGH** | Study 1: r = 0.36, Study 2: HR = 0.72 |
-| **M (Manager Training Key)** | **HIGH** | Study 2: β = 0.41 (2.2X stronger) |
-| **M (Autonomy/Growth Work)** | **HIGH** | Study 3: β = 0.29-0.33, R² = 0.31 |
-| **M (Non-Monetary OK)** | **HIGH** | Study 1: r = 0.34 (90% of monetary) |
-| **Y (Engagement +8)** | **MEDIUM-HIGH** | R² = 0.31 supports, context gaps reduce certainty |
-| **Y (Turnover -5)** | **MEDIUM** | HR = 0.72 supports, but 12-week timeline too short to observe |
-
----
-
-### Final Scientific Evidence Confidence: **MEDIUM-HIGH**
-
-**Why Medium-High (Not High):**
-- Design quality is HIGH (meta-analysis + longitudinal)
-- Effect sizes are clear and consistent
-- BUT: Context gaps (small org, professional services, salary freeze) create uncertainty
-- BUT: Timeline mismatch (12 weeks vs. 18 months) limits Y outcome confidence
-
-**Recommendation:**
-Use scientific evidence to:
-1. ✅ Justify M interventions (recognition, manager training, autonomy, growth) - HIGH confidence
-2. ✅ Set realistic expectations for engagement gain (+8 points feasible) - MEDIUM-HIGH confidence
-3. ⚠ Measure turnover as long-term goal (not 12-week pilot outcome) - Acknowledge timeline limitation
-
-**Triangulation Strategy:**
-- Scientific evidence provides **effect sizes and causality**
-- Practitioner evidence provides **context and implementation guidance**
-- Organizational evidence provides **problem validation and benchmark**
-- Together = **HOLISTIC EVIDENCE BASE** for decision-making
+INSTRUCTIONS:
+1. Include at least 3-5 high-quality studies
+2. Focus on findings most relevant to your specific problem and solution
+3. Be objective - include both supportive and challenging evidence
+4. Use proper academic citations
+5. Connect findings back to your specific management problem
+6. Don't just summarize - analyze and synthesize across studies
