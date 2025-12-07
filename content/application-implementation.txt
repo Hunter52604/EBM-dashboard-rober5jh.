@@ -1,269 +1,290 @@
-# Application: Implementation Plan
-# Translating evidence into actionable implementation strategy
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                       APPLICATION: Implementation Plan                        ║
+║                   Evidence-Based Recognition & Growth Program                 ║
+║                                                                               ║
+║           💰 MINIMAL BUDGET ($1K) | 🤝 MAXIMUM COORDINATION (62 HR hrs)      ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
 
-## Solution Design Summary
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+                              PROGRAM OVERVIEW
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### Final Solution Description
-**Solution Name:** [Brief name for your evidence-based solution]
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃  WHY 3 PARTS? Evidence Shows Recognition Alone Isn't Enough              ┃
+┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
+┃ • Recognition alone = 13% of variance (Scientific: r=0.36)               ┃
+┃ • Combined model = 31% of variance (Scientific: R²=0.31)                 ┃
+┃ • Training + Autonomy + Growth = 2.4X more powerful than recognition     ┃
+┃                                                                          ┃
+┃ Evidence-based design: Use ALL interventions that work, not just one.    ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 
-**Core Components:**
-1. [First major component of solution]
-2. [Second major component of solution]  
-3. [Third major component of solution]
-4. [Additional components as needed]
+╔════════════════════════╗  ╔════════════════════════╗  ╔════════════════════════╗
+║   PART 1               ║  ║   PART 2               ║  ║   PART 3               ║
+║   Training Managers    ║  ║   Weekly Recognition   ║  ║   Freedom & Growth     ║
+╠════════════════════════╣  ╠════════════════════════╣  ╠════════════════════════╣
+║ Week 1-2               ║  ║ Week 3-14              ║  ║ Ongoing                ║
+║ 2 hours per mgr        ║  ║ 5 min/week public      ║  ║ Quarterly talks        ║
+║ 2.2X effect size       ║  ║ + private 1-on-1       ║  ║ Employee autonomy      ║
+╚════════════════════════╝  ╚════════════════════════╝  ╚════════════════════════╝
 
-**Evidence Base:** [Brief summary of how different evidence types shaped this solution]
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃  EVIDENCE STRENGTH                                                       ┃
+┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
+┃ Academic Research (40%) ████████████████ HIGH   Strong studies           ┃
+┃ Industry Experts (30%)  ██████████████   MED-HIGH   Gallup, SHRM         ┃
+┃ Survey Data (20%)       ██████████████   MED-HIGH   FEVS benchmarks      ┃
+┃ Stakeholder Input (10%) ██████████       MEDIUM   5 groups agree         ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 
-### Theory of Change
-**Problem:** [Current undesirable situation]
-**Inputs:** [Resources and activities you'll invest]
-**Activities:** [What you'll actually do]
-**Outputs:** [Direct products of your activities]
-**Outcomes:** [Changes you expect to result]
-**Impact:** [Ultimate goal you're trying to achieve]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+                              THEORY OF CHANGE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-**Assumptions:** [Key assumptions underlying your theory of change]
-**External Factors:** [Outside forces that could affect success]
+**PROBLEM:**
+• 62% engagement (4.2 points below benchmark)
+• 18% turnover (5 points above normal)
+• 23% get weekly recognition (10 points below standard)
+• Pay freeze - can't use salary increases
 
-## Implementation Planning
+**INPUTS:**
+• 5 managers × 2hr training
+• HR: 62 hours over 16 weeks
+• Budget: $1,000
+• Google Sheets tracker
 
-### Phase 1: Preparation [Timeline: Week/Month X to Y]
+**ACTIVITIES:**
+1. Train managers on individualized recognition (Week 1-2)
+2. Weekly public recognition (team meetings, 5 min)
+3. Weekly private recognition (1-on-1s, 5 min)
+4. Quarterly growth conversations (1 hour each)
+5. Track in Google Sheets (ongoing)
 
-#### Preparation Activities
-**Activity 1:** [First preparation step]
-- **Purpose:** [Why this preparation step is necessary]
-- **Deliverables:** [What will be produced/accomplished]
-- **Resources Needed:** [People, time, money, materials required]
-- **Success Criteria:** [How you'll know this step is complete]
+**OUTPUTS:**
+• 5 trained managers
+• 65% weekly recognition coverage (up from 23%)
+• 600+ logged recognition entries
+• 50 development conversations
 
-**Activity 2:** [Second preparation step]
-- **Purpose:** [Why this preparation step is necessary]
-- **Deliverables:** [What will be produced/accomplished]
-- **Resources Needed:** [People, time, money, materials required]
-- **Success Criteria:** [How you'll know this step is complete]
+**OUTCOMES (12 weeks):**
+• Engagement: 62% → 70% (+8 points, 95% confidence)
+• Recognition: 23% → 65% (+42 points, 95% confidence)
+• Autonomy: 58% → 66% (+8 points, 88% confidence)
+• Development: 64% → 72% (+8 points, 88% confidence)
 
-**Activity 3:** [Third preparation step]
-[Follow same structure]
+**IMPACT (6-12 months):**
+• Turnover: 18% → 13% (-5 points, 75% confidence)
+• Cost savings: $187,500/year
+• Competitive advantage in non-monetary engagement
 
-#### Preparation Phase Milestones
-- [ ] [First major preparation milestone]
-- [ ] [Second major preparation milestone]
-- [ ] [Third major preparation milestone]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+                           IMPLEMENTATION TIMELINE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-#### Stakeholder Engagement During Preparation
-**Management/Leadership:**
-- **Communication:** [What leaders need to know and when]
-- **Decision Points:** [What leaders need to approve/decide]
-- **Support Required:** [What support you need from leadership]
+### PHASE 0: PRE-LAUNCH (December 2025, Weeks -4 to -1)
 
-**Employees/Staff:**
-- **Communication:** [What staff need to know and when]
-- **Involvement:** [How staff will participate in preparation]
-- **Training/Support:** [What preparation staff need]
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ WEEK -4: Planning & Approval                                             ┃
+┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
+┃ • CEO approves $1K budget                                                ┃
+┃ • Schedule manager training                                              ┃
+┃ • Set up Google Sheets tracker                                           ┃
+┃ • Time: HR 5hrs, CEO 30min                                               ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 
-**Customers/Clients:**
-- **Communication:** [What customers need to know and when]
-- **Feedback Opportunities:** [How customers can provide input during preparation]
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ WEEK -3: Baseline Data Collection                                        ┃
+┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
+┃ • Survey all 50 employees (10 questions, 5 min)                          ┃
+┃ • Target: 80%+ response rate                                             ┃
+┃ • Document: 62% engagement, 23% recognition, 58% autonomy, 64% growth    ┃
+┃ • Time: HR 8hrs                                                           ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 
-**Partners/Suppliers:**
-- **Communication:** [What partners need to know and when]
-- **Coordination:** [How to coordinate with partner activities]
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ WEEK -2: Manager Engagement                                              ┃
+┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
+┃ • Meet with each manager (30 min)                                        ┃
+┃ • Identify 2 champions to start first                                    ┃
+┃ • Address concerns                                                       ┃
+┃ • Time: HR 5hrs                                                           ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 
-### Phase 2: Initial Implementation [Timeline: Week/Month X to Y]
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ WEEK -1: Final Preparation                                               ┃
+┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
+┃ • Print materials ($100)                                                 ┃
+┃ • Test Google Sheets and auto-reminders                                  ┃
+┃ • Create templates                                                       ┃
+┃ • Write kickoff email                                                    ┃
+┃ • Time: HR 10hrs                                                          ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 
-#### Initial Implementation Activities
-**Activity 1:** [First implementation step]
-- **Purpose:** [Why this step comes first]
-- **Deliverables:** [What will be produced/accomplished]
-- **Resources Needed:** [People, time, money, materials required]
-- **Success Criteria:** [How you'll know this step is working]
-- **Risk Mitigation:** [How you'll address potential problems]
+### PHASE 1: LAUNCH (Q1 2026, Weeks 1-2)
 
-**Activity 2:** [Second implementation step]
-[Follow same structure as Activity 1]
+**1. Manager Training (Week 1-2)**
+- 2-hour sessions for each of 5 managers (individual scheduling for flexibility)
+- Content: Individualized recognition (2.2X more effective per research β=0.41), practice scenarios, Google Sheets
+- Success: 100% attendance, >80% confidence, distinguish specific vs. generic
+- Time: HR 10hrs, managers 10hrs total
+- Budget: $300-400
 
-**Activity 3:** [Third implementation step]
-[Follow same structure as Activity 1]
+**2. Soft Launch (Week 2)**
+- 2-3 champion managers start first
+- Test system, refine approach, gauge employee response
+- Success: 5+ Google Sheets entries, no cynicism signals, CEO models at all-hands
+- Time: Champions 1hr each, HR 2hrs, CEO 15min
 
-#### Initial Implementation Milestones
-- [ ] [First major implementation milestone]
-- [ ] [Second major implementation milestone]
-- [ ] [Third major implementation milestone]
+**3. Kickoff Communication (Week 2)**
+- All-hands meeting (30 min) + follow-up email
+- Explain evidence (HR=0.72 effect size), logic model, voluntary nature
+- Success: >80% attendance, <5 opt-outs, >60% understand purpose
+- Time: HR 5hrs, CEO 30min, employees 30min
 
-#### Early Success Indicators
-**Process Indicators:** [Signs that implementation is proceeding as planned]
-**Outcome Indicators:** [Early signs that solution is working]
-**Stakeholder Response Indicators:** [Signs that stakeholders are responding positively]
+**Launch Milestones:**
+✓ All 5 managers trained with >80% confidence
+✓ Soft launch successful with positive feedback
+✓ Kickoff meeting >80% attendance
+✓ Google Sheets functional with 5-10 entries
 
-### Phase 3: Full Implementation [Timeline: Week/Month X to Y]
+### PHASE 2: FULL IMPLEMENTATION (Weeks 3-14, 12-week pilot)
 
-#### Full Implementation Activities
-[Follow same structure as Phase 2, focusing on scaling up and completing implementation]
+**1. Weekly Recognition System**
+- **What:** All 5 managers: public (team meetings) + private (1-on-1s) recognition
+- **Target:** 600+ Google Sheets entries, 65% coverage, each person recognized 8+ of 12 weeks
+- **Time:** Managers 30min/week, HR 2hrs/week
+- **Checkpoints:**
+  - Week 4: All managers >10 entries
+  - Week 8: >50% weekly recognition
+  - Week 14: 390+ total entries
 
-#### Full Implementation Milestones
-- [ ] [Major full implementation milestones]
+**2. Autonomy & Growth Integration**
+- **What:** 50 development conversations (1hr each), 2-3 autonomy experiments
+- **Focus:** Lowest FEVS scores (autonomy 58%, development 64%)
+- **Target:** All conversations by Week 8, scores improve 4+ points
+- **Time:** Managers 50hrs total, HR 3hrs
 
-#### Success Monitoring
+**3. Cynicism Monitoring**
+- **What:** Monthly pulse surveys (Week 6, 9, 12), manager retrospectives
+- **Key:** "Recognition feels genuine" (1-5 scale)
+- **Target:** >70% say genuine by Week 12
+- **Escalation:** <50% triggers CEO town hall within 3 days
+- **Time:** HR 6hrs, employees 15min total, managers 3hrs
+
+**Implementation Milestones:**
+✓ Week 4: All managers >50 combined entries
+✓ Week 8: 50 conversations done, >50% weekly recognition
+✓ Week 12: >70% say recognition feels genuine
+✓ Week 14: 390+ entries (65% coverage)
+
+### PHASE 3: EVALUATION & DECISION (Weeks 13-14)
+
+**Final Survey (Week 13):**
+- Same 10 questions as baseline
+- Target: >80% response rate
+- Results inform Continue/Adjust/Pivot decision (see Assessment tab for criteria)
+
 **Key Performance Indicators:**
-- **KPI 1:** [First measure of success] - Target: [Specific target]
-- **KPI 2:** [Second measure of success] - Target: [Specific target]
-- **KPI 3:** [Third measure of success] - Target: [Specific target]
 
-### Phase 4: Evaluation & Adjustment [Timeline: Week/Month X to Y]
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ KPI DASHBOARD                                                             ┃
+┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
+┃ Engagement:          62% → 70% (+8)    [95% confidence]  Red flag: <64%  ┃
+┃ Recognition Coverage: 23% → 65% (+42)  [95% confidence]  Red flag: <40%  ┃
+┃ Autonomy:            58% → 66% (+8)    [88% confidence]  Red flag: <62%  ┃
+┃ Development:         64% → 72% (+8)    [88% confidence]  Red flag: <68%  ┃
+┃ Feels Genuine:       ~50% → >70%       [Target]          Red flag: <50%  ┃
+┃ Manager Entries:     0 → 40 each       [Target]          Red flag: <10   ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 
-#### Evaluation Activities
-**Process Evaluation:** [How well implementation went]
-**Outcome Evaluation:** [Whether solution achieved intended results]
-**Impact Evaluation:** [Whether broader organizational goals were met]
-**Stakeholder Satisfaction Assessment:** [How stakeholders view the results]
+**Next Step:** See Assessment tab for full evaluation design and decision criteria.
 
-#### Adjustment Planning
-**Successful Elements to Maintain:** [What's working well that should continue]
-**Elements Needing Modification:** [What needs to be changed or improved]
-**Elements to Discontinue:** [What isn't working and should be stopped]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+                              RISK MANAGEMENT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## Resource Requirements
+**High-Priority Risks & Mitigation:**
 
-### Human Resources
-**Project Team Members:**
-- **Project Manager:** [Role description and time commitment]
-- **Team Member 1:** [Role and skills needed, time commitment]
-- **Team Member 2:** [Role and skills needed, time commitment]
-- **Subject Matter Experts:** [Expertise needed and when]
+1. **Manager Non-Compliance**
+   - Monitor: Weekly Google Sheets review
+   - Intervene: Week 4 if <10 entries (HR coaching)
+   - Escalate: Week 8 if still non-compliant (CEO meeting)
 
-**Stakeholder Time Requirements:**
-- **Leadership Time:** [What time commitment needed from leadership]
-- **Staff Time:** [What time commitment needed from staff]
-- **Customer Time:** [What time commitment needed from customers, if any]
+2. **Employee Cynicism**
+   - Monitor: Monthly pulse surveys
+   - Intervene: <50% genuine triggers town hall within 3 days
+   - Pivot: Employee task force redesigns approach if persistent
 
-### Financial Resources
-**Direct Costs:**
-- **Personnel:** [Cost of staff time dedicated to project]
-- **Technology:** [Cost of any technology purchases or subscriptions]
-- **Materials:** [Cost of materials and supplies]
-- **Training:** [Cost of training activities]
-- **External Services:** [Cost of consultants or contractors]
+3. **Time Constraints**
+   - Streamline: 30-min conversations if 1-hour not feasible
+   - Integrate: Use existing meetings where possible
+   - Prioritize: Focus on highest-impact activities first
 
-**Indirect Costs:**
-- **Opportunity Cost:** [Value of other activities that won't be done due to this project]
-- **Infrastructure:** [Cost of space, utilities, etc.]
+4. **Timeline Mismatch**
+   - Clarify: 12 weeks measures adoption, not outcomes
+   - Track: Leading indicators (recognition frequency, engagement)
+   - Plan: 6-12 month follow-up for turnover impact
 
-**Total Estimated Cost:** [Sum of all costs]
+**Key Assumptions:**
+• Managers follow through consistently (not "checking box")
+• Recognition feels genuine to employees
+• Weekly frequency maintained
+• Opportunities for autonomy exist in current roles
 
-### Technology and Infrastructure Requirements
-**Technology Needs:**
-- [List any technology requirements]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+                    WHAT EVERYONE NEEDS TO DO
+                (HR Coordinates, Everyone Participates)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-**Physical Infrastructure Needs:**
-- [List any space or equipment requirements]
+**HR (Coordinator Role - 62 hours total):**
+• Set up systems: Google Sheets tracker, survey platform, training materials (Week -4 to -1)
+• Deliver manager training: 2hr sessions with each of 5 managers (Week 1-2)
+• Monitor compliance: Weekly data checks, coach managers if <10 entries (Ongoing)
+• Analyze results: Monthly pulse surveys, final evaluation (Week 13-14)
+• Report to leadership: Weekly CEO updates, final recommendation (Week 14)
 
-**Information Systems Requirements:**
-- [List any data or systems integration needs]
+**CEO (Sponsor Role - 5 hours total):**
+• Approve $1K budget and give visible support (Week -4)
+• Attend training kickoff to show importance (Week 1, 15min)
+• Model recognition at all-hands meeting (Week 2, 30min)
+• Receive weekly updates from HR (15min/week)
+• Make Continue/Adjust/Pivot decision (Week 14, 1hr)
 
-## Risk Management
+**Managers (Delivery Role - 72 hours total, ~14 hrs each):**
+• Attend pre-meeting to address concerns (Week -2, 30min)
+• Complete 2hr training on individualized recognition (Week 1-2)
+• Deliver weekly recognition: public (team meetings) + private (1-on-1s) = 30min/week
+• Hold development conversations with direct reports (Week 5-8, 1hr each)
+• Participate in monthly retrospectives to share what's working (30min/month)
 
-### High-Probability Risks
+**Employees (Participant Role - 2 hours total):**
+• Complete baseline survey (Week -3, 10min)
+• Read kickoff communication and attend all-hands (Week 2, 30min)
+• Participate in pulse surveys (Week 6, 9, 12 = 15min total)
+• Provide honest feedback about recognition quality (ongoing)
+• Complete final survey (Week 13, 10min)
 
-#### Risk 1: [Most likely risk that could derail implementation]
-- **Likelihood:** [High/Medium/Low]
-- **Impact if Occurs:** [High/Medium/Low]
-- **Evidence Basis:** [What evidence suggests this risk]
-- **Early Warning Signs:** [How you'll detect this risk materializing]
-- **Mitigation Strategy:** [How you'll prevent or minimize this risk]
-- **Contingency Plan:** [What you'll do if this risk occurs despite mitigation]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+                          RESOURCE REQUIREMENTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-#### Risk 2: [Second most likely risk]
-[Follow same structure as Risk 1]
+**Budget:** $1,000 total
+- Training materials: $300-400
+- Communication materials: $100
+- Survey platform: $0 (Google Forms)
+- Contingency: $200
 
-#### Risk 3: [Third most likely risk]
-[Follow same structure as Risk 1]
+**Time Investment:**
+- HR: 62 hours over 16 weeks
+- Managers: 72 hours over 16 weeks (avg 14 hrs each)
+- Employees: 2 hours total (surveys + meetings)
+- CEO: 5 hours total
 
-### High-Impact Risks
-
-#### Risk: [Risk that would cause major problems if it occurred, even if unlikely]
-- **Likelihood:** [High/Medium/Low]
-- **Impact if Occurs:** [High/Medium/Low]
-- **Evidence Basis:** [What evidence suggests this risk]
-- **Monitoring Strategy:** [How you'll watch for this risk]
-- **Contingency Plan:** [What you'll do if this risk occurs]
-
-### Risk Mitigation Integration
-**Built-in Risk Mitigation:** [How your implementation plan already addresses major risks]
-**Adaptive Capacity:** [How you've built in ability to adjust if things don't go as planned]
-
-## Communication Plan
-
-### Communication Objectives
-- **Awareness:** [Who needs to know what about the implementation]
-- **Buy-in:** [Who needs to be convinced to support the implementation]
-- **Coordination:** [Who needs to coordinate their activities with implementation]
-- **Feedback:** [Who needs to provide ongoing feedback on implementation progress]
-
-### Communication by Stakeholder Group
-
-#### Leadership Communication
-- **Frequency:** [How often you'll communicate with leadership]
-- **Format:** [How you'll communicate - meetings, reports, etc.]
-- **Content:** [What information leadership needs]
-- **Feedback Mechanism:** [How leadership can provide input]
-
-#### Staff Communication
-- **Frequency:** [How often you'll communicate with staff]
-- **Format:** [How you'll communicate - meetings, emails, etc.]
-- **Content:** [What information staff needs]
-- **Two-way Communication:** [How staff can ask questions and provide feedback]
-
-#### Customer Communication
-- **Frequency:** [How often you'll communicate with customers]
-- **Format:** [How you'll communicate]
-- **Content:** [What information customers need]
-- **Feedback Collection:** [How you'll gather customer input]
-
-#### Partner Communication
-- **Frequency:** [How often you'll communicate with partners]
-- **Format:** [How you'll communicate]
-- **Content:** [What information partners need]
-- **Coordination Mechanism:** [How you'll coordinate activities with partners]
-
-## Success Criteria and Measurement
-
-### Short-term Success Criteria (0-3 months)
-- **Criterion 1:** [First short-term measure of success]
-- **Criterion 2:** [Second short-term measure of success]
-- **Criterion 3:** [Third short-term measure of success]
-
-### Medium-term Success Criteria (3-12 months)
-- **Criterion 1:** [First medium-term measure of success]
-- **Criterion 2:** [Second medium-term measure of success]
-- **Criterion 3:** [Third medium-term measure of success]
-
-### Long-term Success Criteria (12+ months)
-- **Criterion 1:** [First long-term measure of success]
-- **Criterion 2:** [Second long-term measure of success]
-- **Criterion 3:** [Third long-term measure of success]
-
-### Measurement Plan
-**Data Collection Methods:** [How you'll gather data on success criteria]
-**Measurement Frequency:** [How often you'll measure progress]
-**Reporting Schedule:** [When and how you'll report on progress]
-**Decision Points:** [When you'll use measurement data to make decisions about continuing, modifying, or stopping implementation]
-
-## Sustainability Planning
-
-### Ensuring Long-term Success
-**Institutionalization Strategy:** [How you'll make the solution a permanent part of how things work]
-**Continuous Improvement Process:** [How you'll keep improving the solution over time]
-**Knowledge Transfer:** [How you'll ensure knowledge about the solution persists even if people leave]
-
-### Resource Sustainability
-**Ongoing Resource Requirements:** [What resources will be needed to maintain the solution long-term]
-**Funding Strategy:** [How ongoing costs will be covered]
-**Efficiency Improvements:** [How you'll reduce costs over time while maintaining effectiveness]
+**ROI Projection (if successful):**
+- Cost: $1,000 + time = ~$5,000 total
+- Savings: $187,500/year if 5 employees retained
+- Return: 37X if turnover reduces as projected
 
 ---
-INSTRUCTIONS:
-1. Make your implementation plan specific and actionable
-2. Ground all activities and timelines in your evidence base
-3. Address the concerns and requirements identified in your stakeholder evidence
-4. Build in monitoring and adjustment mechanisms
-5. Consider both short-term implementation success and long-term sustainability
+
+**Implementation Plan Complete** | Ready for execution Q1 2026 | See assessment-monitoring.txt for evaluation details

@@ -1,10 +1,15 @@
-# Scientific Evidence: How We Found Peer-Reviewed Research
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║          SCIENTIFIC EVIDENCE: How We Found Peer-Reviewed Research             ║
+║            Systematic search strategy for high-quality evidence               ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
 
-## Research Question Aligned with Our Problem
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+                   Research Question Aligned with Our Problem
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 **Primary Question:** Does employee recognition improve engagement and reduce turnover?
 
-**Specific Sub-Questions:**
+**Specific Secondary-Questions:**
 1. What is the effect size of recognition programs on engagement?
 2. Does manager training improve recognition delivery effectiveness?
 3. What is the relationship between engagement and turnover?
@@ -21,9 +26,9 @@
 ## Search Strategy
 
 ### Databases Searched
-✓ **Google Scholar** - Multidisciplinary, largest coverage of management research
-✓ **PubMed/PsycINFO** - Organizational psychology research
-✓ **Business Source Premier** - Management and HR journals (JMU library access)
+**Google Scholar** - Multidisciplinary, largest coverage of management research
+**PubMed/PsycINFO** - Organizational psychology research
+**Business Source Premier** - Management and HR journals
 
 ### Search Terms Used
 
@@ -35,43 +40,36 @@
 
 **Effect Size Focus:**
 - Added: "effect size" OR "correlation" OR "meta-analysis"
-- Goal: Find quantitative results, not just qualitative findings
 
 **Filters Applied:**
 - **Date Range:** 2010-2024 (last 15 years, recent research)
 - **Language:** English
 - **Study Types:** Peer-reviewed empirical research, meta-analyses preferred
-- **Keywords:** Must include engagement OR turnover as outcome
+- **Keywords:** Must include engagement OR turnover as the outcome
 
 ### AI-Assisted Search
 
 **How AI Helped:**
 1. **Search term generation:** Suggested "recognition frequency" and "psychological needs" as relevant terms
 2. **Boolean refinement:** Helped structure ("recognition" OR "appreciation") AND ("engagement" OR "satisfaction")
-3. **Database recommendations:** Suggested starting with Google Scholar for meta-analyses
-
-**Human Decisions:**
-- Selected final 3 studies based on effect size clarity and relevance
-- Chose studies with diverse designs (meta-analysis + field studies)
-- Prioritized studies with mid-size organization samples
+3. **Database recommendations:** Suggested starting with Google Scholar for best meta-analyses
 
 ---
 
 ## Selection Criteria
 
 ### Inclusion Criteria (What We NEEDED):
-✓ Peer-reviewed publication in academic journal
-✓ **Quantitative effect sizes reported** (correlation, regression, Cohen's d)
-✓ Engagement or turnover as outcome variable
-✓ Recognition, manager training, or autonomy as predictor
-✓ Sample from workplace settings (not students)
+ Peer-reviewed publication in academic journal
+ Engagement or turnover as outcome variable
+ Recognition, manager training, or autonomy as predictor
+ Sample from workplace settings
 
 ### Exclusion Criteria (What We REJECTED):
-✗ Opinion pieces or conceptual papers (no empirical data)
-✗ Studies without clear effect sizes
-✗ Healthcare-specific studies (too context-specific)
-✗ Studies older than 15 years (2009 or earlier)
-✗ Non-English publications
+ Opinion pieces or conceptual papers (no empirical data)
+ Studies without clear effect sizes
+ Healthcare-specific studies (too context-specific)
+ Studies older than 15 years (2009 or earlier)
+ Non-English publications
 
 ---
 
@@ -105,22 +103,32 @@
 
 ## Quality Assessment Approach
 
-### Research Design Hierarchy (CEBMa Standards):
-1. ✓ **Meta-analyses** - Chungtai & Buckley (highest quality)
-2. ✓ **Longitudinal field studies** - Bakker & Demerouti (high quality - temporal order)
-3. ✓ **Cross-sectional field studies** - Aguinis et al. (medium-high quality - large N)
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ RESEARCH DESIGN HIERARCHY (CEBMa Standards)                               ┃
+┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
+┃ [1] Meta-analyses - Chungtai & Buckley (HIGHEST QUALITY)                  ┃
+┃ [2] Longitudinal field studies - Bakker & Demerouti (HIGH - temporal)     ┃
+┃ [3] Cross-sectional field studies - Aguinis et al. (MEDIUM-HIGH - large N)┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 
 ### Quality Checklist Applied:
-✓ Clear research question
-✓ Appropriate methodology (quantitative, effect sizes)
-✓ Adequate sample size (all N>1,000)
-✓ Valid measurement tools (established scales used)
-✓ Appropriate statistical analysis (correlation, regression, SEM)
-✓ Clear reporting of results (effect sizes with confidence intervals)
-✓ Discussion of limitations
-✓ Peer-reviewed publication in top-tier journals
 
-**Overall Quality:** HIGH - All 3 studies meet gold-standard criteria
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ STUDY QUALITY CRITERIA                                                      │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ ✓ Clear research question                                                   │
+│ ✓ Appropriate methodology (quantitative, effect sizes)                      │
+│ ✓ Adequate sample size (all N>1,000)                                        │
+│ ✓ Valid measurement tools (established scales used)                         │
+│ ✓ Appropriate statistical analysis (correlation, regression, SEM)           │
+│ ✓ Clear reporting of results (effect sizes with confidence intervals)       │
+│ ✓ Peer-reviewed publication in top-tier journals                            │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+╔═════════════════════════════════════════════════════════════════════════════╗
+║ OVERALL QUALITY: HIGH                                                       ║
+║ All 3 studies meet gold-standard criteria                                   ║
+╚═════════════════════════════════════════════════════════════════════════════╝
 
 ---
 
@@ -134,14 +142,13 @@
 **Reference Management:** Studies saved with full PDFs, effect sizes extracted into summary table
 
 **Evidence Extraction:** For each study documented:
-- Effect size (r, d, β)
 - Sample size and context
 - Key findings relevant to X→M→Y
 - Limitations and applicability to our 50-employee context
 
 ---
 
-## Search Limitations Acknowledged
+## Search Limitation
 
 **What We Couldn't Access:**
 - Some paywalled journals (relied on JMU library access where possible)
@@ -150,9 +157,7 @@
 **Topic-Specific Challenges:**
 - Few studies specifically on "50-employee organizations" (most samples are larger)
 - Limited studies with "zero salary budget" constraint
-- Most recognition studies don't separate manager vs. peer recognition
 
 **How We Addressed:**
 - Focused on effect sizes generalizable across contexts
-- Selected studies with diverse organization sizes
-- Will triangulate with practitioner evidence (Gallup/SHRM) for context
+- Selected studies with diverse organization size

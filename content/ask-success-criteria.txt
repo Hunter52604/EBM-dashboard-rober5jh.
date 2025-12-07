@@ -1,123 +1,263 @@
-Success Criteria
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║           SUCCESS: 12-Week Pilot Decision Framework                          ║
+║         Evidence-Based Experimentation Before Full Commitment                ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+
+**Organization Context:** 50-person professional services firm, 5 managers, salary freeze constraint
+**Budget:** $1,000 total investment ($13,815 including opportunity costs)
+**Timeline:** 12-week pilot (Q1 2026) measures leading indicators → 18-24 months for turnover
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ PILOT APPROACH                                                               │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ 12-week pilot → Measure leading indicators (engagement, recognition          │
+│ coverage, authenticity) → Make data-driven decision (Week 13-14:             │
+│ Continue/Adjust/Pivot) → If successful, measure turnover reduction over     │
+│ 18-24 months                                                                 │
+│                                                                              │
+│ This framework demonstrates evidence-based management: test hypotheses      │
+│ before scaling, establish success criteria upfront, commit to data-driven   │
+│ decisions even if results disappoint. $13,815 investment (0.1% of payroll)  │
+│ de-risks organizational change.                                              │
+└─────────────────────────────────────────────────────────────────────────────┘
 
 ═══════════════════════════════════════════════════════════════════════════════
-              SUCCESS: 12-Week Pilot Decision Framework (ZERO SALARY BUDGET)
+                        (SMART Criteria)
 ═══════════════════════════════════════════════════════════════════════════════
 
-## Pilot Logic: Constrained Experimentation Before Full Commitment
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  PRIMARY OUTCOMES — What ultimate goals are we trying to achieve?           │
+└─────────────────────────────────────────────────────────────────────────────┘
 
-Small-scale test (12 weeks, subset of managers/employees) → Measure multiple dimensions
-→ Make evidence-based decision (April 2026: scale, modify, or discontinue) → Full rollout
-only if criteria met WITHOUT MONETARY INCENTIVES
+**CRITICAL NOTE:** Both necessary for long-term success.
+   • High adoption + Low impact = Wrong intervention chosen
+   • Low adoption + Any impact = Implementation failure
 
-This pilot framework demonstrates evidence-based management: test hypotheses before scaling,
-establish success criteria upfront, commit to data-driven decisions even if results disappoint.
-Pilot de-risks large organizational change.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-═══════════════════════════════════════════════════════════════════════════════
-                        Dual Outcome Framework (SMART Criteria)
-═══════════════════════════════════════════════════════════════════════════════
+**1. EMPLOYEE ENGAGEMENT (Primary)** — [SPECIFIC & MEASURABLE]
 
-## PRIMARY OUTCOMES (Impact) — What ultimate goals are we trying to achieve?
+   ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+   ┃ BASELINE:  62% (FEVS 2024)                                            ┃
+   ┃              ↳ 4.2 points below 66.2% federal benchmark              ┃
+   ┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
+   ┃ TARGET:    70% (+8 percentage points)                                ┃
+   ┃              ↳ 95% confidence from meta-analysis (r=0.36)            ┃
+   ┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
+   ┃ PILOT TARGET:                                                         ┃
+   ┃    • ≥64% = Minimum (+2 shows directional progress)                  ┃
+   ┃    • ≥67% = Strong success                                           ┃
+   ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 
-Both necessary for long-term success. High adoption with low impact signals wrong
-intervention; low adoption with any impact signals implementation failure.
+   Method: Survey at Week 0 (baseline) and Week 13 (post-pilot)
+           Pulse surveys Week 6/9/12
 
-**1. Employee Engagement (Primary)** — [SPECIFIC & MEASURABLE]
-   • Baseline: 62% (Q4 2024 company survey)
-   • Target: 70% (+8 percentage points over 12 months)
-   • Pilot Target: +4 points increase in program teams within 12 weeks
-   • Method: 5-question team survey at Week 0 and Week 6
-   • Evidence basis: Similar non-monetary interventions achieve 3-7 point improvements
-     with 2 hours/week manager investment (Saks 2023 meta-analysis)
+   Evidence: Meta-analysis (72 studies, N=19,343) shows r=0.36
+             recognition → performance correlation
 
-**2. Voluntary Turnover (Impact if Scaled)** — [SPECIFIC & TIME-BOUND]
-   • Baseline: 18% annualized (Jan-Oct 2025 HR records)
-   • Target: 13% (-5 percentage points over 12 months)
-   • Financial Impact: $675K Year 1 savings, $1.35M two-year cumulative
-   • Method: 12-month continued rate from HR databases
-   • Evidence basis: Meta-analyses show 5-15% reductions from development programs
+   Decision Rule:
+      ┌──────────────────────────────────────────────────────────────────┐
+      │ ≥67%     → CONTINUE                                              │
+      │ 64-66%   → ADJUST                                                │
+      │ <64%     → PIVOT                                                 │
+      └──────────────────────────────────────────────────────────────────┘
 
-**3. Productivity (Team-Level)** — [ACHIEVABLE & MEASURABLE]
-   • Target: +3% output OR −5% task cycle time for program teams
-   • Method: Team KPIs (company-specific) or service metrics (response time, customer satisfaction)
-   • Timeline: Week 0 baseline vs. Week 6 measurement
+**2. Voluntary Turnover** — [SPECIFIC & TIME-BOUND]
+   • Baseline: 18% annualized (9 of 50 employees, $337,500 annual cost)
+   • Target: 13% (-5 points = 28% reduction, HR=0.72 from field study N=10,800)
+   • Financial Impact: $187,500/year savings IF achieved (4.5 fewer departures × $37,500 cost)
+   • Timeline: 18-24 MONTHS required (NOT measurable in 12-week pilot)
+   • Method: Track via HRIS, measure at Month 12/18/24 post-pilot
+   • Evidence basis: HR=0.72 (weekly recognition → 28% turnover reduction over 18-24 months)
+   • Note: Pilot measures LEADING indicators (engagement, recognition coverage, authenticity)
+     that predict whether turnover reduction will likely follow
+
+**3. Recognition Coverage** — [ACHIEVABLE & MEASURABLE]
+   • Baseline: 23% receive weekly recognition (10 points below Gallup 33% benchmark)
+   • Target: 65% (+42 points, HR=0.72 threshold for turnover reduction)
+   • Pilot Target: ≥50% minimum, ≥55% strong success, ≥65% full target
+   • Method: Google Sheets tracking (target 600+ entries over 12 weeks = 65% coverage)
+   • Timeline: Weekly tracking, Week 13 final count
+   • Evidence basis: Gallup 350M+ surveys show 33% benchmark, HR=0.72 requires weekly frequency
 
 ═══════════════════════════════════════════════════════════════════════════════
 
 ## IMPLEMENTATION INDICATORS (Adoption) — Are people using interventions?
 
-These show whether the intervention is being adopted. Both dimensions necessary for success.
+These show whether the intervention is being implemented faithfully. Both necessary for success.
 
-**1. Manager Confidence** — [MEASURABLE]
-   • Baseline: 4.2/10 (Sept 2025 leadership survey)
-   • Target: 7.5/10 (+3.3 points within 6 months)
-   • Pilot Target: ≥7/10 usefulness rating in program debrief
-   • Critical: Manager buy-in determines implementation success
+**1. Manager Training Completion** — [MEASURABLE]
+   • Baseline: 0% (no formal recognition training currently)
+   • Target: 100% of 5 managers complete 2-hour training with >80% confidence post-training
+   • Timeline: Week 1-2
+   • Method: Post-training survey, confidence rating 1-10 scale
+   • Decision trigger: <80% confidence → Additional coaching required
 
-**2. Recognition Frequency** — [SPECIFIC & RELEVANT]
-   • Baseline: 23% of employees receive feedback weekly
-   • Target: 65-73% weekly recognition (+42-50 points within 3-6 months)
-   • Method: Platform analytics tracking nomination frequency
+**2. Manager Implementation Fidelity** — [SPECIFIC & RELEVANT]
+   • Baseline: Current ad-hoc recognition (no tracking)
+   • Target: 80%+ of managers (4 of 5) achieve >40 Google Sheets entries over 12 weeks
+   • Method: Google Sheets audit every Monday, cumulative count
+   • Week 4 checkpoint: <10 entries → HR coaching intervention
+   • Week 8 checkpoint: <25 entries → CEO escalation
+   • Evidence: β=0.41 individualized recognition requires manager capability
 
-**3. Secondary Indicators:**
-   • Survey response rate ≥60% in program teams (participation proxy)
-   • Increase in peer recognition nominations per month (adoption metric)
-   • Manager time burden <2 hours/week (sustainability check)
+**3. Recognition Authenticity** — [CRITICAL SUCCESS FACTOR]
+   • Target: >70% employees perceive recognition as genuine (addresses biggest fear: cynicism)
+   • Threshold: <50% authentic triggers emergency town hall
+   • Method: Pulse surveys Week 6/9/12, 1 question: "Recognition feels genuine (not forced)"
+   • Evidence: Addresses stakeholder evidence (all 5 groups support IF authentic)
+
+**4. Development Conversations** — [TIME-BOUND]
+   • Target: 100% of 50 employees complete development conversation by Week 8
+   • Method: Manager self-report, HR verification via spot-checks
+   • Decision trigger: Non-compliant managers → CEO escalation
+   • Evidence: β=0.29-0.33 autonomy/growth effect requires development focus
+
+**5. Survey Response Rate** — [DATA QUALITY]
+   • Target: >80% baseline/post-pilot, >60% pulse surveys
+   • Method: Track responses vs. 50-employee roster
+   • Decision trigger: <60% → Data quality concern, may need to extend timeline
+   • Critical: Representative data needed for valid Continue/Adjust/Pivot decision
 
 ═══════════════════════════════════════════════════════════════════════════════
                           Leading Indicators & Red Flags
 ═══════════════════════════════════════════════════════════════════════════════
 
-## Early Signals (Within First 2 Weeks) — [RELEVANT]
+## Early Warning Signals (Week 1-6) — Triggers for Immediate Action
 
-✅ POSITIVE SIGNALS:
-• Higher participation in recognition activities
-• Manager engagement in training sessions
-• Employee questions about program features
-• Early adoption of recognition platform
+POSITIVE SIGNALS (Continue as planned):
+• Manager training confidence >80% (Week 2)
+• Google Sheets entries >30 in first 4 weeks (Week 4 checkpoint met)
+• Employee questions about program (curiosity indicates engagement)
+• Pulse survey authenticity >60% (Week 6)
+• No time burden complaints from managers
 
-🚩 RED FLAGS (Triggers for Course Correction):
-• Falling survey response rates (<50%)
-• Negative feedback comments from managers or employees
-• Manager reports of >2 hours/week time burden
-• Low recognition platform usage (<30% in first month)
-• Cynicism about "doing more with less" without salary increases
-
-═══════════════════════════════════════════════════════════════════════════════
-                    Timeline for Results (Evidence-Based Milestones)
-═══════════════════════════════════════════════════════════════════════════════
-
-**WEEKS 0-6: PILOT IMPLEMENTATION**
-• Implement program with representative teams
-• Collect Week 0 baseline: survey scores, turnover rates, team KPI data
-• Track manager time burden and recognition frequency weekly
-• Constraint reminder: All activities within $2,000 per manager operational budget
-
-**WEEKS 6-8: ANALYSIS & DECISION BRIEF**
-• Analyze pilot results across all metrics
-• Compare Week 0 vs. Week 6 data
-• Create decision brief for leadership
-• Gather manager debrief feedback (usefulness ratings)
-
-**MONTHS 3-6: SCALE DECISION** (April 2026 Go/No-Go)
-• Make evidence-based decision: scale, modify, or discontinue
-• Review engagement scores, productivity data, and manager ratings
-• Ensure no red flags detected before scaling
-
-**MONTH 12: SUSTAINED IMPACT EVALUATION**
-• Evaluate sustained turnover effects if scaled
-• Compare end-of-year survey scores with Week 0 baseline
-• Measure financial impact: actual turnover cost savings
-• Assess whether improvements achieved WITHOUT monetary incentives sustained
+RED FLAGS (Triggers immediate intervention):
+• <50% authenticity Week 6 → Emergency town hall (address cynicism immediately)
+• <10 Google Sheets entries Week 4 → HR coaching for non-compliant manager
+• Manager reports >2 hours/week → Streamline processes, reduce admin burden
+• Survey response <60% → Investigate participation barriers, extend deadline
+• Negative open-ended themes → Focus groups to understand root cause
 
 ═══════════════════════════════════════════════════════════════════════════════
-                      SUCCESS DECISION RULE (April 2026)
+                    Timeline for Results & Decision Points
 ═══════════════════════════════════════════════════════════════════════════════
 
-## Evidence-Based Go/No-Go Criteria:
+**WEEK -3 TO WEEK 0: BASELINE MEASUREMENT**
+• Baseline survey (engagement 62%, recognition 23%, autonomy 58%, development 64%)
+• Google Sheets tracker setup with auto-Friday-reminders
+• Manager pre-engagement (sell benefits, address concerns)
 
-✅ SCALE IF (All conditions must be met):
+**WEEKS 1-2: TRAINING & LAUNCH**
+• Manager training (5 sessions, 2 hours each, target >80% confidence)
+• Soft launch with 2-3 champion managers
+• Employee kickoff (CEO all-hands meeting modeling recognition)
+
+**WEEKS 3-14: IMPLEMENTATION & MONITORING**
+• Weekly recognition system (600+ entries target)
+• Development conversations (100% by Week 8)
+• WEEK 4 CHECKPOINT: Manager compliance audit (intervention if <10 entries)
+• WEEK 6 CHECKPOINT: First pulse survey (MAJOR DECISION POINT, <50% authentic triggers town hall)
+• WEEK 8 CHECKPOINT: Development conversation deadline (CEO escalation if non-compliant)
+• WEEK 9 CHECKPOINT: Second pulse survey
+• WEEK 12 CHECKPOINT: Final pilot pulse survey + manager retrospective
+
+**WEEKS 13-14: EVALUATION & CEO DECISION**
+• Post-pilot survey (compare to baseline)
+• Google Sheets content analysis (quality coding for authenticity)
+• Manager satisfaction survey
+• CEO decision meeting with Continue/Adjust/Pivot framework
+
+**MONTHS 6-24: LONG-TERM FOLLOW-UP (IF CONTINUED)**
+• Month 6: Sustainability check (engagement maintained? turnover trending down?)
+• Month 12: Annual survey, full-year turnover data, cost-benefit analysis
+• Month 18-24: Turnover target achieved? (18% → 13%, $187,500 savings realized?)
+
+═══════════════════════════════════════════════════════════════════════════════
+                      SUCCESS DECISION RULE (Week 13-14 CEO Meeting)
+═══════════════════════════════════════════════════════════════════════════════
+
+## Must-Achieve Criteria (ALL Required for Success)
+
+1. **Manager Implementation Fidelity:** 80%+ (4 of 5 managers) achieve >40 Google Sheets entries
+2. **Recognition Coverage Threshold:** ≥50% employees receive weekly recognition (up from 23%)
+3. **Authenticity Threshold:** ≥60% perceive recognition as genuine (addresses cynicism fear)
+4. **Engagement Directional Improvement:** ≥64% (+2 minimum shows progress toward 70% target)
+5. **Survey Data Quality:** ≥70% response rate (ensures representative data)
+
+**Decision:** If ANY Must-Achieve criterion fails → PIVOT (fundamental implementation problem)
+
+---
+
+## Continue Decision (Strong Success Profile)
+
+**Quantitative Indicators:**
+- Engagement ≥67% (+5 to +8 points from 62% baseline)
+- Recognition coverage ≥55% (600-700 Google Sheets entries)
+- Authenticity >70% (strong majority perceive genuine)
+- Manager compliance 80-100% (4-5 of 5 managers)
+- Autonomy/Development +4 to +8 points each
+
+**Qualitative Indicators:**
+- Open-ended themes cite recognition positively ("My manager notices my work")
+- Google Sheets >70% high-quality entries (specific, individualized, behavior-focused)
+- Manager retrospectives positive (sustainable, valuable, seeing results)
+- No major unintended negative consequences
+
+**Action:** 6-month extension, 70%→75% stretch target, measure turnover 12-18 months,
+institutionalize (job descriptions, performance reviews, onboarding)
+
+---
+
+## Adjust Decision (Moderate Success Profile)
+
+**Quantitative Indicators:**
+- Engagement 64-66% (+2 to +4 points, working but needs optimization)
+- Recognition coverage 40-54% (430-580 entries, partial adoption)
+- Authenticity 50-70% (mixed perceptions, some cynicism remains)
+- Manager compliance 60-80% (3 of 5 managers, gaps identified)
+- Autonomy/Development +0 to +3 points (limited progress)
+
+**Qualitative Indicators:**
+- Mixed themes (recognition helpful BUT workload/pay concerns remain)
+- Google Sheets 50-70% quality (generic recognition common, needs coaching)
+- Manager retrospectives identify barriers (time pressure, unclear how to individualize)
+
+**Action:** Investigate barriers via manager interviews + employee focus groups, implement
+targeted adjustments (if non-compliance → CEO accountability, if authenticity → more private
+recognition, if workload → workload reduction pilot, if timeline → extend 4-8 weeks),
+re-evaluate with clear go/no-go criteria
+
+---
+
+## Pivot Decision (Weak Success Profile)
+
+**Quantitative Indicators:**
+- Engagement <64% (0 to +1 points, insufficient progress)
+- Recognition coverage <40% (<430 entries, implementation failure)
+- Authenticity <50% (cynicism fear realized, fake/forced perception dominant)
+- Manager compliance <60% (0-2 of 5 managers, scaling not viable)
+- Autonomy/Development flat or negative (no mechanism working)
+
+**Qualitative Indicators:**
+- Themes NOT recognition-related (workload, pay, leadership issues dominate)
+- Google Sheets <50% quality (checkbox compliance, not authentic)
+- Manager retrospectives report deflection, unsustainability, value questioned
+- Negative unintended consequences (employee discomfort, favoritism perceptions)
+
+**Action - Three Options:**
+1. **Different intervention** if different root cause identified (e.g., workload reduction,
+   compensation study, leadership coaching), maintain recognition as hygiene factor
+2. **Honest assessment** if root cause unclear, gather more data via focus groups, exit
+   interviews, stay interviews before next intervention
+3. **Evidence doesn't apply** if faithful implementation produced no results (50-person
+   context different from 500-5,000 employee evidence base, professional services unique,
+   salary freeze creates different dynamic)
+═══════════════════════════════════════════════════════════════════════════════
+
+## Evidence-Based Go/No Criteria:
+
+Continue IF (All conditions must be met):
 
    [Engagement +4 points OR Productivity +3%]
             AND
@@ -127,24 +267,16 @@ These show whether the intervention is being adopted. Both dimensions necessary 
             AND
    [All improvements achieved with ZERO salary budget]
 
-❌ DO NOT SCALE IF:
+DO NOT Continue IF:
 • Success metrics not met
 • Manager time burden excessive (>2 hours/week)
 • Negative employee feedback about "doing more with less"
 • Low adoption rates (<50% participation)
 
-🔄 MODIFY & RE-TEST IF:
+MODIFY & RE-TEST IF:
 • Partial success (one criterion met but not all)
-• Promising early indicators but implementation challenges
+• Promising early indicators but other challenges
 • Manager feedback suggests design improvements
 
 This demonstrates commitment to data-driven decisions even if results disappoint.
-Pilot de-risks organizational change by enabling course correction before full investment.
-
-═══════════════════════════════════════════════════════════════════════════════
-                    CONSTRAINT REMINDER (Throughout All Phases)
-═══════════════════════════════════════════════════════════════════════════════
-
-🚫 ALL improvements must be achieved with operational budget $2,000 per manager max
-🚫 ZERO compensation increases, no raises, no bonuses, no monetary incentives
-🚫 Success criteria specifically designed for NON-MONETARY intervention context
+Pilot risks organizational change by enabling course correction before full investment.

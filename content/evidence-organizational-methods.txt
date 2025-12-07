@@ -1,6 +1,11 @@
-# Organizational Evidence: How We Acquired Federal Employee Data
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║         ORGANIZATIONAL EVIDENCE: How We Acquired Federal Employee Data        ║
+║              Systematic approach to internal data collection                  ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
 
-## The Problem We Need Organizational Data For
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+              The Problem We Need Organizational Data For
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 **Our Logic Model (X→M→Y):**
 ```
@@ -26,11 +31,11 @@ X (Problem):                    M (Intervention):                Y (Outcome):
 - Professional methodology (OPM survey standards)
 
 **Ethical Considerations:**
-✓ **Public Data:** No privacy violations (aggregated, anonymized data)
-✓ **Proper Attribution:** OPM/FEVS cited as source
-✓ **Appropriate Use:** Benchmark comparison (not claiming direct equivalence)
-✓ **Transparency:** Limitations acknowledged in analysis
-✓ **AI Documentation:** AI assistance disclosed
+- **Public Data:** No privacy violations (aggregated, anonymized data)
+- **Proper Attribution:** OPM/FEVS cited as source
+- **Appropriate Use:** Benchmark comparison (not claiming direct equivalence)
+- **Transparency:** Limitations acknowledged in analysis
+- **AI Documentation:** AI assistance disclosed
 
 **Overall Confidence:** MEDIUM (high-quality data, moderate context match)
 
@@ -41,7 +46,7 @@ X (Problem):                    M (Intervention):                Y (Outcome):
 2. `fevs_engagement_summary.csv` - Detailed engagement metrics
 3. `fevs_size_comparison.csv` - Organization size benchmarks**Questions for Organizational Data:**
 1. What is average employee engagement in comparable federal organizations?
-2. Is our 62% engagement actually below benchmark?
+2. Is our 62% engagement below benchmark?
 3. How do mid-size organizations (100-500 employees) compare to others?
 4. What specific engagement areas show the lowest scores?
 5. What is typical turnover intent in federal organizations?
@@ -51,7 +56,7 @@ X (Problem):                    M (Intervention):                Y (Outcome):
 
 ## Professional Data Repository Used
 
-**✅ REQUIREMENT MET: Professional Repository**
+**[YES] REQUIREMENT MET: Professional Repository**
 
 **Repository:** Federal Employee Viewpoint Survey (FEVS) 2024
 **Source Organization:** U.S. Office of Personnel Management (OPM)
@@ -68,7 +73,7 @@ X (Problem):                    M (Intervention):                Y (Outcome):
 
 ## AI-Assisted Dataset Discovery
 
-**✅ REQUIREMENT MET: Document AI Assistance**
+**[YES] REQUIREMENT MET: Document AI Assistance**
 
 **How AI Helped:**
 1. **Identified FEVS:** GitHub Copilot suggested FEVS 2024 as relevant federal employee engagement dataset
@@ -140,9 +145,9 @@ X (Problem):                    M (Intervention):                Y (Outcome):
 4. Turnover intent correlates with low engagement
 
 **Data Gathered to Test Hypothesis:**
-✓ Overall FEVS engagement benchmark
-✓ Engagement by organization size
-✓ Engagement by specific question (to identify lowest areas)
-✓ Turnover intent percentage
+- Overall FEVS engagement benchmark
+- Engagement by organization size
+- Engagement by specific question (to identify lowest areas)
+- Turnover intent percentage
 
 **Why Hypothesis-Led (CEBMa Module 8):** Prevents "fishing expedition" - we're testing specific assumptions about our problem, not randomly exploring data.

@@ -1,9 +1,7 @@
-
-Stakeholder Analysis
-
-═══════════════════════════════════════════════════════════════════════════════
-                    WHO: Stakeholder Cascade & Implementation
-═══════════════════════════════════════════════════════════════════════════════
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║         WHO: Stakeholder Cascade & Implementation Strategy                   ║
+║       Identifying affected parties and implementation dependencies            ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
 
 Purpose: Identify who is affected by and involved in improving engagement from 62%
 to 70% WITHOUT MONETARY BENEFITS (zero salary budget constraint)
@@ -13,47 +11,45 @@ to 70% WITHOUT MONETARY BENEFITS (zero salary budget constraint)
 Implementation Dependencies (Decision flow downward, Feedback flow upward):
 
 ┌──────────────────────────────────────────────────────────────────────────────┐
-│  Senior Leaders → HR → ⭐ MANAGERS ⭐ → Employees                            │
-│  (Approve/Fund)  (Design) (Implement)  (Participate)                        │
+│  Senior Leaders → HR → Lower Managers → Employees                            │
+│  (Approve)  (Design) (Implement)  (Participate)                              │
 │                                                                              │
-│                    ← Vendors (Enable/Support) →                             │
+│                    ← Consultants (Enable/Support) →                          │
 └──────────────────────────────────────────────────────────────────────────────┘
 
-This cascade visualization shows that engagement initiatives require multi-level
+This visualization shows that engagement initiatives require multi-level
 coordination. Leadership approval is insufficient without manager execution; employee
 participation is impossible without manager coaching.
 
-### Primary Stakeholders
+Primary Stakeholders
 
 1. SENIOR LEADERS (CEO, VP People)
    • Role: Approve the program and budgets
    • Interest: Clear ROI and lower turnover costs (save $675K year one if turnover drops)
-   • Concern: "Improve engagement WITHOUT budget increases" (cost containment priority)
+   • Concern: "Improve engagement WITHOUT budget increases" (cost lowering priority)
    • Engagement: Quarterly business case updates with financial metrics
 
-2. ⭐ MANAGERS / TEAM LEADS (Critical Implementation Layer) ⭐
+2. MANAGERS / TEAM LEADS (Implementation Phase)
    • Role: Run recognition, deliver training, coach their teams
    • Interest: Effective tools that don't create excessive workload
-   • Concern: "Implement non-monetary interventions while employees expect raises"
-     (middle management squeeze)
-   • Target: Manager confidence rising from 4.2 to 7.5/10
-   • Success Factor: Their buy-in is ESSENTIAL—without manager engagement, program fails
+   • Concern: Implement non-monetary interventions while employees expect raises
+   • Target: Manager confidence rising from 4.2 to 7.5 out of 10
+   • Success Factor: Their buy-in is ESSENTIAL—without manager engagement, program will fail
 
-### Secondary Stakeholders
+Secondary Stakeholders
 
 3. EMPLOYEES (Individual Contributors)
    • Role: Participate in programs and provide feedback
    • Interest: Frequent, fair recognition and growth opportunities
    • Concern: "45% exceed expectations—where's compensation recognition?"
-     (performance-reward expectation)
-   • Metric: High participation (≥65%) drives engagement gains
+   • Metric: High participation (≥65%) drives that engagement
 
 4. HUMAN RESOURCES / PEOPLE OPS
    • Role: Design programs, run surveys, track turnover and ROI
    • Interest: Sustainable programs that improve organizational health
    • Support Provided: Templates, vendor coordination, data analytics
 
-5. VENDORS (Platforms/Training Providers)
+5. VENDORS (Training Providers)
    • Role: Deliver recognition tools and training workshops
    • Interest: Successful client outcomes for references
    • Requirement: Must enable manager success (not create extra burden)
@@ -67,30 +63,29 @@ Key evidence points
  wearable data with their providers, indicating willingness to share through trusted channels.
 
 ═══════════════════════════════════════════════════════════════════════════════
-              Manager Success Factors (Critical Implementation Layer)
+              Manager Success Factors (Implementation Layer)
 ═══════════════════════════════════════════════════════════════════════════════
 
-Organizational initiatives succeed or fail at the middle management layer. Without
-manager engagement, implementation will fail regardless of leadership approval or
-employee participation.
+Organizational initiatives succeed or fail at the middle/lower management layer. Without
+manager engagement, implementation will fail regardless of approval
 
 ## Four Key Manager Enablers:
 
-1. 📚 TRAINING: 4-hour workshop + monthly coaching = capability building
-2. ⏱️ TIME ALLOCATION: $2,000 per manager operational budget = resource availability
-3. 🛠️ SUPPORT STRUCTURES: HR provides templates, vendors provide platform training = manager enablement
-4. 🎯 RECOGNITION MODELING: Managers demonstrate recognition platform use = behavioral leadership
+1. TRAINING: 4-hour workshop + monthly coaching = capability building
+2. TIME ALLOCATION: $2,000 per manager operational budget = resource availability
+3. SUPPORT STRUCTURES: HR provides Map, vendors provide platform training = manager enablement
+4. RECOGNITION MODELING: Managers demonstrate recognition platform use = behavioral leadership
 
 ═══════════════════════════════════════════════════════════════════════════════
-                    Constraint Tension Management
+                    Constraint Management
 ═══════════════════════════════════════════════════════════════════════════════
 
-## Competing Stakeholder Interests Under Zero-Salary Constraint:
+Competing Stakeholder Interests Under Zero-Salary Constraint:
 
-Interests don't align perfectly—implementation requires navigating these conflicts:
+Interests don't align perfectly—implementation requires operating around these conflicts:
 
 • SENIOR LEADERS: "Improve engagement without budget increases"
-  → Cost containment priority
+  → Cost Reduction priority
 
 • EMPLOYEES: "45% exceed expectations—where's compensation recognition?"
   → Performance-reward expectation
@@ -98,17 +93,17 @@ Interests don't align perfectly—implementation requires navigating these confl
 • MANAGERS: "Implement non-monetary interventions while employees expect raises"
   → Middle management squeeze navigating between HR expectations and employee compensation expectations
 
-## Resolution Strategy:
+Solution Strategy:
 
 Create compensation alternatives that satisfy different needs:
 • Recognition platform → addresses public acknowledgment needs
 • Growth opportunities → provides career advancement
 • Autonomy expansion → provides intrinsic motivation
-• Manager coaching → demonstrates investment in people
+• Manager coaching → demonstrates investment in employees
 
-Conflicts and Opportunities:
-- RISK: Managers could see recognition as extra work or a checkbox; avoid this by
-  co-creating meaningful recognition rules and ensuring <2 hours/week time burden.
+Risk and Opportunities:
+- RISK: Managers could see recognition as extra work or another box to check; avoid this by
+  creating meaningful recognition rules and ensuring less than 2 hours/week time investment.
 - OPPORTUNITY: HR and managers both save money if turnover falls—use that shared goal
   to build coalition for non-monetary engagement investment.
 
@@ -118,7 +113,7 @@ Conflicts and Opportunities:
 
 Next Steps (Maintaining ZERO SALARY BUDGET constraint throughout):
 
-1) COALITION BUILDING (by Nov 2025)
+1) Committment  BUILDING (by Nov 2025)
    • Secure executive sponsor + HR + 2 manager champions
    • Emphasize $675K savings opportunity from turnover reduction
 
@@ -129,5 +124,5 @@ Next Steps (Maintaining ZERO SALARY BUDGET constraint throughout):
 
 3) EVIDENCE-BASED DECISION (April 2026)
    • Scale if: engagement rises ≥4 points AND weekly recognition ≥50% AND manager usefulness ≥7/10
-   • Course-correct if criteria not met
+   • Make adjustments as necessary if criteria not met
    • Full rollout only if pilot demonstrates measurable success WITHOUT monetary incentives

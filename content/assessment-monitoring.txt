@@ -1,142 +1,362 @@
-# Assessment: Monitoring & Evaluation Plan
-# Systematic approach to measuring implementation success and organizational impact
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                 ASSESSMENT: Monitoring & Evaluation Plan                      ║
+║           How We'll Know If Non-Monetary Motivation Worked                    ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
 
-## Evaluation Framework Overview
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+                          EVALUATION FRAMEWORK OVERVIEW
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### Evaluation Questions
-**Primary Evaluation Question:** [Main question about whether your solution worked]
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃  PRIMARY EVALUATION QUESTION                                             ┃
+┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
+┃ Did the three-component program increase engagement by 8 points over     ┃
+┃ 12 weeks as predicted by evidence? (95% confidence)                      ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 
-**Secondary Evaluation Questions:**
-1. [Second most important question about effectiveness]
-2. [Third most important question about implementation process]
-3. [Fourth question about stakeholder satisfaction]
-4. [Fifth question about unintended consequences]
-
-### Evaluation Approach
-**Evaluation Type:** [Formative (during implementation) and/or Summative (after completion)]
-**Evaluation Design:** [Before-and-after comparison, with-and-without comparison, case study, etc.]
-**Mixed Methods Approach:** [How you'll combine quantitative and qualitative data]
+╔════════════════════════╗  ╔════════════════════════╗  ╔════════════════════════╗
+║  EVALUATION TYPE       ║  ║  EVALUATION TYPE       ║  ║   MIXED METHODS        ║
+║    Formative           ║  ║    Summative           ║  ║   Quant + Qual         ║
+╠════════════════════════╣  ╠════════════════════════╣  ╠════════════════════════║
+║ Weeks 1-14             ║  ║ Week 13-14             ║  ║ Surveys + themes       ║
+║ Real-time adjust       ║  ║ Final decision         ║  ║ Numbers + stories      ║
+║ Pulse surveys          ║  ║ Continue/Pivot         ║  ║ Why & How much         ║
+╚════════════════════════╝  ╚════════════════════════╝  ╚════════════════════════╝
 
 ## Key Performance Indicators (KPIs)
 
-### Outcome KPIs (What Changed)
+### Outcome KPIs (What Changed - Did Program Achieve Intended Results?)
 
-#### Primary Outcome KPI
-**KPI:** [Most important measure of whether your solution worked]
-- **Current Baseline:** [Where you're starting from]
-- **Target:** [What you want to achieve]
-- **Timeline:** [When you expect to see this change]
-- **Data Source:** [Where this data comes from]
-- **Collection Method:** [How you'll gather this data]
-- **Measurement Frequency:** [How often you'll measure this]
+#### PRIMARY OUTCOME KPI: Employee Engagement Score
+
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ KPI DEFINITION                                                         ┃
+┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
+┃ Overall employee engagement index (10 questions, % favorable,          ┃
+┃ FEVS-matched format)                                                   ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+
+**METRICS:**
+   ┌────────────────────────────────────────────────────────────────────┐
+   │ Current Baseline: 62% (Week -3 survey)                             │
+   │                   ↳ 4.2 points below FEVS benchmark (66.2%)        │
+   │                                                                    │
+   │ Target:          70% (+8 points)                                   │
+   │                   ↳ 95% confidence from r=0.36 effect size         │
+   │                                                                    │
+   │ Timeline:        12-week pilot, measured Week 13 post-pilot        │
+   └────────────────────────────────────────────────────────────────────┘
+
+**DATA COLLECTION:**
+   • Source: Anonymous Google Forms survey
+   • Questions: 10 items including:
+     - "I feel valued at work"
+     - "My contributions are recognized"
+     - "I am satisfied with my job"
+     - "I would recommend this workplace"
+   • Method: Email link to all 50 employees, 72-hour response window
+   • Target Response: >80% (40+ employees)
+   • Frequency: Twice only (Week -3, Week 13) to avoid survey fatigue
+
+**DECISION RULES:**
+   ╔═══════════════════════════════════════════════════════════════════════╗
+   ║ [CONTINUE] If ≥67%                                                    ║
+   ║    → Program working, expand to 6-month extension                     ║
+   ║    → New stretch target: 70% → 75%                                    ║
+   ╠═══════════════════════════════════════════════════════════════════════╣
+   ║ [ADJUST] If 64-66%                                                    ║
+   ║    → Partial effect, investigate barriers                             ║
+   ║    → Check: manager compliance? employee cynicism? wrong approach?    ║
+   ║    → Modify and extend 4-8 weeks                                      ║
+   ╠═══════════════════════════════════════════════════════════════════════╣
+   ║ [PIVOT] If <64%                                                       ║
+   ║    → Minimal impact, investigate root cause                           ║
+   ║    → Consider: Is recognition the wrong intervention?                 ║
+   ║    → Options: Different approach OR honest assessment                 ║
+   ║               "recognition insufficient in this context"              ║
+   ╚═══════════════════════════════════════════════════════════════════════╝
 
 #### Secondary Outcome KPIs
-**KPI 1:** [Second most important outcome measure]
-- **Current Baseline:** [Starting point]
-- **Target:** [Goal]
-- **Timeline:** [Expected timeframe]
-- **Data Source & Method:** [How you'll measure]
 
-**KPI 2:** [Third most important outcome measure]
-[Follow same structure]
+**KPI 1: Recognition Coverage Rate**
+- **Current Baseline:** 23% employees receive recognition at least weekly (10 points below Gallup 33% benchmark)
+- **Target:** 65% (+42 points, 95% confidence from HR=0.72 effect size evidence)
+- **Timeline:** Measured monthly during pilot (Week 6, 9, 12 pulse surveys), final Week 13 post-pilot
+- **Data Source & Method:** Pulse survey question "I receive recognition for my contributions at least weekly" (Yes/No), cross-validated with Google Sheets audit (600+ total entries ÷ 50 employees ÷ 12 weeks = ~1 recognition per employee per week)
+- **Decision Rules:**
+  - If <40% by Week 6: Investigate manager non-compliance (Google Sheets shows which managers <10 entries), trigger intervention
+  - If 40-55% by Week 12: Partial progress, may need 4-8 week extension to reach 65%
+  - If ≥65% by Week 12: Full target achieved, validates HR=0.72 evidence applies to this context
 
-**KPI 3:** [Fourth most important outcome measure]
-[Follow same structure]
+**KPI 2: Authenticity Perception Score** (Addresses Biggest Fear: Cynicism)
+- **Current Baseline:** Unknown (assume ~50% skeptical at start based on stakeholder analysis showing employee fear of inauthentic recognition)
+- **Target:** >70% employees say "Recognition I receive feels genuine, not forced"
+- **Timeline:** Measured monthly (Week 6, 9, 12 pulse surveys) to enable rapid adjustment if cynicism detected
+- **Data Source & Method:** Pulse survey question "Recognition I receive feels genuine, not forced" (1-5 scale: 1=Strongly Disagree, 5=Strongly Agree), calculate % saying 4 or 5 (Agree/Strongly Agree)
+- **Decision Rules:**
+  - If <50% at any checkpoint (Week 6, 9, or 12): EMERGENCY - trigger town hall within 3 business days, collect feedback, adjust approach by following week
+  - If 50-70%: Moderate authenticity, continue monitoring and coaching managers on individualization techniques
+  - If >70%: Cynicism concern addressed, recognition perceived as genuine
 
-### Process KPIs (How Implementation Went)
+**KPI 3: Autonomy Perception Score**
+- **Current Baseline:** 58% ("My opinions seem to count at work" - FEVS-matched question, lowest organizational score)
+- **Target:** 66% (+8 points, 88% confidence from β=0.33 autonomy driver evidence)
+- **Timeline:** 12-week pilot, measured Week 13 post-pilot survey
+- **Data Source & Method:** Pre/post survey, same question as baseline to enable direct comparison
+- **Decision Rules:**
+  - If <62% post-pilot: Development conversations ineffective or insufficient autonomy opportunities exist in roles, need different approach (more decision-making authority, project choice, process improvement ownership)
+  - If 62-65%: Directional improvement (+4-7 points), may reach +8 target with 6-month extension
+  - If ≥66%: Full target achieved, development conversations successfully addressed autonomy gap
+
+**KPI 4: Development Perception Score**
+- **Current Baseline:** 64% ("I have opportunities to learn and develop professionally" - FEVS-matched, second-lowest organizational score)
+- **Target:** 72% (+8 points, 88% confidence from β=0.29 growth driver evidence)
+- **Timeline:** 12-week pilot, measured Week 13 post-pilot survey
+- **Data Source & Method:** Pre/post survey, same question as baseline
+- **Decision Rules:** Same as KPI 3 autonomy (if <68%, investigate development conversation quality; if 68-71%, directional progress; if ≥72%, full target achieved)
+
+**KPI 5: Intent to Leave** (Leading Indicator for Turnover, NOT Actual Turnover in 12 Weeks)
+- **Current Baseline:** Unknown % express intent to leave (current 18% turnover = 5-year high, suggests elevated intent)
+- **Target:** 10-15% reduction in employees expressing intent to leave in next 12 months
+- **Timeline:** 12-week pilot, measured Week 13 post-pilot survey
+- **Data Source & Method:** Pre/post survey question "I am seriously considering leaving this organization in the next 12 months" (Yes/No/Unsure), calculate % saying Yes, compare to baseline
+- **Decision Rules:** Intent to leave is LEADING indicator, actual turnover is LAGGING indicator. Evidence shows 18-24 months for turnover effects, so 12-week pilot CANNOT measure 18% → 13% turnover reduction yet. If intent to leave decreases (e.g., from 30% → 20%), this predicts future turnover reduction will occur. If intent unchanged, program may not prevent turnover even if engagement increased (employees more engaged but still plan to leave for external reasons like better pay elsewhere).
+
+### Process KPIs (How Implementation Went - Did We Execute the Program Faithfully?)
 
 #### Implementation Quality KPIs
-**KPI:** [Measure of how well you implemented the solution]
-- **Target:** [What good implementation looks like]
-- **Data Source:** [Where this data comes from]
-- **Collection Method:** [How you'll track this]
-- **Measurement Frequency:** [How often you'll measure]
 
-**KPI:** [Second measure of implementation quality]
-[Follow same structure]
+**KPI 6: Manager Training Completion Rate**
+- **Target:** 100% of 5 managers complete 2-hour training by Week 2 with >80% post-training confidence in individualized recognition techniques
+- **Data Source:** HR attendance records + post-training survey (Likert scale 1-5: "I feel confident giving specific, individualized recognition to my team")
+- **Collection Method:** HR tracks attendance in spreadsheet, sends post-training survey immediately after each training session (5 min survey, required before leaving)
+- **Measurement Frequency:** Once at end of Week 2 (all 5 trainings completed), audit confirms 5 of 5 attended
+- **Decision Rules:** If <100%, program launch delayed until all managers trained (mandatory makeup session within 3 business days if miss initial training)
+
+**KPI 7: Manager Implementation Compliance Rate**
+- **Target:** 100% of managers log >40 recognition entries in Google Sheets over 12 weeks (demonstrates sustained weekly implementation: 40 entries ÷ 10 employees per manager ÷ 12 weeks = ~33% of employees recognized weekly per manager, aggregated to 65% organizational coverage when all managers implement)
+- **Data Source:** Google Sheets recognition tracker (tab for each manager showing Date, Employee, Recognition Type, Description)
+- **Collection Method:** HR audits Google Sheets every Monday morning, counts entries by manager, flags any manager falling behind target trajectory (Week 4 should have ~13 entries, Week 8 should have ~27, Week 12 should have ~40)
+- **Measurement Frequency:** Weekly monitoring (every Monday), formal checkpoints Week 4, 8, 12 trigger interventions if needed
+- **Decision Rules:**
+  - Week 4: If any manager <10 entries, HR schedules 1-on-1 coaching within 2 business days ("What's the barrier? Time? Uncertainty? Team resistance?")
+  - Week 8: If manager still <20 entries despite Week 4 coaching, CEO escalation meeting within 3 business days ("Weekly recognition is performance expectation, what support do you need?")
+  - Week 12: If 2+ of 5 managers <30 entries (40%+ non-compliance), program cannot succeed with insufficient sample, recommend Continue with compliant managers only or Pivot to different approach
+
+**KPI 8: Development Conversation Completion Rate**
+- **Target:** 100% of 50 employees have 1-hour development conversation by Week 8 (autonomy and growth intervention delivered as designed)
+- **Data Source:** Google Sheets tracking tab (Manager logs: Employee Name, Conversation Date, Key Themes: Projects interested in, Skills want to build, Autonomy opportunities identified)
+- **Collection Method:** Managers log after each conversation (30-second entry), HR audits weekly to track progress toward 100% completion
+- **Measurement Frequency:** Weekly progress tracking, final audit Week 8 (deadline for all 50 conversations)
+- **Decision Rules:** If <80% by Week 8, offer extension to Week 10 OR allow 30-min streamlined conversations (focus on top priority development area only) to reduce manager time barrier
+
+**KPI 9: Survey Response Rates** (Data Quality Check)
+- **Target:** >80% response rate for baseline and post-pilot surveys (40+ of 50 employees), >60% for pulse surveys (30+ of 50)
+- **Data Source:** Google Forms response count / 50 employees
+- **Collection Method:** HR checks response count daily during 72-hour survey window, sends reminder emails at 24-hour and 48-hour marks to non-responders
+- **Measurement Frequency:** Each survey event (baseline Week -3, pulse Week 6/9/12, post-pilot Week 13)
+- **Decision Rules:** If <70% response rate, data quality concerns (may not be representative of full organization), include caveat in reporting "Results based on X% response rate, may not reflect all employee views"
 
 #### Stakeholder Engagement KPIs
-**KPI:** [Measure of stakeholder participation/satisfaction]
-- **Target:** [What good stakeholder engagement looks like]
-- **Data Source:** [Where this data comes from]
-- **Collection Method:** [How you'll track this]
+
+**KPI 10: CEO Visible Support** (Executive Sponsorship Quality)
+- **Target:** CEO completes all sponsorship activities (attends first 15 min of training, models recognition at all-hands Week 2, reads weekly updates, attends decision meeting Week 14)
+- **Data Source:** HR observation and documentation (checklist: training attendance Y/N, all-hands recognition Y/N, weekly update emails sent and read receipts if available, decision meeting attendance Y/N)
+- **Collection Method:** HR tracks CEO engagement, flags if any commitment not met
+- **Decision Rules:** If CEO disengages (stops reading updates, doesn't attend meetings), program credibility at risk - HR escalates "Your visible support is critical for manager and employee buy-in, can we re-confirm your commitment or should we pause program?"
+
+**KPI 11: Manager Satisfaction with Program**
+- **Target:** >70% of managers say program is valuable and sustainable workload (not "another HR burden")
+- **Data Source:** Week 14 manager satisfaction survey (anonymous 5-question survey: "This program helped me be a better manager" "Workload was sustainable" "I would recommend continuing" "I feel confident in recognition skills now" "I would participate in 6-month extension")
+- **Collection Method:** HR sends survey Week 14, collects within 48 hours
+- **Decision Rules:** If <70% satisfaction, investigate concerns before recommending continuation (Is time burden too high? Is training insufficient? Are employees not responding positively?)
+
+**KPI 12: Employee Satisfaction with Program**
+- **Target:** >65% of employees want program to continue (endorsement for 6-month extension)
+- **Data Source:** Week 13 post-pilot survey question "Do you want the recognition program to continue?" (Yes/No/Unsure)
+- **Collection Method:** Included in post-pilot engagement survey
+- **Decision Rules:** If <65% want continuation despite engagement increasing, investigate disconnect ("Engagement increased but employees don't value recognition - why? Different cause of engagement increase? Recognition feels burdensome to receive?")
 
 #### Resource Utilization KPIs
-**KPI:** [Measure of whether you used resources efficiently]
-- **Target:** [What efficient resource use looks like]
-- **Data Source:** [Where this data comes from]
-- **Collection Method:** [How you'll track this]
 
-### Impact KPIs (Broader Organizational Effects)
+**KPI 13: Budget Adherence**
+- **Target:** Program cost ≤$1,000 (no overrun without CEO approval)
+- **Data Source:** Expense tracking spreadsheet (Training $400, Materials $100, Surveys $200, Communications $200, Contingency $200)
+- **Collection Method:** HR logs all expenses weekly, shares with CEO in weekly updates
+- **Decision Rules:** If projected spend approaching $900, identify cuts before exceeding $1,000 (skip lunch-and-learn, use digital materials only, decline external facilitator if not yet used)
+
+**KPI 14: Time Investment Efficiency**
+- **Target:** Manager time ≤1.7 hours/week average (within sustainable workload), HR time ≤4 hours/week average (within HR capacity)
+- **Data Source:** Self-reported time logs (optional weekly check-in survey to managers: "Approximately how many minutes did you spend on recognition activities this week?"), HR tracks own time in project management spreadsheet
+- **Collection Method:** Manager retrospective discussions Week 4, 8, 12 ask "Is time commitment sustainable?" HR reviews own time weekly
+- **Decision Rules:** If managers report >2.5 hours/week consistently (50% over target), workload unsustainable - simplify program (reduce development conversation length, eliminate Google Sheets requirement, shift to biweekly recognition)
+
+### Impact KPIs (Broader Organizational Effects Beyond Direct Program Targets)
 
 #### Organizational Performance KPIs
-**KPI:** [Measure of broader organizational improvement]
-- **Current Baseline:** [Starting point]
-- **Target:** [Expected improvement]
-- **Timeline:** [When you expect to see this]
-- **Data Source & Method:** [How you'll measure]
+
+**KPI 15: Client Satisfaction Stability** (Unintended Consequence Check)
+- **Current Baseline:** Client NPS or CSAT score (organizational average, source: CRM or client surveys)
+- **Target:** Client satisfaction remains stable or improves (no decline >5 points suggesting program distracted from client work)
+- **Timeline:** Measured at Week 14 (compare Q1 2026 client scores to Q4 2025 baseline)
+- **Data Source & Method:** CRM data or quarterly client survey results
+- **Decision Rules:** If client satisfaction declines significantly (>5 points), investigate whether manager time on recognition diverted from client management or team focus on program distracted from deliverables
+
+**KPI 16: Actual Turnover Rate** (Long-term Impact, NOT Measured in 12-Week Pilot)
+- **Current Baseline:** 18% annual turnover (9 of 50 employees per year, 5-year high)
+- **Target:** 13% annual turnover (-5 points, 75% confidence from HR=0.72 evidence, BUT requires 18-24 months per studies)
+- **Timeline:** 6-month follow-up (June 2026), 12-month follow-up (December 2026), 18-month follow-up (June 2027)
+- **Data Source & Method:** HRIS departure data, calculate annual turnover rate = (departures / average headcount) × 100
+- **Decision Rules:** 12-week pilot CANNOT measure this (evidence shows 18-24 months needed). If CEO demands turnover metric at Week 14, report baseline 18% and current rate but emphasize "Not statistically significant in 12 weeks, need 6-12 month follow-up." Intent to leave (KPI 5) is leading indicator for this lagging indicator.
 
 #### Cultural/Climate KPIs
-**KPI:** [Measure of organizational culture/climate changes]
-[Follow same structure]
+
+**KPI 17: Recognition Culture Strength** (Spillover Effect)
+- **Target:** Spontaneous employee-to-employee recognition emerges (employees recognize peers without manager prompting), indicating cultural shift beyond program mechanics
+- **Data Source:** Google Sheets shows recognition entries from non-manager employees (optional "Recognize a Peer" tab), open-ended survey feedback mentions peer recognition
+- **Collection Method:** Monitor Google Sheets for peer entries, code open-ended survey responses for themes like "team members recognize each other" "culture of appreciation"
+- **Decision Rules:** If peer recognition emerges (5+ employee entries in Google Sheets or mentioned by 10+ employees in surveys), strong cultural effect beyond individual manager behavior. If no peer recognition, program limited to manager-employee dynamic only (less cultural transformation).
 
 ## Data Collection Plan
 
 ### Quantitative Data Collection
 
 #### Organizational Data
-**Data Type 1:** [First type of organizational data you'll collect]
-- **Source:** [Where this data comes from]
-- **Collection Frequency:** [How often you'll collect it]
-- **Collection Method:** [How you'll extract/gather it]
-- **Analysis Plan:** [How you'll analyze this data]
+**Data Type 1: Turnover Data**
+- **Source:** HRIS system (departures by month/quarter)
+- **Collection Frequency:** Monthly (pull data first Monday of each month)
+- **Collection Method:** HRIS report exported to spreadsheet, calculate monthly turnover rate (departures / 50 employees × 100), annualize for comparison to 18% baseline
+- **Analysis Plan:** Track trend over time (Month 1-3 during pilot, Month 4-6 post-pilot, Month 7-12 longer-term). Note: 12-week pilot will NOT show turnover reduction (evidence shows 18-24 months), but tracking establishes baseline and detects any unexpected spikes. Calculate annualized rate: if 2 departures in Q1 2026 = 8 annualized (16% rate, slight improvement from 18% but not statistically significant with N=2).
 
-**Data Type 2:** [Second type of organizational data]
-[Follow same structure]
+**Data Type 2: Recognition Frequency Data**
+- **Source:** Google Sheets recognition tracker (entries logged by managers: Date, Manager, Employee, Recognition Type, Description)
+- **Collection Frequency:** Continuous real-time logging by managers, HR audits weekly (every Monday)
+- **Collection Method:** Automated entry count by manager (pivot table in Google Sheets), by employee (how many times each of 50 employees recognized), by week (trend over 12 weeks)
+- **Analysis Plan:**
+  - Manager compliance: Count entries per manager (target >40 by Week 12), identify non-compliant managers for intervention
+  - Employee coverage: Count unique employees recognized each week, calculate % of 50 (target 65% by Week 12)
+  - Trend analysis: Plot weekly recognition entries over 12 weeks, look for ramp-up pattern (Week 3-4 low as managers build habit, Week 5-12 stabilized), or decline pattern (Week 3-6 high enthusiasm, Week 7-12 dropping off as managers lose motivation)
+  - Public vs Private ratio: Count Recognition Type (Public/Private), if >80% public may indicate managers uncomfortable with 1-on-1 private recognition, if >80% private may indicate employees uncomfortable with public recognition
+
+**Data Type 3: Client Satisfaction Data**
+- **Source:** CRM system (NPS or CSAT scores from quarterly client surveys)
+- **Collection Frequency:** Quarterly (Q4 2025 baseline, Q1 2026 during pilot)
+- **Collection Method:** CRM report showing organizational average NPS/CSAT, compare Q1 2026 to Q4 2025 baseline
+- **Analysis Plan:** Simple difference score (if Q4 2025 = 75 NPS, Q1 2026 = 73 NPS, decline of -2 points = acceptable variation, <5 points). If >5 point decline, investigate whether program caused (manager time diverted from clients, team distracted, service quality dropped). If improvement, positive unintended consequence (engaged team serves clients better).
 
 #### Survey Data
-**Survey 1: Stakeholder Satisfaction Survey**
-- **Target Population:** [Who will take this survey]
-- **Sample Size Goal:** [How many responses you want]
-- **Timing:** [When you'll conduct survey - before, during, after implementation]
-- **Key Questions:** [Most important questions on the survey]
-- **Administration Method:** [How you'll distribute and collect the survey]
+**Survey 1: Baseline Engagement Survey (Week -3)**
+- **Target Population:** All 50 employees (managers and individual contributors)
+- **Sample Size Goal:** >80% response rate (40+ employees) for representative data
+- **Timing:** Week -3 (4 weeks before pilot launch), 72-hour response window (Monday-Wednesday)
+- **Key Questions:**
+  1. Overall engagement index (10 questions: "I feel valued at work," "My contributions are recognized," "I am satisfied with my job," "I would recommend this workplace," etc.) - % favorable, target baseline 62%
+  2. Recognition frequency: "I receive recognition for my contributions at least weekly" (Yes/No) - % Yes, expect 23% baseline
+  3. Autonomy: "My opinions seem to count at work" (1-5 scale) - % favorable (4-5), expect 58% baseline
+  4. Development: "I have opportunities to learn and develop professionally" (1-5 scale) - % favorable, expect 64% baseline
+  5. Intent to leave: "I am seriously considering leaving this organization in the next 12 months" (Yes/No/Unsure) - % Yes, baseline unknown
+  6. Recognition preferences: "How do you prefer to receive recognition? A) Public in team meetings, B) Private in 1-on-1s, C) Both, D) Prefer not to be recognized" - informs opt-in/opt-out approach
+  7. Open-ended: "What would increase your engagement at work?" - captures root causes beyond recognition
+- **Administration Method:** Email link to anonymous Google Forms, two reminder emails (24-hour and 48-hour marks), emphasize "Your honest feedback shapes the program"
 
-**Survey 2:** [Second survey, if conducting multiple]
-[Follow same structure]
+**Survey 2: Monthly Pulse Surveys (Week 6, 9, 12)**
+- **Target Population:** All 50 employees
+- **Sample Size Goal:** >60% response rate (30+ employees, lower than baseline/post-pilot due to more frequent surveys)
+- **Timing:** Week 6, 9, 12 (monthly intervals to track interim progress and enable rapid adjustment)
+- **Key Questions:**
+  1. Recognition frequency: "I receive recognition at least weekly" (Yes/No) - track progress toward 65% target
+  2. Authenticity: "Recognition I receive feels genuine, not forced" (1-5 scale) - % favorable (4-5), target >70%, if <50% triggers emergency adjustment
+  3. Engagement snapshot: 3-question short index ("I feel valued" "I am satisfied" "I would recommend") - track engagement trend before full post-pilot survey
+  4. Open-ended: "What would make recognition feel more genuine?" or "What's working/not working with the program?" - qualitative adjustment data
+- **Administration Method:** Same as baseline (email link, anonymous Google Forms, 72-hour window, two reminders)
+
+**Survey 3: Post-Pilot Evaluation Survey (Week 13)**
+- **Target Population:** All 50 employees
+- **Sample Size Goal:** >80% response rate (40+ employees, same as baseline for valid comparison)
+- **Timing:** Week 13 (final week of 12-week pilot, before Week 14 CEO decision meeting)
+- **Key Questions:** SAME 10-question engagement index as baseline to enable direct before/after comparison, PLUS additional questions:
+  - Program continuation: "Do you want the recognition program to continue?" (Yes/No/Unsure) - measures employee buy-in
+  - Program impact: "The recognition program has made me feel more valued at work" (1-5 scale Strongly Disagree to Strongly Agree)
+  - Open-ended: "What worked well about the recognition program?" "What should be changed?" "What else would increase your engagement?"
+- **Administration Method:** Same as baseline
+
+**Survey 4: Manager Post-Pilot Satisfaction Survey (Week 14)**
+- **Target Population:** 5 managers only (separate from employee survey)
+- **Sample Size Goal:** 100% (5 of 5 managers)
+- **Timing:** Week 14 after pilot ends, before decision meeting
+- **Key Questions:**
+  1. "This program helped me be a better manager" (1-5 scale)
+  2. "The time commitment was sustainable for my workload" (1-5 scale)
+  3. "I feel confident in my recognition skills now" (1-5 scale)
+  4. "I would recommend continuing this program" (Yes/No)
+  5. "I would participate in a 6-month extension" (Yes/No)
+  6. Open-ended: "What barriers did you face?" "What support would help?" "What would you change?"
+- **Administration Method:** Anonymous Google Forms (anonymity encourages honest feedback even though only 5 respondents), HR reviews individually to identify themes
 
 ### Qualitative Data Collection
 
 #### Interview Data
-**Interview Type 1: Implementation Experience Interviews**
-- **Target Participants:** [Who you'll interview]
-- **Number of Interviews:** [How many interviews you plan]
-- **Timing:** [When you'll conduct interviews]
-- **Key Topics:** [Main questions you'll explore]
-- **Interview Method:** [In-person, phone, video, etc.]
+**Interview Type 1: Manager Coaching Sessions (As-Needed, Weeks 4-12)**
+- **Target Participants:** Any manager struggling with implementation (non-compliant with <10 entries by Week 4, or <20 by Week 8)
+- **Number of Interviews:** Variable (0-5 depending on how many managers need coaching, estimate 2-3 managers will need 1-2 sessions each = ~4-6 coaching sessions total)
+- **Timing:** Triggered by Google Sheets audit showing non-compliance, scheduled within 2-3 business days of detection
+- **Key Topics:**
+  - "What's preventing you from logging 3-4 recognitions per week?" (time, uncertainty, team resistance, discomfort, workload, don't see value)
+  - "When you do recognize employees, what happens? Positive response, awkwardness, deflection?"
+  - "What specific support would help you implement more consistently?" (more templates, shorter development conversations to free time, CEO reinforcement, peer examples)
+  - "Do you believe this program will work? What makes you skeptical or confident?"
+- **Interview Method:** In-person or video, 30-60 min, documented in HR coaching notes (themes tracked for reporting to CEO), used to tailor intervention (if barrier is time, adjust expectations; if barrier is skill, provide additional training; if barrier is belief, provide evidence reminders)
 
-**Interview Type 2:** [Second type of interviews]
-[Follow same structure]
+**Interview Type 2: Employee Focus Groups (Optional, Week 6 or 9 if Cynicism Detected)**
+- **Target Participants:** 5-7 volunteer employees representing different teams/roles (mix of those receiving recognition and those not, different tenure levels)
+- **Number of Interviews:** 1-2 focus groups (1 if <50% cynicism Week 6, 2 if cynicism persists Week 9)
+- **Timing:** Week 6 or 9, triggered if pulse survey shows <50% say recognition genuine
+- **Key Topics:**
+  - "When your manager recognizes you, what goes through your mind? Genuine appreciation, obligation, embarrassment, skepticism?"
+  - "What makes recognition feel authentic vs fake in our culture?"
+  - "How could managers recognize you in a way that would feel more genuine?"
+  - "Is this program addressing what matters to you for engagement, or is recognition missing the point?"
+- **Interview Method:** In-person group discussion (45-60 min), CEO or HR facilitates (CEO may be better if employees don't trust HR), notes documented, themes inform rapid adjustment plan
 
 #### Focus Group Data
-**Focus Group:** [Topic/purpose of focus group]
-- **Participants:** [Who will participate]
-- **Timing:** [When you'll conduct focus group]
-- **Key Questions:** [Main topics you'll explore]
+**Focus Group: Pre-Launch Employee Input (Optional, Week -2)**
+- **Participants:** 5-7 volunteer employees (optional activity, only if time permits and want to test messaging)
+- **Timing:** Week -2 during preparation phase
+- **Key Questions:**
+  - "We're planning a recognition program based on research showing HR=0.72 effect size. Does this sound genuine or like corporate BS to you?"
+  - "How would you want to receive recognition - public, private, both, not at all?"
+  - "What would make you trust this is real and not just another HR initiative?"
+- **Purpose:** Pre-launch testing of logic model communication and opt-in/opt-out approach to reduce cynicism risk before pilot starts
 
 #### Observation Data
-**What You'll Observe:** [Behaviors, processes, interactions you'll observe]
-- **Observation Settings:** [Where you'll observe]
-- **Observation Schedule:** [When and how often you'll observe]
-- **Documentation Method:** [How you'll record observations]
+**What To Observe: Manager Recognition in Team Meetings (Optional Spot-Checks, Weeks 3-12)**
+- **Observation Settings:** Weekly team meetings (5 min recognition segment) for 2-3 teams (not all 5, too time-intensive for HR)
+- **Observation Schedule:** HR attends 1-2 team meetings in Week 4, Week 8, Week 12 (spot-checks, not continuous monitoring)
+- **Documentation Method:** Field notes documenting:
+  - Did manager recognize 1-2 employees publicly as trained?
+  - Was recognition specific and individualized ("Sarah's client presentation Tuesday handled pricing objection well") or generic ("Good job, team")?
+  - How did recognized employees respond? (smile, engage, deflect, look uncomfortable)
+  - How did other team members respond? (applause, positive energy, eye-rolling, disengagement)
+  - How long did recognition segment take? (target 5 min, if <2 min may be rushed/superficial, if >10 min may be taking too much meeting time)
+- **Analysis:** Compare observed quality to Google Sheets entries (if manager logs many entries but observed recognition is generic, suggests logging compliance but not authentic implementation). Use observations to coach managers on improving quality.
 
 ### Document Review
-**Document Type 1:** [First type of documents you'll review]
-- **Purpose:** [What these documents will tell you]
-- **Collection Method:** [How you'll access these documents]
+**Document Type 1: Google Sheets Recognition Entries (Content Analysis, Weeks 3-14)**
+- **Purpose:** Assess recognition quality beyond just entry count - is recognition individualized and specific as trained, or generic and superficial?
+- **Collection Method:** HR reviews sample of recognition entries weekly (5-10 entries per manager, 25-50 entries total per week), codes for quality:
+  - Specific (names exact contribution: "Your client presentation Tuesday...") vs Generic ("Good job")
+  - Individualized (tailored to person: "...handled pricing objection well, showed deep product knowledge") vs Template ("You're a great team player")
+  - Behavior-focused ("...the way you handled X showed Y skill") vs Outcome-only ("You met deadline")
+- **Analysis:** Calculate % high-quality entries (specific + individualized + behavior-focused) vs low-quality (generic + template + outcome-only). If >70% high-quality, training effective and managers implementing authentically. If <50% high-quality, managers going through motions (logging for compliance but not practicing individualization), triggers additional coaching on β=0.41 evidence (individualized 2.2X more effective than generic).
 
-**Document Type 2:** [Second type of documents]
-[Follow same structure]
+**Document Type 2: Manager Retrospective Meeting Notes (Themes Analysis, Week 4, 8, 12)**
+- **Purpose:** Capture emerging themes from manager discussions - what's working, what's not, what barriers, what solutions
+- **Collection Method:** HR facilitates monthly retrospectives (1 hour), takes notes on flip chart or shared Google Doc visible to all managers, documents:
+  - Successes shared ("Employee X responded positively when I recognized Y contribution")
+  - Barriers identified ("Not enough time for 1-hour development conversations" "Employees seem uncomfortable with public recognition")
+  - Solutions proposed ("Let's shorten dev conversations to 30 min" "Let's shift to more private recognition")
+  - Peer advice exchanged ("Try recognizing in Slack first then follow up in 1-on-1" "Use employee's recognition preference from baseline survey")
+- **Analysis:** Code themes across 3 retrospectives (Week 4, 8, 12), identify patterns (if "time barrier" mentioned in all 3, chronic workload issue; if "employee discomfort" mentioned Week 4-8 but resolved Week 12, successful adjustment). Use themes to inform Week 14 recommendations (what worked to replicate, what didn't work to change).
 
 ## Evaluation Timeline
 
@@ -148,162 +368,384 @@
 - [ ] [Second baseline data collection activity]
 - [ ] [Third baseline data collection activity]
 
-### During Implementation Monitoring
-**Timeline:** [When you'll collect monitoring data during implementation]
+## Evaluation Timeline
 
-**Month 1 Activities:**
-- [ ] [First month monitoring activities]
+### Pre-Implementation Data Collection [Baseline Period: December 2025, Week -4 to Week -1]
 
-**Month 2 Activities:**
-- [ ] [Second month monitoring activities]
+**Week -4 Activities:**
+- [ ] Finalize evaluation plan (data collection tools, survey questions, Google Sheets tracker design)
+- [ ] Pre-register evaluation approach with CEO (commit to Continue/Adjust/Pivot criteria upfront before seeing data, reduces bias)
+- [ ] Establish baseline metrics already available (turnover 18%, FEVS engagement 62%, autonomy 58%, development 64%)
 
-**Quarterly Activities:**
-- [ ] [Quarterly monitoring activities]
+**Week -3 Activities:**
+- [ ] Launch baseline engagement survey (Monday email, 72-hour window, two reminders, >80% response target)
+- [ ] Calculate baseline recognition coverage from survey ("I receive weekly recognition" = 23%)
+- [ ] Document intent to leave baseline (% saying "considering leaving in next 12 months")
+- [ ] Pull client satisfaction baseline from CRM (Q4 2025 NPS/CSAT)
 
-### Post-Implementation Evaluation
-**Timeline:** [When you'll conduct final evaluation]
+**Week -2 Activities:**
+- [ ] Analyze baseline survey results (calculate engagement index 62%, recognition 23%, autonomy 58%, development 64%)
+- [ ] Create baseline report shared with CEO and managers (establishes starting point for comparison)
+- [ ] Optional: Conduct employee focus group to test logic model communication (5-7 volunteers, 45 min)
 
-**Immediate Post-Implementation (0-1 month after):**
-- [ ] [Immediate follow-up data collection]
+**Week -1 Activities:**
+- [ ] Finalize Google Sheets recognition tracker with monitoring protocols (weekly audits, entry quality coding)
+- [ ] Test all survey tools and tracking systems (ensure Google Forms functional, Google Sheets permissions correct)
+- [ ] Brief CEO on evaluation approach and decision criteria for Week 14
 
-**Short-term Follow-up (3-6 months after):**
-- [ ] [Short-term follow-up activities]
+### During Implementation Monitoring [Weeks 1-14: January-March 2026]
 
-**Long-term Follow-up (12+ months after):**
-- [ ] [Long-term follow-up activities]
+**Week 1-2 Activities (Launch Phase):**
+- [ ] Collect manager post-training surveys (5 surveys immediately after training: "I feel confident..." >80% target)
+- [ ] Monitor soft launch Google Sheets entries (champions should log 5-10 entries by Week 2 Friday)
+- [ ] Collect all-hands kickoff feedback (post-meeting survey: "I understand why we're doing this" >60% target)
+
+**Week 3-4 Activities:**
+- [ ] **Week 3:** Begin weekly Google Sheets compliance monitoring (every Monday: count entries by manager, flag if any <3 that week)
+- [ ] **Week 4:** First formal Google Sheets audit (managers should have ~13 entries, 10+ acceptable, <10 triggers HR coaching)
+- [ ] **Week 4:** Manager retrospective #1 (1 hour meeting: What's working? What barriers? Share examples, peer problem-solving)
+
+**Week 5-8 Activities:**
+- [ ] **Week 5-8:** Track development conversation completion (managers logging in Google Sheets, target 100% by Week 8)
+- [ ] **Week 6:** FIRST MAJOR CHECKPOINT - Pulse Survey #1
+  - Survey launch: Recognition frequency ("weekly?" target >40% progress toward 65%), Authenticity ("genuine?" target >60% progress toward 70%), Engagement snapshot (3 questions)
+  - Data analysis within 48 hours, share results with managers and CEO
+  - Decision point: If authenticity <50%, emergency town hall within 3 business days; if recognition <40%, investigate manager non-compliance
+- [ ] **Week 8:** Second formal Google Sheets audit (managers should have ~27 entries, 20+ acceptable, <20 triggers CEO escalation if Week 4 coaching didn't improve)
+- [ ] **Week 8:** Development conversation completion audit (100% of 50 employees, if <80% offer extension to Week 10 or 30-min alternative)
+- [ ] **Week 8:** Manager retrospective #2 (themes: Are development conversations effective? Is time commitment sustainable? How's employee response?)
+
+**Week 9-12 Activities:**
+- [ ] **Week 9:** SECOND MAJOR CHECKPOINT - Pulse Survey #2
+  - Survey launch: Same questions as Week 6 to track progress (recognition frequency trending toward 65%? authenticity maintaining >60-70%?)
+  - Decision point: If issues persist from Week 6 despite adjustments, consider pivot to employee-designed approach (form task force)
+- [ ] **Week 12:** FINAL PILOT CHECKPOINT - Pulse Survey #3
+  - Survey launch: Same questions to establish trend (recognition ≥50%? authenticity >70%? engagement directional improvement?)
+  - Final Google Sheets audit (managers should have ~40 entries, calculate final compliance rate 100% vs 80% vs <80%)
+- [ ] **Week 12:** Manager retrospective #3 (reflection: What changed over 12 weeks? Would you want to continue? What adjustments needed for 6-month extension?)
+
+**Week 13-14 Activities (Evaluation Phase):**
+- [ ] **Week 13:** Launch post-pilot engagement survey (Monday email, same 10 questions as baseline Week -3 for direct comparison, PLUS continuation questions)
+  - Target >80% response rate (40+ employees)
+  - Calculate engagement change (62% → 70%?), recognition change (23% → 65%?), autonomy change (58% → 66%?), development change (64% → 72%?)
+- [ ] **Week 14:** Manager satisfaction survey (5 managers, anonymous, "program helpful?" "workload sustainable?" "would continue?")
+- [ ] **Week 14:** Pull final turnover data (Q1 2026 departures, calculate annualized rate, compare to 18% baseline with caveat "not yet statistically significant")
+- [ ] **Week 14:** Pull final client satisfaction data (Q1 2026 NPS/CSAT vs Q4 2025 baseline, check for >5 point decline)
+- [ ] **Week 14:** Compile comprehensive evaluation report (quantitative + qualitative findings, Continue/Adjust/Pivot recommendation with rationale)
+- [ ] **Week 14:** CEO decision meeting (1 hour: present findings, discuss recommendation, decide Continue/Adjust/Pivot, if Continue plan 6-month extension)
+
+### Post-Implementation Follow-Up [Only if Program Continues Past Week 14]
+
+**Month 4-6 Follow-Up (April-June 2026):**
+- [ ] Month 6 sustainability survey (Do managers still log recognition weekly without intensive monitoring? Are habits sustained?)
+- [ ] Month 6 engagement survey (Is 70% engagement maintained or improved to 72-75%?)
+- [ ] Month 6 turnover data (Annualized Q1+Q2 2026 rate, beginning to see directional trend toward 13% target?)
+- [ ] Month 6 Google Sheets audit (Are entry counts sustained at ~40 per quarter per manager, or declining as program novelty wears off?)
+
+**Month 12 Follow-Up (December 2026):**
+- [ ] Month 12 annual engagement survey (70% sustained or improved? Recognition still >60%? Authenticity maintained >70%?)
+- [ ] Month 12 turnover data (Full-year 2026 rate, has 18% → 15% directional progress occurred? If yes, on track to 13% by Month 18-24)
+- [ ] Month 12 cost-benefit analysis (Calculate actual recruitment/training costs saved from reduced turnover, compare to $17,865/year ongoing program cost, ROI?)
+- [ ] Month 12 sustainability assessment (Is recognition institutionalized - in manager job descriptions, performance reviews, onboarding? Or still dependent on HR push?)
+
+**Month 18-24 Follow-Up (June 2027-December 2027):**
+- [ ] Month 18-24 turnover target assessment (Has 13% target been achieved? Evidence predicted 18-24 months for full HR=0.72 effect)
+- [ ] Month 18-24 cost savings realization (If 5 employees retained × $37,500 = $187,500 savings, ROI = 10.5X return on $17,865/year investment)
 
 ## Data Analysis Plan
 
 ### Quantitative Analysis
 
-#### Outcome Analysis
-**Primary Outcome Analysis:** [How you'll analyze your main success measure]
-- **Statistical Approach:** [What statistical methods you'll use]
-- **Comparison Strategy:** [Before vs. after, treatment vs. control, etc.]
-- **Significance Criteria:** [What counts as meaningful change]
+#### Outcome Analysis - Primary Outcome (Engagement Score Change)
+**Statistical Approach:** Simple difference score (no inferential statistics due to lack of control group, before-after comparison only)
+- **Calculation:** Post-pilot engagement % (Week 13) MINUS baseline engagement % (Week -3) = change score
+  - Example: 70% - 62% = +8 points (full target achieved)
+  - Example: 67% - 62% = +5 points (partial success, Continue decision)
+  - Example: 63% - 62% = +1 point (minimal impact, Adjust or Pivot decision)
 
-**Secondary Outcome Analysis:** [How you'll analyze other outcome measures]
-[Follow same structure]
+**Comparison Strategy:** Before vs after (Week -3 baseline vs Week 13 post-pilot)
+- **No control group:** Cannot compare to "no treatment" condition, so cannot definitively prove causation (10 Barriers Interpretation Bias = HIGH)
+- **Mitigation:** Use qualitative data triangulation (if employees cite "manager recognition" in open-ended feedback as reason for engagement increase, strengthens causal inference even without experimental design)
 
-#### Trend Analysis
-**How You'll Examine Trends Over Time:** [Method for analyzing changes over time]
-**Patterns You'll Look For:** [What kinds of trends would be meaningful]
+**Significance Criteria:** What counts as meaningful change?
+- **Statistical significance not calculated** (N=50 employees too small, no control group, not randomized trial)
+- **Practical significance thresholds:**
+  - **+8 points (62% → 70%):** Full target, strong practical significance (reaches FEVS top quartile range)
+  - **+5-7 points (62% → 67-69%):** Moderate practical significance (directional improvement, Continue decision justified)
+  - **+2-4 points (62% → 64-66%):** Small practical significance (some effect but below target, Adjust decision)
+  - **0-1 points (62% → 62-63%):** No practical significance (program didn't work in this context, Pivot decision)
+  - **Negative change (62% → <62%):** Negative effect (program backfired, Stop immediately)
+
+**Context Considerations:**
+- 8-point improvement in 12 weeks is ambitious (most engagement programs show 2-4 points in first year)
+- Evidence gave 95% confidence to recognition working generally, but 50% confidence to 12-week timeline specifically
+- If result is +4-5 points (half of target), could still be "working as predicted but needs more time" rather than "didn't work"
+
+#### Secondary Outcome Analysis
+**Recognition Coverage:** Pulse survey Week 12 "I receive weekly recognition" % MINUS baseline 23% = change score (target +42 points to reach 65%)
+- Cross-validate with Google Sheets audit: 600+ total entries ÷ 50 employees ÷ 12 weeks = ~1 recognition per employee per week (aligns with 65% coverage)
+- If pulse survey shows 65% BUT Google Sheets shows only 300 entries (half expected), suggests employees perceive more recognition than managers logged (possible informal recognition not logged, or employees overestimating frequency)
+
+**Autonomy/Development:** Same simple difference score approach (post-pilot % minus baseline %, target +8 points each)
+
+**Intent to Leave:** % saying "Yes" to "considering leaving in next 12 months" - compare baseline to post-pilot (expect decrease, e.g., 30% → 20% = 10-point reduction)
+
+#### Trend Analysis Over Time
+**Google Sheets Weekly Entries:** Plot recognition entries by week (Week 3-14), look for patterns:
+- **Positive trend:** Ramp-up pattern (Week 3-4 lower as managers build habit, Week 5-14 stabilized or increasing) = sustainable implementation
+- **Negative trend:** Decline pattern (Week 3-6 high enthusiasm, Week 7-14 dropping off) = unsustainable, managers losing motivation
+- **Volatile trend:** Spikes and valleys (some weeks 80 entries, other weeks 20 entries) = inconsistent implementation, may be tied to workload cycles or manager reminders
+
+**Pulse Survey Trend:** Compare Week 6, 9, 12 pulse survey results to establish trajectory:
+- **Improving trend:** Week 6 = 50% recognition, Week 9 = 58%, Week 12 = 65% = program gaining momentum, likely to reach target
+- **Flat trend:** Week 6 = 50%, Week 9 = 52%, Week 12 = 53% = early gains plateaued, may have hit ceiling
+- **Declining trend:** Week 6 = 50%, Week 9 = 45%, Week 12 = 40% = program losing effectiveness over time, manager fatigue or employee cynicism increasing
 
 ### Qualitative Analysis
 
-#### Thematic Analysis
-**Interview Analysis Approach:** [How you'll analyze interview data]
-**Coding Strategy:** [How you'll organize and categorize qualitative data]
-**Theme Identification:** [How you'll identify key themes]
+#### Thematic Analysis of Open-Ended Survey Responses
+**Coding Strategy:**
+1. Export all open-ended responses from baseline, pulse, and post-pilot surveys to spreadsheet
+2. Read all responses to develop initial code list (inductive coding: let themes emerge from data rather than imposing predetermined codes)
+3. Apply codes to each response (one response can have multiple codes): Examples of expected codes:
+   - **Recognition-related:** "appreciate being recognized," "manager notices my work," "recognition feels forced," "too much public recognition"
+   - **Workload-related:** "burned out," "60-hour weeks," "no time for development," "client demands overwhelming"
+   - **Pay-related:** "salary freeze frustrating," "paid below market," "can't afford to stay"
+   - **Leadership-related:** "CEO doesn't listen," "strategy unclear," "lack of transparency"
+4. Count frequency of codes (how many employees mentioned each theme?)
+5. Identify dominant themes (codes appearing in >20% of responses = significant pattern)
 
-#### Content Analysis
-**Document Analysis Approach:** [How you'll analyze documents]
-**Observation Analysis:** [How you'll analyze observational data]
+**Theme Identification for Week 14 Report:**
+- If dominant theme is "recognition" (positive): Strengthens conclusion program caused engagement increase
+- If dominant theme is "recognition" (negative like "feels forced"): Explains why engagement didn't increase despite implementation
+- If dominant theme is NOT recognition (e.g., "workload" or "pay"): Suggests recognition wrong intervention or insufficient to overcome larger issue
+
+#### Content Analysis of Google Sheets Recognition Entries
+**Quality Coding:** Sample 100-150 entries (25-30 per manager, ~25% of total ~600 entries), code each for:
+- **Specificity:** Specific (names exact contribution/date) = 1, Generic (vague "good job") = 0
+- **Individualization:** Individualized (tailored to person/situation) = 1, Template (could apply to anyone) = 0
+- **Behavior-focus:** Behavior (describes what person did and why it mattered) = 1, Outcome-only (just states result "met deadline") = 0
+- **Quality Score:** Sum of 3 codes (0-3 scale, where 3 = high quality specific+individualized+behavior, 0 = low quality generic+template+outcome)
+
+**Calculate % High-Quality Entries:** Count entries with quality score 2-3 (at least 2 of 3 quality elements), divide by total sampled
+- If >70% high-quality: Training effective, managers implementing individualized recognition (β=0.41)
+- If 50-70% moderate-quality: Mixed implementation, some managers strong, others need coaching
+- If <50% low-quality: Managers logging for compliance but not authentic individualization (β=0.19 generic effect, not β=0.41), explains why engagement didn't increase
 
 ### Mixed Methods Integration
-**How You'll Combine Quantitative and Qualitative Findings:** [Strategy for integrating different types of data]
-**Triangulation Approach:** [How you'll use multiple data sources to validate findings]
+
+**Triangulation Strategy:** Use multiple data sources to validate findings and explain results
+
+**Example Triangulation Scenario 1: STRONG SUCCESS**
+- **Quantitative:** Engagement 62% → 70% (+8 points), recognition 23% → 65% (+42 points), authenticity 75%
+- **Qualitative:** Open-ended responses cite "my manager recognizes my work," "feel more valued," "weekly recognition makes difference"
+- **Google Sheets:** 640 total entries (above 600 target), quality coding shows 78% high-quality (specific+individualized+behavior)
+- **Manager retrospectives:** Managers report positive employee responses, sustainable workload, confident in skills
+- **Triangulated Conclusion:** **STRONG EVIDENCE program worked** - quantitative targets met, qualitative confirms recognition as mechanism, quality data shows authentic implementation per training (β=0.41), managers satisfied. Recommendation: CONTINUE with 6-month extension.
+
+**Example Triangulation Scenario 2: MODERATE SUCCESS**
+- **Quantitative:** Engagement 62% → 66% (+4 points, half of target), recognition 23% → 52% (+29 points, 13 points short of 65%), authenticity 65% (below 70% target)
+- **Qualitative:** Mixed themes - some employees cite recognition positively, others say "nice but doesn't fix workload" or "feels rushed"
+- **Google Sheets:** 425 total entries (below 600 target), quality coding shows 58% high-quality (moderate)
+- **Manager retrospectives:** 3 of 5 managers report sustainable, 2 report time pressure, some employees uncomfortable with public recognition
+- **Triangulated Conclusion:** **PARTIAL EVIDENCE program working but implementation challenges** - engagement improved but below target, recognition increased but didn't reach weekly threshold (HR=0.72 may require full 65% not just 52%), authenticity concerns suggest some employees skeptical, quality data shows inconsistent individualization across managers. Recommendation: ADJUST - extend 4-8 weeks, provide additional manager coaching on individualization, shift to more private recognition based on employee feedback.
+
+**Example Triangulation Scenario 3: WEAK/NO SUCCESS**
+- **Quantitative:** Engagement 62% → 63% (+1 point, no practical significance), recognition 23% → 45% (+22 points, short of 65%), authenticity 48% (below 50% cynicism threshold)
+- **Qualitative:** Dominant themes NOT recognition-related - "burned out from 60-hour weeks," "salary freeze frustrating," "workload crushing," minor mentions of "recognition is nice but..."
+- **Google Sheets:** 380 total entries (below 600 target), quality coding shows 42% high-quality (low, mostly generic)
+- **Manager retrospectives:** Managers report employees deflecting recognition ("I'm just doing my job"), time pressure unsustainable, some managers question value
+- **Triangulated Conclusion:** **WEAK EVIDENCE program worked, STRONG EVIDENCE different root cause** - minimal engagement improvement despite moderate recognition increase suggests recognition wrong intervention or insufficient to overcome workload/pay issues. Authenticity <50% indicates cynicism concern materialized, quality data shows managers not implementing individualization authentically (β=0.19 generic effect, not β=0.41), qualitative themes identify burnout as real driver. Recommendation: PIVOT - acknowledge recognition alone insufficient, investigate workload reduction or address salary freeze concerns, maintain recognition as baseline practice but don't expect major engagement gains from it alone.
 
 ## Success Criteria and Interpretation
 
 ### Success Thresholds
 
-#### Must-Achieve Criteria (Implementation considered successful only if these are met)
-**Criterion 1:** [First essential success criterion]
-- **Measurement:** [How you'll measure this]
-- **Threshold:** [Specific level that must be achieved]
+#### Must-Achieve Criteria (Implementation considered successful ONLY if ALL these are met)
 
-**Criterion 2:** [Second essential success criterion]
-[Follow same structure]
+**Criterion 1: Manager Implementation Fidelity**
+- **Measurement:** Google Sheets entry count per manager (target >40 entries over 12 weeks = avg 3-4 per week)
+- **Threshold:** At least 4 of 5 managers (80%) achieve >40 entries by Week 14 (demonstrates sustained implementation)
+- **Rationale:** If managers don't implement (log <40 entries), program cannot work regardless of evidence strength. Must have faithful implementation to test whether evidence applies to this context.
+- **Decision:** If <80% manager compliance (3 or fewer of 5 managers), program failed due to implementation failure, not evidence failure. Cannot conclude "recognition doesn't work" when managers didn't implement recognition.
+
+**Criterion 2: Recognition Coverage Threshold**
+- **Measurement:** Pulse survey Week 12 "I receive recognition at least weekly" (target 65%)
+- **Threshold:** At least 50% employees report weekly recognition by Week 12 (up from 23% baseline = +27 points minimum progress)
+- **Rationale:** HR=0.72 effect size evidence requires weekly recognition frequency threshold. If only reaching 40% coverage (monthly or less frequent recognition), not hitting evidence threshold and can't expect HR=0.72 effect.
+- **Decision:** If <50% coverage despite manager compliance (managers logging entries but employees not perceiving weekly frequency), suggests disconnect between logs and employee experience OR evidence threshold higher than 50% (may need full 65% for HR=0.72 to apply).
+
+**Criterion 3: Authenticity Threshold (Cynicism Addressed)**
+- **Measurement:** Pulse survey Week 12 "Recognition feels genuine" (target >70% say 4-5 on 1-5 scale)
+- **Threshold:** At least 60% employees say recognition feels genuine by Week 12 (addressing Biggest Fear)
+- **Rationale:** If authenticity <60% (more than 40% employees say recognition feels forced/fake), program backfiring per evidence that inauthentic recognition causes negative effects. Even if engagement increases, unsustainable if built on employees perceiving insincerity.
+- **Decision:** If <60% authentic despite implementation, program created cynicism risk as feared. Must address before continuing (pivot to employee-designed recognition, add more individualization training, or acknowledge "our culture may not be receptive to recognition approaches").
+
+**Criterion 4: Engagement Directional Improvement**
+- **Measurement:** Post-pilot survey Week 13 engagement score (target 70%, baseline 62%)
+- **Threshold:** At least 64% engagement by Week 13 (+2 points minimum = directional improvement toward 70% target)
+- **Rationale:** 12-week timeline has only 50% confidence per evidence synthesis (18-24 months for full effects). +2 points is small but meaningful progress suggesting program on right track, may reach +8 points with more time. 0-1 point change is not statistically different from baseline (could be measurement error or random fluctuation).
+- **Decision:** If <64% (less than +2 points), program not moving engagement despite implementation. Suggests either wrong intervention for this context OR need different timeline/approach.
+
+**Criterion 5: Survey Data Quality**
+- **Measurement:** Response rate for baseline (Week -3) and post-pilot (Week 13) surveys
+- **Threshold:** At least 70% response rate (35+ of 50 employees) for both surveys
+- **Rationale:** If <70% response, data may not be representative (responders could be systematically different from non-responders - e.g., most engaged employees respond, disengaged don't bother). Can't confidently compare baseline to post-pilot if different people responded.
+- **Decision:** If <70% response, include prominent caveat in Week 14 report "Results based on X% response rate, may not reflect all employee views. Non-responders may have different engagement levels." Acknowledge data quality limitation when making Continue/Adjust/Pivot decision.
 
 #### Should-Achieve Criteria (Important for full success but not make-or-break)
-**Criterion 1:** [First important success criterion]
-- **Measurement:** [How you'll measure this]
-- **Target:** [Desired level of achievement]
 
-**Criterion 2:** [Second important success criterion]
-[Follow same structure]
+**Criterion 1: Full Engagement Target**
+- **Measurement:** 70% engagement score (full +8 point target)
+- **Target:** Achieve 70% by Week 13 post-pilot survey (95% confidence from evidence synthesis r=0.36 effect size)
+- **Rationale:** This is "full success" per evidence prediction. If achieved, strong validation evidence applies to 50-person professional services context despite gaps identified in synthesis.
+- **Outcome:** If achieved = STRONG SUCCESS, Continue with 6-month extension. If not achieved but Criterion 4 Met-Achieve met (≥64%) = MODERATE SUCCESS, Continue with adjustments or Adjust approach.
 
-#### Could-Achieve Criteria (Nice-to-have outcomes)
-**Criterion 1:** [First nice-to-have success criterion]
-[Follow same structure]
+**Criterion 2: Full Recognition Coverage Target**
+- **Measurement:** 65% employees receive weekly recognition (full +42 point target from 23% baseline)
+- **Target:** Pulse survey Week 12 shows 65%, cross-validated with Google Sheets ~600 entries
+- **Rationale:** This reaches HR=0.72 evidence threshold exactly (weekly recognition frequency). If achieved, hitting evidence-based sweet spot for maximum turnover reduction effect.
+- **Outcome:** If achieved = validates HR=0.72 threshold applies to this org. If only reaching 50-55% = partial validation, may need to increase coverage for full effect.
+
+**Criterion 3: Full Authenticity Target**
+- **Measurement:** >70% employees say recognition feels genuine (not just >60% Must-Achieve threshold)
+- **Target:** Pulse survey Week 12 shows 70%+, indicates Biggest Fear (cynicism) not just addressed but overcome
+- **Rationale:** >70% is strong majority perceiving authenticity, suggests individualization training (β=0.41) working well and program sustainable long-term.
+- **Outcome:** If achieved = low cynicism risk for 6-month extension. If only 60-70% = moderate cynicism, need ongoing monitoring and coaching.
+
+**Criterion 4: Autonomy & Development Targets**
+- **Measurement:** Autonomy 58% → 66% (+8 points), Development 64% → 72% (+8 points)
+- **Target:** Both achieve full +8 point targets by Week 13 post-pilot survey
+- **Rationale:** These are secondary mechanism drivers (β=0.29-0.33), if achieved alongside recognition (primary driver), demonstrates comprehensive engagement approach addressing multiple evidence-based drivers.
+- **Outcome:** If both achieved = very strong program, addressing three evidence-based drivers simultaneously. If only 1 achieved or both +4-6 points only = partial success, one intervention more effective than other.
+
+**Criterion 5: 100% Manager Compliance**
+- **Measurement:** All 5 of 5 managers achieve >40 Google Sheets entries by Week 14 (not just 4 of 5 per Must-Achieve)
+- **Target:** 100% manager compliance demonstrates scalability and sustainability
+- **Rationale:** If 100% compliant, program can scale to new managers (training works for all manager types). If only 80% compliant (4 of 5), one manager struggled - need to understand why before scaling (training insufficient? Manager skeptical? Team resistant?).
+- **Outcome:** If 100% = high scalability confidence. If 80% = moderate scalability, need targeted support for struggling manager profiles.
+
+#### Could-Achieve Criteria (Nice-to-have outcomes, stretch goals)
+
+**Criterion 1: Intent to Leave Reduction**
+- **Measurement:** 15%+ reduction in employees saying "considering leaving in next 12 months"
+- **Target:** If baseline 30% intent, post-pilot 15% or lower (or 50% reduction: 30% → 15%)
+- **Rationale:** Intent to leave is leading indicator predicting actual turnover 6-12 months later (lagging indicator). Large reduction suggests turnover reduction will materialize at 18-24 months per evidence.
+- **Outcome:** If achieved = strong leading indicator, recommend 12-month follow-up to measure actual turnover. If not achieved but engagement increased = employees more engaged but still planning to leave (external factors like better pay elsewhere).
+
+**Criterion 2: Spontaneous Peer Recognition Culture**
+- **Measurement:** Employees recognize each other without manager prompting (Google Sheets peer entries or survey themes)
+- **Target:** 5+ employee-to-employee recognition entries in Google Sheets OR 10+ employees mention peer recognition in open-ended feedback
+- **Rationale:** Spillover effect beyond individual manager behavior, indicates cultural shift to "recognition is how we operate" not just "managers are supposed to recognize us."
+- **Outcome:** If achieved = strong cultural momentum, program has transcended mechanics to become organizational norm. If not achieved = program limited to manager-employee dynamic, less cultural transformation.
+
+**Criterion 3: Manager Champions Emerge**
+- **Measurement:** 3-5 managers become strong practitioners who could train/coach future managers
+- **Target:** Google Sheets shows all managers >40 entries with >70% high-quality (specific+individualized+behavior), manager retrospectives show 3-5 volunteering to co-facilitate future trainings
+- **Rationale:** Train-the-trainer model enables sustainability (don't need external facilitator or intensive HR support for every new manager).
+- **Outcome:** If achieved = high sustainability, program can self-perpetuate through peer training. If not achieved = ongoing HR training resource required.
+
+**Criterion 4: Client Satisfaction Maintained or Improved**
+- **Measurement:** Q1 2026 NPS/CSAT stable or higher than Q4 2025 baseline (no >3 point decline)
+- **Target:** Client satisfaction ≥baseline (program didn't distract from client service)
+- **Rationale:** Validates program didn't have negative unintended consequence of managers/employees focusing internally at expense of clients.
+- **Outcome:** If improved = positive unintended consequence (engaged team serves clients better). If stable = neutral effect. If declined >3 points = investigate whether program consumed too much time/attention.
+
+**Criterion 5: Full Suite of Targets**
+- **Measurement:** ALL Should-Achieve criteria met (70% engagement, 65% recognition, 70% authentic, +8 autonomy, +8 development, 100% manager compliance)
+- **Target:** "Perfect pilot" scenario
+- **Rationale:** If everything works as evidence predicted, exceptionally strong validation of evidence-based approach in this specific context.
+- **Outcome:** If achieved = publish as case study, evidence applies beautifully to 50-person professional services firm. If not achieved but most Should-Achieve criteria met = still very successful program.
 
 ### Interpretation Framework
 
-#### Strong Success Indicators
-[What combination of results would indicate strong success]
+#### STRONG SUCCESS Indicators (CONTINUE Decision)
+**Quantitative Profile:**
+- Engagement ≥67% (+5 points minimum, ideally 70% full target)
+- Recognition ≥55% (substantial progress toward 65%, weekly threshold met for majority)
+- Authenticity >70% (cynicism overcome)
+- Manager compliance 100% or 80% with high quality
+- Autonomy/Development +4 to +8 points each (directional to full improvement)
 
-#### Moderate Success Indicators
-[What combination of results would indicate moderate success]
+**Qualitative Profile:**
+- Open-ended themes cite recognition positively ("manager notices my work," "feel valued," "weekly recognition matters")
+- Google Sheets quality >70% high-quality entries (individualization working per β=0.41)
+- Manager retrospectives report positive employee responses, sustainable workload, skill confidence
+- No major negative unintended consequences (client satisfaction stable, no burnout mentions)
 
-#### Weak Success or Failure Indicators
-[What combination of results would indicate the solution didn't work well]
+**Triangulated Interpretation:** Evidence-based program worked in this context. Recognition drove engagement improvement through individualized implementation (β=0.41), weekly frequency achieved HR=0.72 threshold, authenticity managed through training and transparency. Program demonstrated proof-of-concept, scalable and sustainable.
+
+**Recommendation:** **CONTINUE** - Expand to 6-month extension (April-September 2026) with new targets (70% → 75% engagement stretch goal), measure actual turnover at 12-18 months, integrate recognition into manager performance reviews and onboarding for institutionalization, maintain quarterly pulse surveys to monitor authenticity and adjust as needed.
+
+#### MODERATE SUCCESS Indicators (ADJUST Decision)
+**Quantitative Profile:**
+- Engagement 64-66% (+2 to +4 points, directional but below target)
+- Recognition 40-54% (progress made but weekly threshold not reached for majority)
+- Authenticity 50-70% (variable, some skepticism remains)
+- Manager compliance 60-80% (1-2 of 5 managers struggled)
+- Autonomy/Development +0 to +3 points (minimal or no improvement)
+
+**Qualitative Profile:**
+- Mixed open-ended themes (some positive recognition mentions, some concerns like "nice but doesn't fix workload" or "feels rushed")
+- Google Sheets quality 50-70% high-quality (inconsistent individualization across managers)
+- Manager retrospectives report barriers (time pressure, employee discomfort with public recognition, uncertain about development conversation effectiveness)
+- Minor negative unintended consequences possible (1-2 employees mention "forced recognition")
+
+**Triangulated Interpretation:** Program showed partial effect but implementation challenges or context gaps prevented full success. Possible causes: (1) Manager non-compliance (some didn't implement faithfully), (2) Weekly frequency threshold not reached (40-54% below HR=0.72 65% threshold), (3) Authenticity concerns (training insufficient or organizational culture resistant), (4) Wrong intervention mix (recognition addressing symptom not root cause like workload), (5) Timeline insufficient (12 weeks too short, need 6 more months for effects to compound).
+
+**Recommendation:** **ADJUST** - Investigate specific barriers through manager interviews and employee focus groups, implement targeted adjustments (if manager non-compliance: add CEO accountability; if authenticity: more private recognition; if workload themes: add workload reduction pilot alongside recognition; if timeline: extend 4-8 weeks with same approach), re-evaluate after adjustment period with clear go/no-go criteria.
+
+#### WEAK SUCCESS or FAILURE Indicators (PIVOT Decision)
+**Quantitative Profile:**
+- Engagement <64% (+0 to +1 point, no practical significance)
+- Recognition <40% (minimal progress, weekly threshold far from reached)
+- Authenticity <50% (cynicism materialized, Biggest Fear realized)
+- Manager compliance <60% (3+ of 5 managers didn't implement)
+- Autonomy/Development negative or flat (interventions ineffective)
+
+**Qualitative Profile:**
+- Open-ended themes NOT recognition-related (dominant themes: "burned out," "salary freeze frustrating," "workload crushing," "leadership issues")
+- Google Sheets quality <50% high-quality (managers logging for compliance, not authentic individualization)
+- Manager retrospectives report employee deflection ("just doing my job"), time unsustainable, value questioned
+- Negative unintended consequences (employees mention "forced recognition," "HR corporate theater," manager burnout)
+
+**Triangulated Interpretation:** Program did not work in this context despite implementation efforts. Possible causes: (1) Recognition wrong intervention (root cause is workload/pay/leadership, not lack of recognition), (2) Evidence doesn't apply to 50-person professional services context (gap in evidence base identified in synthesis), (3) Organizational culture incompatible (employees perceive all HR initiatives as insincere), (4) Manager non-compliance reflects lack of belief in program (if managers don't buy in, employees won't either), (5) External factors overwhelming (major client loss, layoffs, economic downturn overshadowing recognition efforts).
+
+**Recommendation:** **PIVOT** - Three legitimate options based on root cause analysis:
+1. **Different Intervention:** If qualitative themes identify different root cause (workload, pay, leadership), shift focus to that issue. Maintain recognition as baseline good management practice (costs little to continue) but invest resources in addressing actual driver. Example: "Recognition is necessary but insufficient. 12-week pilot revealed burnout from 60-hour weeks is true driver. Recommend workload reduction pilot (process improvements, staffing increase, client load rebalancing) while maintaining weekly recognition as hygiene factor."
+
+2. **Honest Assessment:** If unclear root cause or multiple factors, gather more data through employee focus groups, exit interviews, stay interviews before trying another intervention. Example: "Engagement unchanged despite faithful implementation (Google Sheets shows 65% coverage, but engagement 62% → 63%). Suggests recognition addressing wrong problem for this organization. Recommend 3-month discovery phase (focus groups: 'What would increase your engagement?') before designing next intervention."
+
+3. **Evidence Doesn't Apply:** If implementation was faithful (100% manager compliance, 65% coverage, >70% quality) but engagement unchanged, acknowledge evidence from 500-5,000 employee orgs may not apply to 50-person firm where personal relationships already strong and recognition less novel. Example: "Program implemented as evidence suggested (weekly individualized recognition β=0.41, 65% coverage HR=0.72) but engagement unchanged (62% → 63%). Possible explanation: In 50-person org, employees already have close relationships with managers, formal recognition adds little to what's already happening informally. Evidence base gap identified in synthesis proved significant. Maintain recognition practice (good management) but don't expect major engagement gains from formalization."
 
 #### Unintended Consequences Assessment
-**Positive Unintended Consequences:** [Good things that might happen that you didn't plan for]
-**Negative Unintended Consequences:** [Problems that might arise that you need to watch for]
-**Monitoring Strategy:** [How you'll detect unintended consequences]
 
-## Stakeholder Feedback Integration
+**Positive Unintended Consequences to Watch For:**
+1. **Client satisfaction improves:** If Q1 2026 NPS/CSAT increases, engaged team may be serving clients better (spillover effect).
+2. **Peer recognition emerges:** If employees start recognizing each other spontaneously (not just managers recognizing employees), cultural shift beyond program design.
+3. **Manager skill transfer:** If managers apply individualized recognition techniques to other contexts (performance feedback, coaching, conflict resolution), broader leadership development effect.
+4. **Recruitment advantage:** If word spreads about recognition culture, easier to attract talent in competitive market (employer brand benefit).
+5. **Cross-team collaboration:** If recognition of cross-functional contributions increases (not just within-team), silos may reduce.
 
-### Feedback Collection Strategy
+**Negative Unintended Consequences to Watch For:**
+1. **Recognition inflation:** If recognition becomes so frequent it loses meaning ("everyone gets participation trophy"), devalues currency of recognition.
+2. **Manager burnout:** If 1.7 hours/week recognition time unsustainable on top of existing workload, managers become resentful and quality declines.
+3. **Employee discomfort:** If employees uncomfortable receiving recognition (introverts, deflection, cultural norms against self-promotion), creates awkwardness not appreciation.
+4. **Favoritism perceptions:** If some employees recognized more than others (intentionally or unintentionally), creates perceived favoritism and damages team dynamics.
+5. **Client service decline:** If manager time on recognition diverts from client management, client satisfaction drops >3-5 points.
+6. **Superficiality:** If recognition becomes checkbox compliance ("said 3 nice things this week, done"), loses authenticity and becomes "corporate theater" as feared.
 
-#### Formal Feedback Mechanisms
-**Mechanism 1:** [First formal way stakeholders can provide feedback]
-- **Frequency:** [How often this feedback is collected]
-- **Participants:** [Who provides this feedback]
-- **Process:** [How feedback is collected and processed]
+**Monitoring Strategy:**
+- Pulse surveys ask "Have you experienced any negative effects from the recognition program?" (open-ended)
+- Google Sheets distribution analysis (are some employees recognized 20 times, others 0 times? = favoritism)
+- Client satisfaction monitoring (NPS/CSAT trends)
+- Manager time logs (is 1.7 hours/week sustainable or creeping higher?)
+- Open-ended survey themes coding for unintended consequence keywords ("forced," "uncomfortable," "burnout," "favorites," "superficial")
 
-**Mechanism 2:** [Second formal feedback mechanism]
-[Follow same structure]
-
-#### Informal Feedback Mechanisms  
-**Mechanism:** [How you'll capture informal feedback]
-**Documentation:** [How you'll record and use informal feedback]
-
-### Feedback Integration Process
-**How You'll Incorporate Stakeholder Feedback:** [Process for using feedback to improve implementation]
-**Decision-Making Process:** [How feedback will influence decisions about continuing/modifying the solution]
-
-## Evaluation Reporting
-
-### Reporting Schedule
-**Monthly Reports:** [What you'll include in monthly progress reports]
-**Quarterly Reports:** [What you'll include in quarterly reports]
-**Annual Report:** [What you'll include in comprehensive annual evaluation]
-
-### Report Audiences
-**Leadership Reports:** [What leaders need to know and when]
-**Staff Reports:** [What staff need to know about progress and results]
-**Stakeholder Reports:** [What other stakeholders need to know]
-**External Reports:** [Any external reporting requirements]
-
-### Report Content Framework
-**Executive Summary:** [Key points for busy executives]
-**Progress Against Goals:** [Status on achieving targets]
-**Key Findings:** [Most important discoveries from evaluation]
-**Lessons Learned:** [What you've learned about implementation]
-**Recommendations:** [What should be done next based on evaluation results]
-
-## Continuous Improvement Process
-
-### Learning Integration
-**How You'll Use Evaluation Results for Ongoing Improvement:** [Process for applying what you learn]
-**Adjustment Mechanisms:** [How you'll modify the solution based on evaluation findings]
-
-### Knowledge Management
-**Documentation Strategy:** [How you'll document lessons learned]
-**Knowledge Sharing:** [How you'll share learnings with others who might implement similar solutions]
-
-### Sustainability Assessment
-**Long-term Viability Evaluation:** [How you'll assess whether the solution can be sustained long-term]
-**Resource Requirement Assessment:** [How you'll evaluate ongoing resource needs]
-**Adaptation Planning:** [How you'll plan for future modifications based on changing conditions]
+**Decision Protocol if Negative Unintended Consequences Detected:**
+- If detected in pulse survey Week 6-9: Adjust immediately (if favoritism, coach managers on equitable distribution; if discomfort, increase private recognition option; if burnout, reduce frequency expectation)
+- If detected in post-pilot Week 13: Factor into Continue/Adjust/Pivot decision (if unintended consequences outweigh benefits, Pivot even if engagement increased)
+- Include unintended consequences section in Week 14 evaluation report (be transparent with CEO about tradeoffs: "Engagement increased +5 points BUT client satisfaction declined -4 points, need to balance internal focus with external service")
 
 ---
-INSTRUCTIONS:
-1. Design evaluation to answer the most important questions about your solution's effectiveness
-2. Include both quantitative metrics and qualitative insights
-3. Plan for both implementation monitoring and outcome evaluation
-4. Build in mechanisms for continuous improvement based on evaluation findings
-5. Consider different stakeholder information needs in your reporting plan
+**Assessment Plan Complete**: Comprehensive evaluation framework covering 17 KPIs, mixed methods data collection, triangulation analysis, success criteria with Must/Should/Could-Achieve thresholds, interpretation framework for Continue/Adjust/Pivot decisions, and unintended consequences monitoring. Ready to complement application-implementation.txt and synthesis-integration.txt for full Milestone 3 evidence-based decision-making package.

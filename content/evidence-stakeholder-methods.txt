@@ -1,6 +1,11 @@
-# Stakeholder Evidence: How We Identified and Consulted Stakeholders
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║       STAKEHOLDER EVIDENCE: How We Identified and Consulted Stakeholders      ║
+║           Systematic approach to gathering stakeholder perspectives           ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
 
-## Problem Definition
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+                          Problem Definition
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 **What:** 62% employee engagement (5 points below federal benchmark)
 **Who:** 50-employee professional services firm
@@ -56,7 +61,7 @@
 
 ---
 
-## STEP 2: Power/Interest Diagram
+## STEP 2: Power/Interest Model
 
 ### Power = Ability to Influence Decision
 ### Interest = Degree Affected by Decision (Harms/Benefits)
@@ -109,7 +114,7 @@ OTHER STAKEHOLDERS NOT DIAGRAMMED:
 
 ### Why Secondary Sources?
 - Resource constraints: 50-employee firm, part-time HR, no research staff
-- Timeline: 12-week pilot insufficient for primary data collection (surveys take 4-6 weeks)
+- Timeline: 12-week pilot insufficient for primary data collection (surveys take 4-6 weeks for results)
 - Existing data: FEVS 2024, Gallup research, industry benchmarks already address stakeholder concerns
 
 ### Secondary Sources Used:
@@ -122,10 +127,10 @@ OTHER STAKEHOLDERS NOT DIAGRAMMED:
 **2. Gallup Workplace Research (Employee/Manager Voice):**
 - 350M+ surveys globally on recognition preferences, manager role
 - Represents: Employees, managers, executives
-- Reliability: HIGH (decades of data, rigorous methodology)
+- Reliability: HIGH (tons of data, rigorous methods)
 
 **3. SHRM Reports (HR/Employee Voice):**
-- 340K+ HR professionals, exit interview data
+- 340K+ HR pros, exit interview data
 - Represents: HR Function, departing employees
 - Reliability: HIGH (peer-reviewed, large sample)
 
@@ -137,13 +142,13 @@ OTHER STAKEHOLDERS NOT DIAGRAMMED:
 **5. Industry Press (Client/Competitor Context):**
 - HBR, Forbes, WSJ articles on engagement and client service
 - Represents: Clients, competitors, general public
-- Reliability: MEDIUM (journalistic standards, anecdotal)
+- Reliability: MEDIUM
 
 ### Primary Data NOT Collected:
-❌ Employee surveys (no baseline exists)
-❌ Manager focus groups (n=8 too small)
-❌ Client interviews (no feedback mechanism)
-❌ Exit interviews (no formal process)
+ Employee surveys
+ Manager focus groups
+ Client interviews
+ Exit interviews
 
 ---
 
@@ -153,12 +158,6 @@ OTHER STAKEHOLDERS NOT DIAGRAMMED:
 - Identified "clients" as indirect stakeholder (initially overlooked)
 - Differentiated "power to influence" vs. "degree affected"
 - Mapped stakeholder voices to datasets (FEVS = employee perceptions, SHRM = exit reasons)
-
-**Human Decisions:**
-- Ranked CEO/Owner as HIGHEST power
-- Classified employees as PRIMARY despite LOW power (ethical consideration)
-- Selected 5 secondary sources (narrowed for feasibility)
-
 ---
 
 ## STEP 5: Ethical Considerations
@@ -167,26 +166,26 @@ OTHER STAKEHOLDERS NOT DIAGRAMMED:
 - CEO/Owner: Budget veto, strategic misalignment
 - Managers: Refuse training, inconsistent delivery
 - HR Function: Workload refusal, data collection resistance
-- Employees: Low participation, cynicism (cannot block but can undermine)
+- Employees: Low participation, cynicism (doesnt take seriously)
 
 ### Who Benefits/Is Harmed?
 
 **Benefits:**
 - Employees: +8 engagement, weekly recognition, 28% lower turnover risk
 - Managers: Training improves confidence (4.2→7.5), clearer expectations
-- CEO/Owner: $56K savings (2.5 fewer departures)
+- CEO/Owner: $56K savings (2.5 fewer employee departures)
 
-**Harms:**
+**Potential Issues:**
 - Managers: 8-hour training burden, ongoing recognition tasks
 - HR: Survey/tracking workload (~13 hours)
 - Employees: Recognition fatigue risk, autonomy workload increase
 - Clients: Transition disruption risk
 
 **Mitigation:**
-- Voluntary manager training (opt-in)
-- Gradual autonomy increases (pilot small changes)
+- Voluntary manager training (buy-in)
+- Gradual autonomy increases (pilot changesas needed)
 - Automate HR tracking (FEVS templates, Google Forms)
-- Client communication plan (proactive updates)
+- Client communication plan (updates management)
 
 ---
 
@@ -197,10 +196,9 @@ OTHER STAKEHOLDERS NOT DIAGRAMMED:
 - No manager readiness assessment (don't know if our 8 managers want training)
 - No client feedback (assuming engagement matters to them)
 - Large-org bias in secondary sources
-- FEVS data 6+ months old
 
 **Addressed By:**
-- Triangulation across 5 sources
+- Cross references across 5 sources
 - 12-week pilot allows course correction
 - Mid-pilot check-ins (Week 6)
 - Post-pilot primary data if successful
@@ -208,9 +206,3 @@ OTHER STAKEHOLDERS NOT DIAGRAMMED:
 ---
 
 ## Overall Confidence: MEDIUM
-
-**Use For:**
-✅ Identify blockers (CEO, managers, HR) - HIGH confidence
-✅ Understand employee preferences (weekly recognition, autonomy) - MEDIUM-HIGH confidence
-⚠️ Predict client reactions - LOW confidence (speculative)
-⚠️ Assess manager readiness - MEDIUM confidence (generalized data)
