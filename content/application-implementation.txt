@@ -98,7 +98,7 @@
 ┃ • Survey all 50 employees (10 questions, 5 min)                          ┃
 ┃ • Target: 80%+ response rate                                             ┃
 ┃ • Document: 62% engagement, 23% recognition, 58% autonomy, 64% growth    ┃
-┃ • Time: HR 8hrs                                                           ┃
+┃ • Time: HR 8hrs                                                          ┃
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
@@ -107,7 +107,7 @@
 ┃ • Meet with each manager (30 min)                                        ┃
 ┃ • Identify 2 champions to start first                                    ┃
 ┃ • Address concerns                                                       ┃
-┃ • Time: HR 5hrs                                                           ┃
+┃ • Time: HR 5hrs                                                          ┃
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
@@ -117,7 +117,7 @@
 ┃ • Test Google Sheets and auto-reminders                                  ┃
 ┃ • Create templates                                                       ┃
 ┃ • Write kickoff email                                                    ┃
-┃ • Time: HR 10hrs                                                          ┃
+┃ • Time: HR 10hrs                                                         ┃
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 
 ### PHASE 1: LAUNCH (Q1 2026, Weeks 1-2)

@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════════════════════╗
-║           SUCCESS: 12-Week Pilot Decision Framework                          ║
-║         Evidence-Based Experimentation Before Full Commitment                ║
+║           SUCCESS: 12-Week Pilot Decision Framework                           ║
+║         Evidence-Based Experimentation Before Full Commitment                 ║
 ╚═══════════════════════════════════════════════════════════════════════════════╝
 
 **Organization Context:** 50-person professional services firm, 5 managers, salary freeze constraint
@@ -8,17 +8,17 @@
 **Timeline:** 12-week pilot (Q1 2026) measures leading indicators → 18-24 months for turnover
 
 ┌─────────────────────────────────────────────────────────────────────────────┐
-│ PILOT APPROACH                                                               │
+│ PILOT APPROACH                                                              │
 ├─────────────────────────────────────────────────────────────────────────────┤
-│ 12-week pilot → Measure leading indicators (engagement, recognition          │
-│ coverage, authenticity) → Make data-driven decision (Week 13-14:             │
+│ 12-week pilot → Measure leading indicators (engagement, recognition         │
+│ coverage, authenticity) → Make data-driven decision (Week 13-14:            │
 │ Continue/Adjust/Pivot) → If successful, measure turnover reduction over     │
-│ 18-24 months                                                                 │
-│                                                                              │
+│ 18-24 months                                                                │
+│                                                                             │
 │ This framework demonstrates evidence-based management: test hypotheses      │
 │ before scaling, establish success criteria upfront, commit to data-driven   │
 │ decisions even if results disappoint. $13,815 investment (0.1% of payroll)  │
-│ de-risks organizational change.                                              │
+│ de-risks organizational change.                                             │
 └─────────────────────────────────────────────────────────────────────────────┘
 
 ═══════════════════════════════════════════════════════════════════════════════
@@ -38,15 +38,15 @@
 **1. EMPLOYEE ENGAGEMENT (Primary)** — [SPECIFIC & MEASURABLE]
 
    ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-   ┃ BASELINE:  62% (FEVS 2024)                                            ┃
-   ┃              ↳ 4.2 points below 66.2% federal benchmark              ┃
+   ┃ BASELINE:  62% (FEVS 2024)                                          ┃
+   ┃              ↳ 4.2 points below 66.2% federal benchmark             ┃
    ┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
-   ┃ TARGET:    70% (+8 percentage points)                                ┃
-   ┃              ↳ 95% confidence from meta-analysis (r=0.36)            ┃
+   ┃ TARGET:    70% (+8 percentage points)                               ┃
+   ┃              ↳ 95% confidence from meta-analysis (r=0.36)           ┃
    ┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
-   ┃ PILOT TARGET:                                                         ┃
-   ┃    • ≥64% = Minimum (+2 shows directional progress)                  ┃
-   ┃    • ≥67% = Strong success                                           ┃
+   ┃ PILOT TARGET:                                                       ┃
+   ┃    • ≥64% = Minimum (+2 shows directional progress)                 ┃
+   ┃    • ≥67% = Strong success                                          ┃
    ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 
    Method: Survey at Week 0 (baseline) and Week 13 (post-pilot)

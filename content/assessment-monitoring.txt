@@ -339,7 +339,7 @@
 
 **Week 1-2 (Launch):** Post-training surveys (>80% confidence), monitor soft launch entries (5-10 by Week 2), all-hands feedback (>60% understand)
 
-**Week 3-4:** Begin weekly Google Sheets audits (every Monday), Week 4 formal audit (>10 entries acceptable, <10 → HR coaching), retrospective #1 (barriers, examples, peer advice)
+**Week 3-4:** Begin weekly Google Sheets audits (every Monday), Week 4 formal audit (>10 entries acceptable, <10 → HR coaching),
 
 **Week 5-8:** Track development conversations (100% by Week 8), **Week 6 PULSE #1** (recognition >40%, authenticity >60%, <50% authenticity → emergency town hall),
  Week 8 audit (<20 entries → CEO escalation), development completion check (<80% → extend to Week 10), retrospective #2

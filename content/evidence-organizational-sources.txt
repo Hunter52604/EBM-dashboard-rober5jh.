@@ -1,5 +1,5 @@
 ╔═══════════════════════════════════════════════════════════════════════════════╗
-║                  ORGANIZATIONAL EVIDENCE: Internal Data Analysis               ║
+║                  ORGANIZATIONAL EVIDENCE: Internal Data Analysis              ║
 ║         Analysis of internal metrics, culture surveys, and org context        ║
 ╚═══════════════════════════════════════════════════════════════════════════════╝
 

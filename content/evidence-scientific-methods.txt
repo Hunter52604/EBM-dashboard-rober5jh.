@@ -104,11 +104,11 @@
 ## Quality Assessment Approach
 
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃ RESEARCH DESIGN HIERARCHY (CEBMa Standards)                               ┃
+┃ RESEARCH DESIGN HIERARCHY (CEBMa Standards)                              ┃
 ┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
-┃ [1] Meta-analyses - Chungtai & Buckley (HIGHEST QUALITY)                  ┃
-┃ [2] Longitudinal field studies - Bakker & Demerouti (HIGH - temporal)     ┃
-┃ [3] Cross-sectional field studies - Aguinis et al. (MEDIUM-HIGH - large N)┃
+┃ [1] Meta-analyses - Chungtai & Buckley (HIGHEST QUALITY)                 ┃
+┃ [2] Longitudinal field studies - Bakker & Demerouti (HIGH - temporal)    ┃
+┃ [3] Cross-sectional field studies - Aguinis et al.(MEDIUM-HIGH - large N)┃
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 
 ### Quality Checklist Applied:

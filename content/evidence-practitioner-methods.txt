@@ -1,5 +1,5 @@
 ╔═══════════════════════════════════════════════════════════════════════════════╗
-║          PRACTITIONER EVIDENCE: How We Gathered Expert Insight               ║
+║          PRACTITIONER EVIDENCE: How We Gathered Expert Insight                ║
 ║              Systematic approach to collecting industry knowledge             ║
 ╚═══════════════════════════════════════════════════════════════════════════════╝
 
@@ -86,10 +86,10 @@ Peer review or academic-quality standards
 ╔═════════════════════════════════════════════════════════════════════════════╗
 ║ MITIGATION STRATEGIES                                                       ║
 ╠═════════════════════════════════════════════════════════════════════════════╣
-║ ✓ Used two independent sources to cross-validate findings                  ║
-║ ✓ Looked for consistent themes across both sources                         ║
-║ ✓ Focused on data-driven insights, not opinions                            ║
-║ ✓ Acknowledged limitations explicitly in our analysis                      ║
+║ ✓ Used two independent sources to cross-validate findings                   ║
+║ ✓ Looked for consistent themes across both sources                          ║
+║ ✓ Focused on data-driven insights, not opinions                             ║
+║ ✓ Acknowledged limitations explicitly in our analysis                       ║
 ╚═════════════════════════════════════════════════════════════════════════════╝
 
 ## Limitations and Gaps in evidence

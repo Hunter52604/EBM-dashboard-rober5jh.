@@ -90,7 +90,8 @@ increase engagement by 8 points and reduce turnover by 5 points within 12 weeks.
    ┃ Outcomes Achievable          3.0X increase  (35% → 70% posterior)   ┃
    ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 
-**Reasoning:** Level A+ meta-analysis + Level B field study = strongest causal evidence. Effect sizes statistically and practically significant. 28% turnover reduction matches our target exactly.
+**Reasoning:** Level A+ meta-analysis + Level B field study = strongest causal evidence. Effect sizes statistically
+and practically significant. 28% turnover reduction matches our target exactly.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -139,7 +140,8 @@ increase engagement by 8 points and reduce turnover by 5 points within 12 weeks.
 - **We're fixing the right things:** Went from 70% to 90% sure
 - **Our 70% goal makes sense:** Went from 60% to 75% sure
 
-**Why It Matters:** Proves problem is real (62% is 4-5 points below average). Lowest scores in training/growth = exactly what we're fixing. **Limitation:** Government vs private sector, correlation not causation.
+**Why It Matters:** Proves problem is real (62% is 4-5 points below average). Lowest scores in training/growth = exactly what we're fixing.
+**Limitation:** Government vs private sector, correlation not causation.
 
 ---
 

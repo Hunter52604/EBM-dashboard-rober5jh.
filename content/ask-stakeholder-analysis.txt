@@ -1,5 +1,5 @@
 ╔═══════════════════════════════════════════════════════════════════════════════╗
-║         WHO: Stakeholder Cascade & Implementation Strategy                   ║
+║         WHO: Stakeholder Cascade & Implementation Strategy                    ║
 ║       Identifying affected parties and implementation dependencies            ║
 ╚═══════════════════════════════════════════════════════════════════════════════╝
 
