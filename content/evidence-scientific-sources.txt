@@ -48,7 +48,8 @@ autonomy, and growth opportunities increase engagement by 8+ percentage points a
 ### Bottom Line:
 **Recognition programs work** (r = 0.36 effect). **Manager training amplifies impact** (2.2X stronger).
 **Non-monetary approaches** are 90% as effective as monetary (r = 0.34). **Weekly recognition reduces turnover 28%** (HR = 0.72).
-**Autonomy and growth** add incremental benefit (β = 0.29-0.33). Our 62%→70% target is realistic based on combined R² = 0.31 (explains 31% of engagement variance).
+**Autonomy and growth** add incremental benefit (β = 0.29-0.33). Our 62%→70% target is realistic based on combined R² = 0.31
+ (explains 31% of engagement variance).
 
 **Confidence:** MEDIUM-HIGH (strong evidence, some context gaps)
 
@@ -66,7 +67,8 @@ autonomy, and growth opportunities increase engagement by 8+ percentage points a
 ## STUDY 1: Recognition-Engagement Meta-Analysis
 
 ### Citation
-Stajkovic, A. D., & Luthans, F. (2003). Behavioral management and task performance in organizations: Conceptual background, meta-analysis, and test of alternative models. *Personnel Psychology, 56*(1), 155-194.
+Stajkovic, A. D., & Luthans, F. (2003). Behavioral management and task performance in organizations: Conceptual background,
+meta-analysis, and test of alternative models. *Personnel Psychology, 56*(1), 155-194.
 
 ### Overview
 - **Research Design:** Meta-analysis (synthesizes 72 empirical studies)
@@ -127,7 +129,8 @@ Stajkovic, A. D., & Luthans, F. (2003). Behavioral management and task performan
 ## STUDY 2: Recognition Frequency and Turnover
 
 ### Citation
-Aguinis, H., Joo, H., & Gottfredson, R. K. (2013). What monetary rewards can and cannot do: How to show employees the money. *Business Horizons, 56*(2), 241-249.
+Aguinis, H., Joo, H., & Gottfredson, R. K. (2013). What monetary rewards can and cannot do: How to show employees the money.
+ *Business Horizons, 56*(2), 241-249.
 
 ### Study Overview
 - **Research Design:** Multi-organization field study (quasi-experimental)
@@ -193,7 +196,8 @@ Aguinis, H., Joo, H., & Gottfredson, R. K. (2013). What monetary rewards can and
 ## STUDY 3: Autonomy, Growth, and Engagement (Longitudinal)
 
 ### Citation
-Bakker, A. B., & Demerouti, E. (2017). Job demands-resources theory: Taking stock and looking forward. *Journal of Occupational Health Psychology, 22*(3), 273-285.
+Bakker, A. B., & Demerouti, E. (2017). Job demands-resources theory: Taking stock and looking forward.
+*Journal of Occupational Health Psychology, 22*(3), 273-285.
 
 ### Study Overview
 - **Research Design:** Longitudinal field study (3-wave panel design)

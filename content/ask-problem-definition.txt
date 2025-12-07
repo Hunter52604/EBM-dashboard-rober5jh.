@@ -23,8 +23,8 @@ to 13% with ZERO salary budget—no raises, no bonuses, no monetary incentives?"
 CRITICAL CONSTRAINTS:
    ┌────────────────────────────────────────────────────────────────────────┐
    │ [X] Zero salary increase budget for 12-month period (Jan-Dec 2026)     │
-   │ [X] Must achieve results within existing operational budget             │
-   │ [X] No bonuses, no monetary rewards, no compensation increases          │
+   │ [X] Must achieve results within existing operational budget            │
+   │ [X] No bonuses, no monetary rewards, no compensation increases         │
    └────────────────────────────────────────────────────────────────────────┘
 
 >> WHY THIS MATTERS:

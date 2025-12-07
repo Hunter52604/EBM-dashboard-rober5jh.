@@ -51,7 +51,8 @@ X (Problem):                    M (Intervention):                Y (Outcome):
 4. What specific engagement areas show the lowest scores?
 5. What is typical turnover intent in federal organizations?
 
-**Why This Matters (CEBMa Module 8):** Organizational evidence validates whether our assumed problem exists and how severe it is compared to benchmarks.
+**Why This Matters (CEBMa Module 8):** Organizational evidence validates whether our assumed problem exists
+ and how severe it is compared to benchmarks.
 
 
 ## Professional Data Repository Used
@@ -150,4 +151,5 @@ X (Problem):                    M (Intervention):                Y (Outcome):
 - Engagement by specific question (to identify lowest areas)
 - Turnover intent percentage
 
-**Why Hypothesis-Led (CEBMa Module 8):** Prevents "fishing expedition" - we're testing specific assumptions about our problem, not randomly exploring data.
+**Why Hypothesis-Led (CEBMa Module 8):** Prevents "fishing expedition" - we're testing specific assumptions
+ about our problem, not randomly exploring data.
