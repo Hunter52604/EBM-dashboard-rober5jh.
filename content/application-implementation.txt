@@ -182,7 +182,7 @@
 **Final Survey (Week 13):**
 - Same 10 questions as baseline
 - Target: >80% response rate
-- Results inform Continue/Adjust/Pivot decision (see Assessment tab for criteria)
+- Results inform Continue/Adjust/Pivot decision
 
 **Key Performance Indicators:**
 
@@ -196,8 +196,6 @@
 ┃ Feels Genuine:       ~50% → >70%       [Target]          Red flag: <50%  ┃
 ┃ Manager Entries:     0 → 40 each       [Target]          Red flag: <10   ┃
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-
-**Next Step:** See Assessment tab for full evaluation design and decision criteria.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
                               RISK MANAGEMENT

@@ -373,6 +373,5 @@ Evidence is highly relevant to our problem and solution, with uncertainty about 
 **What We Did:**
 - Used two independent sources to cross-check
 - Recognize gaps
-- Will add scientific + organizational evidence in next steps
 
 **Confidence Level:** MEDIUM-HIGH (good practitioner evidence, needs scientific validation)

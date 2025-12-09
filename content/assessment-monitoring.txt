@@ -426,3 +426,4 @@
 **Negative:** Recognition inflation | Manager burnout | Employee discomfort | Favoritism | Client decline | Superficiality
 → Pulse surveys ask negative effects, monitor distribution equity, client NPS, time logs, code themes
 
+---
