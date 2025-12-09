@@ -174,16 +174,6 @@
             font-family: 'Segoe UI', sans-serif;
         }
 
-        .edit-notice {
-            background: #fff3cd;
-            border: 1px solid #ffeaa7;
-            color: #856404;
-            padding: 10px;
-            border-radius: 5px;
-            margin: 10px 0;
-            font-size: 0.8em;
-        }
-
         .evidence-type {
             display: inline-block;
             padding: 8px 15px;
@@ -398,7 +388,7 @@
 
                     <div class="content-file-preview" onclick="openContentFile('ask-problem-definition.txt')">
                         <h4>📝 content/ask-problem-definition.txt</h4>
-                        <div class="edit-notice">🖊️ Click to edit this file in VS Code</div>
+
                         <pre id="problem-definition-content">[This content will load from your .txt file]
 
 Use the X → Y Framework and PICOC Framework to define your management problem clearly.
@@ -407,7 +397,7 @@ See the template file for detailed prompts and structure.</pre>
 
                     <div class="content-file-preview" onclick="openContentFile('ask-stakeholder-analysis.txt')">
                         <h4>📝 content/ask-stakeholder-analysis.txt</h4>
-                        <div class="edit-notice">🖊️ Click to edit this file in VS Code</div>
+
                         <pre id="stakeholder-analysis-content">[This content will load from your .txt file]
 
 Identify all stakeholders affected by your problem and potential solution.
@@ -416,7 +406,7 @@ Consider internal and external stakeholders, their interests, and influence leve
 
                     <div class="content-file-preview" onclick="openContentFile('ask-success-criteria.txt')">
                         <h4>📝 content/ask-success-criteria.txt</h4>
-                        <div class="edit-notice">🖊️ Click to edit this file in VS Code</div>
+
                         <pre id="success-criteria-content">[This content will load from your .txt file]
 
 Define specific, measurable criteria for success.
@@ -468,21 +458,16 @@ How will you know if your evidence-based solution worked?</pre>
 
                         <div class="content-file-preview" onclick="openContentFile('evidence-scientific-methods.txt')">
                             <h4>📝 content/evidence-scientific-methods.txt</h4>
-                            <div class="edit-notice">🖊️ Click to edit this file in VS Code</div>
+
                             <pre>[Document your search strategy, databases used, keywords, and selection criteria]</pre>
                         </div>
 
                         <div class="content-file-preview" onclick="openContentFile('evidence-scientific-sources.txt')">
                             <h4>📝 content/evidence-scientific-sources.txt</h4>
-                            <div class="edit-notice">🖊️ Click to edit this file in VS Code</div>
+
                             <pre>[List and summarize the research studies, meta-analyses, and systematic reviews you found]</pre>
                         </div>
 
-                        <div class="content-file-preview" onclick="openContentFile('evidence-scientific-appraisal.txt')">
-                            <h4>📝 content/evidence-scientific-appraisal.txt</h4>
-                            <div class="edit-notice">🖊️ Click to edit this file in VS Code</div>
-                            <pre>[Evaluate the quality, reliability, and relevance of your scientific evidence]</pre>
-                        </div>
                     </div>
 
                     <!-- Practitioner Evidence Section -->
@@ -491,20 +476,14 @@ How will you know if your evidence-based solution worked?</pre>
 
                         <div class="content-file-preview" onclick="openContentFile('evidence-practitioner-methods.txt')">
                             <h4>📝 content/evidence-practitioner-methods.txt</h4>
-                            <div class="edit-notice">🖊️ Click to edit this file in VS Code</div>
+
                             <pre>[Document how you collected practitioner insights, interviews, case studies]</pre>
                         </div>
 
                         <div class="content-file-preview" onclick="openContentFile('evidence-practitioner-sources.txt')">
                             <h4>📝 content/evidence-practitioner-sources.txt</h4>
-                            <div class="edit-notice">🖊️ Click to edit this file in VS Code</div>
-                            <pre>[Summarize expert interviews, case studies, and professional experience]</pre>
-                        </div>
 
-                        <div class="content-file-preview" onclick="openContentFile('evidence-practitioner-appraisal.txt')">
-                            <h4>📝 content/evidence-practitioner-appraisal.txt</h4>
-                            <div class="edit-notice">🖊️ Click to edit this file in VS Code</div>
-                            <pre>[Assess the credibility and relevance of practitioner evidence]</pre>
+                            <pre>[List professional publications, expert consultations, and case studies]</pre>
                         </div>
                     </div>
 
@@ -514,20 +493,14 @@ How will you know if your evidence-based solution worked?</pre>
 
                         <div class="content-file-preview" onclick="openContentFile('evidence-organizational-methods.txt')">
                             <h4>📝 content/evidence-organizational-methods.txt</h4>
-                            <div class="edit-notice">🖊️ Click to edit this file in VS Code</div>
+
                             <pre>[Document internal data collection methods and sources]</pre>
                         </div>
 
                         <div class="content-file-preview" onclick="openContentFile('evidence-organizational-sources.txt')">
                             <h4>📝 content/evidence-organizational-sources.txt</h4>
-                            <div class="edit-notice">🖊️ Click to edit this file in VS Code</div>
-                            <pre>[Present internal data, KPIs, reports, and organizational studies]</pre>
-                        </div>
 
-                        <div class="content-file-preview" onclick="openContentFile('evidence-organizational-appraisal.txt')">
-                            <h4>📝 content/evidence-organizational-appraisal.txt</h4>
-                            <div class="edit-notice">🖊️ Click to edit this file in VS Code</div>
-                            <pre>[Evaluate the quality and limitations of organizational data]</pre>
+                            <pre>[Present internal data, KPIs, reports, and organizational studies]</pre>
                         </div>
                     </div>
 
@@ -537,20 +510,14 @@ How will you know if your evidence-based solution worked?</pre>
 
                         <div class="content-file-preview" onclick="openContentFile('evidence-stakeholder-methods.txt')">
                             <h4>📝 content/evidence-stakeholder-methods.txt</h4>
-                            <div class="edit-notice">🖊️ Click to edit this file in VS Code</div>
+
                             <pre>[Document stakeholder engagement methods, surveys, interviews]</pre>
                         </div>
 
                         <div class="content-file-preview" onclick="openContentFile('evidence-stakeholder-sources.txt')">
                             <h4>📝 content/evidence-stakeholder-sources.txt</h4>
-                            <div class="edit-notice">🖊️ Click to edit this file in VS Code</div>
-                            <pre>[Summarize stakeholder feedback, surveys, and input]</pre>
-                        </div>
 
-                        <div class="content-file-preview" onclick="openContentFile('evidence-stakeholder-appraisal.txt')">
-                            <h4>📝 content/evidence-stakeholder-appraisal.txt</h4>
-                            <div class="edit-notice">🖊️ Click to edit this file in VS Code</div>
-                            <pre>[Assess the representativeness and reliability of stakeholder evidence]</pre>
+                            <pre>[Summarize stakeholder feedback, surveys, and input]</pre>
                         </div>
                     </div>
                 </div>
@@ -572,7 +539,7 @@ How will you know if your evidence-based solution worked?</pre>
 
                     <div class="content-file-preview" onclick="openContentFile('synthesis-integration.txt')">
                         <h4>📝 content/synthesis-integration.txt</h4>
-                        <div class="edit-notice">🖊️ Click to edit this file in VS Code</div>
+
                         <pre id="evidence-synthesis-content">[Synthesize evidence from all four sources to reach evidence-based conclusions]
 
 Document areas of agreement, disagreement, and evidence quality.
@@ -587,7 +554,7 @@ Weight the evidence and form recommendations.</pre>
 
                     <div class="content-file-preview" onclick="openContentFile('application-implementation.txt')">
                         <h4>📝 content/application-implementation.txt</h4>
-                        <div class="edit-notice">🖊️ Click to edit this file in VS Code</div>
+
                         <pre>[Create detailed implementation plan with timeline, resources, and stakeholder communication]</pre>
                     </div>
                 </div>
@@ -610,7 +577,7 @@ Weight the evidence and form recommendations.</pre>
 
                     <div class="content-file-preview" onclick="openContentFile('assessment-monitoring.txt')">
                         <h4>📝 content/assessment-monitoring.txt</h4>
-                        <div class="edit-notice">🖊️ Click to edit this file in VS Code</div>
+
                         <pre>[Evaluate the effectiveness of your EBM process and solution]</pre>
                     </div>
 
