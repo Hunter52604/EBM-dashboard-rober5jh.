@@ -560,4 +560,3 @@ and practically significant. 28% turnover reduction matches our target exactly.
 ---
 
 **END OF SYNTHESIS**
-**Next Step:** Use these confidence levels to build recommendations in APPLY phase.

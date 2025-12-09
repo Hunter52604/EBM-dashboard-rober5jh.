@@ -401,7 +401,7 @@ Senior Leader               73.2%
 - Third variable (bad economy → both low engagement AND people stay)
 - Selection effect (engaged people less likely to quit)
 
-**How we addressed:** Labeled as "evidence for hypothesis" not "proof," will supplement with scientific evidence
+**How we addressed:** Labeled as "evidence for hypothesis" not "proof," supplemented with scientific evidence
 
 **Severity:** HIGH - Critical limitation
 
